@@ -5,6 +5,8 @@ on:
     - cron: "0 */4 * * *" # every 4 hours at minute 0
   workflow_dispatch: # allows manual trigger
 
+permissions:
+  contents: write
 jobs:
   translate:
     runs-on: ubuntu-latest

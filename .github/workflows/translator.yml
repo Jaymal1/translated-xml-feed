@@ -1,20 +1,20 @@
-name: Run XML Translator Every 4 Hours
+name: Run XML Translators
 
 on:
   schedule:
     - cron: "0 */4 * * *" # Every 4 hours
-  workflow_dispatch: # Allow manual run from GitHub
+  workflow_dispatch: # Allows manual triggering from GitHub UI
 
 jobs:
-  run-translator:
+  run-translators:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v4
         with:
           python-version: "3.10"
 
@@ -23,5 +23,8 @@ jobs:
           python -m pip install --upgrade pip
           pip install deep-translator forex-python requests
 
-      - name: Run translation script
-        run: python translate_xml.py
+      - name: Run translatexml_ayakkabi.py
+        run: python translatexml_ayakkabi.py
+
+      - name: Run translatexml_icgiyim.py
+        run: python translatexml_icgiyim.py

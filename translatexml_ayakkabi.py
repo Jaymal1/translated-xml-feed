@@ -230,10 +230,14 @@ translated_root = ET.Element(root.tag)
 for product in final_products.values():
     translated_root.append(product)
 
-rough_string = ET.tostring(translated_root, encoding='utf-8')
-reparsed = xml.dom.minidom.parseString(rough_string)
-with open(translated_file, "w", encoding="utf-8") as f:
-    f.write(reparsed.toprettyxml(indent="  "))
-
+tree = ET.ElementTree(translated_root)
+tree.write(translated_file, encoding="utf-8", xml_declaration=True)
 print(f"Updated translations saved to {translated_file}")
+
+#rough_string = ET.tostring(translated_root, encoding='utf-8')
+#reparsed = xml.dom.minidom.parseString(rough_string)
+#with open(translated_file, "w", encoding="utf-8") as f:
+    #f.write(reparsed.toprettyxml(indent="  "))
+
+#print(f"Updated translations saved to {translated_file}")
 

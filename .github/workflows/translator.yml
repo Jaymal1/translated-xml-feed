@@ -31,6 +31,9 @@ jobs:
       - name: Run translatexml_icgiyim.py
         run: python translatexml_icgiyim.py
 
+      - name: Run translatexml_yakamoz.py
+        run: python translatexml_yakamoz.py
+
       - name: Commit and push updated XML files
         run: |
           git config user.name "github-actions[bot]"

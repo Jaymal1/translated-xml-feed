@@ -746,8 +746,20 @@ def run_script3():
     print(f"Script 3 completed. Translated {processed_this_run} new products.")
 
 
-def run_script(request=None):
+# def run_script(request=None):
+#     run_script1()
+#     run_script2()
+#     run_script3()
+#     return "All three scripts executed successfully!"
+def run_script():
+    print("Starting XML translation scripts...\n")
     run_script1()
+    print("\nFinished Script 1 (Gecelik)\n")
+    
     run_script2()
+    print("\nFinished Script 2 (Ayakkabi)\n")
+    
     run_script3()
-    return "All three scripts executed successfully!"
+    print("\nFinished Script 3 (Moda Yakamoz)\n")
+    
+    print("All scripts completed.")

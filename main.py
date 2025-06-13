@@ -644,13 +644,15 @@ def run_script2():
 
 def run_script3():
     print("Running Script 3 (Moda Yakamoz XML)...")
+
     url = "https://modayakamoz.com/xml/yalin1"
     response = requests.get(url)
-    with open("original_moda.xml", "wb") as f:
+    with open("original_modayakamoz.xml", "wb") as f:
         f.write(response.content)
 
-    tree = ET.parse("original_moda.xml")
+    tree = ET.parse("original_modayakamoz.xml")
     root = tree.getroot()
+
     translator = GoogleTranslator(source='auto', target='en')
     currency = CurrencyRates()
     try:
@@ -659,31 +661,47 @@ def run_script3():
         print(f"Currency API failed. Using fallback rate. Error: {e}")
         rate = 0.031
 
-    processed_ids_file = "processed_ids_moda.json"
+    processed_ids_file = "processed_ids_modayakamoz.json"
     processed_ids = load_processed_ids(processed_ids_file)
     new_processed_ids = set()
+
     translated_root = ET.Element(root.tag)
     products = root.findall(".//Product")
 
+    MAX_PRODUCTS_PER_RUN = 1000
+    processed_this_run = 0
+
     for i, product in enumerate(products, start=1):
-        product_id = get_product_id_moda(product)
+        if processed_this_run >= MAX_PRODUCTS_PER_RUN:
+            print(f"Reached batch limit of {MAX_PRODUCTS_PER_RUN} products. Stopping this run.")
+            break
+
+        product_id = get_product_id_ayakkabi(product)
         if product_id is None:
             print(f"Skipping product {i} with no valid ID.")
             continue
+
         if product_id in processed_ids:
             print(f"Skipping already processed product {i}")
-            translated_root.append(copy.deepcopy(product))
+            translated_root.append(copy.deepcopy(product))  # Append without translating
             continue
 
         print(f"Translating new product {i}...")
         product_copy = copy.deepcopy(product)
-        for tag in ["ProductName", "FullDescription", "Brand"]:
-            elem = product_copy.find(tag)
-            if elem is not None and elem.text:
-                try:
-                    elem.text = translator.translate(elem.text)
-                except Exception as e:
-                    print(f"{tag} translation error: {e}")
+
+        pname = product_copy.find("ProductName")
+        if pname is not None and pname.text:
+            try:
+                pname.text = translator.translate(pname.text)
+            except Exception as e:
+                print(f"ProductName translation error: {e}")
+
+        fdesc = product_copy.find("FullDescription")
+        if fdesc is not None and fdesc.text:
+            try:
+                fdesc.text = translator.translate(fdesc.text)
+            except Exception as e:
+                print(f"FullDescription translation error: {e}")
 
         price = product_copy.find("ProductPrice")
         if price is not None and price.text:
@@ -700,23 +718,33 @@ def run_script3():
                 attributes = combination.find("ProductAttributes")
                 if attributes is not None:
                     for attr in attributes.findall("ProductAttribute"):
-                        for tag in ["VariantName", "VariantValue"]:
-                            elem = attr.find(tag)
-                            if elem is not None and elem.text:
-                                try:
-                                    elem.text = translator.translate(elem.text)
-                                except Exception as e:
-                                    print(f"{tag} translation error: {e}")
+                        vname = attr.find("VariantName")
+                        vval = attr.find("VariantValue")
+                        if vname is not None and vname.text:
+                            try:
+                                vname.text = translator.translate(vname.text)
+                            except Exception as e:
+                                print(f"VariantName translation error: {e}")
+                        if vval is not None and vval.text:
+                            try:
+                                vval.text = translator.translate(vval.text)
+                            except Exception as e:
+                                print(f"VariantValue translation error: {e}")
 
         translated_root.append(product_copy)
         new_processed_ids.add(product_id)
+        processed_this_run += 1
 
-    save_processed_ids(processed_ids.union(new_processed_ids), processed_ids_file)
+    all_processed_ids = processed_ids.union(new_processed_ids)
+    save_processed_ids(all_processed_ids, processed_ids_file)
+
     rough_string = ET.tostring(translated_root, encoding='utf-8')
     reparsed = xml.dom.minidom.parseString(rough_string)
-    with open("translatedsample_moda.xml", "w", encoding="utf-8") as f:
+    with open("translatedsample_modayakamoz.xml", "w", encoding="utf-8") as f:
         f.write(reparsed.toprettyxml(indent="  "))
-    print("Script 3 completed.")
+
+    print(f"Script 3 completed. Translated {processed_this_run} new products.")
+
 
 def run_script(request=None):
     run_script1()

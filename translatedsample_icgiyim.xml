@@ -1,5 +1,41 @@
 <?xml version='1.0' encoding='utf-8'?>
-<Root><Urun>
+<Root><Urunler><Urun>
+      <UrunKartiID>1</UrunKartiID>
+      <UrunAdi>Test product</UrunAdi>
+      <OnYazi />
+      <Aciklama />
+      <Marka>Brand test</Marka>
+      <SatisBirimi>ADET</SatisBirimi>
+      <KategoriID>1</KategoriID>
+      <Kategori>Category Test</Kategori>
+      <KategoriTree>Category Test</KategoriTree>
+      <UrunUrl>https://gecelikmagazasi.com/test-urunu</UrunUrl>
+      <OzelAlan2 />
+      <Resimler>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/test-urunu-0-4f9d.png</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/test-urunu-98-0f7.png</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/test-urunu-c1d6b1.png</Resim>
+      </Resimler>
+      <UrunSecenek>
+        <Secenek>
+          <VaryasyonID>1</VaryasyonID>
+          <StokKodu>Test 0001</StokKodu>
+          <Barkod />
+          <StokAdedi>2</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0.31</SatisFiyati>
+          <IndirimliFiyat>10,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik />
+        </Secenek>
+      </UrunSecenek>
+      <TeknikDetaylar />
+    </Urun>
+    <Urun>
       <UrunKartiID>5</UrunKartiID>
       <UrunAdi>Bella Notte Seksi Siyah Tül Babydoll Gecelik 15500</UrunAdi>
       <OnYazi>&lt;img alt="" src="https://static.ticimax.cloud/67913//uploads/editoruploads/4-al-3-ode-2.svg" /&gt;</OnYazi>
@@ -2043,6 +2079,82 @@
           <EkSecenekOzellik>
             <Ozellik Tanim="Renk" Deger="KIRMIZI">KIRMIZI</Ozellik>
             <Ozellik Tanim="Beden" Deger="5XL">5XL</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+      </UrunSecenek>
+      <TeknikDetaylar />
+    </Urun>
+    <Urun>
+      <UrunKartiID>340</UrunKartiID>
+      <UrunAdi>Bella Notte Siyah Dantelli Etekli Babydoll Takım 16511</UrunAdi>
+      <OnYazi>&lt;img alt="" src="https://static.ticimax.cloud/67913//uploads/editoruploads/4-al-3-ode-2.svg" /&gt;</OnYazi>
+      <Aciklama>&lt;p&gt;Bella Notte Siyah Dantelli Etekli Babydoll Takım 16511&lt;/p&gt;&lt;p&gt;Paket İçeriği *Babydoll *Etek*Çorap&lt;/p&gt;&lt;p&gt;Bedenler : S/M- L/XL- 2XL/3XL  Ürünümüz ince tül ve dantelden üretilmişdir.&lt;/p&gt;&lt;p&gt;Transparan yapısı sayesinde bayan gecelik katagorisinde en çok tercih edilen modeller arasıdadır. %100 polyester Not :İncelediginiz Ürün Hijyen Kuralları Gereği İade Ve Değişimi Bulunmamaktadır.&lt;/p&gt;</Aciklama>
+      <Marka>BELLA NOTTE</Marka>
+      <SatisBirimi>ADET</SatisBirimi>
+      <KategoriID>3</KategoriID>
+      <Kategori>Fantezi Gecelik</Kategori>
+      <KategoriTree>Fantezi Giyim/Fantezi Gecelik</KategoriTree>
+      <UrunUrl>https://gecelikmagazasi.com/bella-notte-siyah-dantelli-etekli-babydoll-takim-16511-340</UrunUrl>
+      <OzelAlan2>16517-Serisi</OzelAlan2>
+      <Resimler>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Siyah-Dantelli-Etekli-Babydo-82c6.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Siyah-Dantelli-Etekli-Babydo-ee58.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Siyah-Dantelli-Etekli-Babydo-63a4.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Siyah-Dantelli-Etekli-Babydo-8435.jpg</Resim>
+      </Resimler>
+      <UrunSecenek>
+        <Secenek>
+          <VaryasyonID>962</VaryasyonID>
+          <StokKodu>16511.1.L/XL</StokKodu>
+          <Barkod>25448845324</Barkod>
+          <StokAdedi>2</StokAdedi>
+          <AlisFiyati>231,90</AlisFiyati>
+          <SatisFiyati>389,90</SatisFiyati>
+          <IndirimliFiyat>389,90</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>0</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="SİYAH">SİYAH</Ozellik>
+            <Ozellik Tanim="Beden" Deger="L/XL">L/XL</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>963</VaryasyonID>
+          <StokKodu>16511.1.S/M</StokKodu>
+          <Barkod>25448845326</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>231,90</AlisFiyati>
+          <SatisFiyati>389,90</SatisFiyati>
+          <IndirimliFiyat>389,90</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>0</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="SİYAH">SİYAH</Ozellik>
+            <Ozellik Tanim="Beden" Deger="S/M">S/M</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>964</VaryasyonID>
+          <StokKodu>16511.1.BIG</StokKodu>
+          <Barkod>25448845328</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>231,90</AlisFiyati>
+          <SatisFiyati>389,90</SatisFiyati>
+          <IndirimliFiyat>389,90</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>0</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="SİYAH">SİYAH</Ozellik>
+            <Ozellik Tanim="Beden" Deger="2XL-3XL">2XL-3XL</Ozellik>
           </EkSecenekOzellik>
         </Secenek>
       </UrunSecenek>
@@ -10481,6 +10593,102 @@
       <TeknikDetaylar />
     </Urun>
     <Urun>
+      <UrunKartiID>696</UrunKartiID>
+      <UrunAdi>Bella Notte Ekru Desenli Pamuklu Sabahlık 9661</UrunAdi>
+      <OnYazi>&lt;img alt="" src="https://static.ticimax.cloud/67913//uploads/editoruploads/4-al-3-ode-2.svg" /&gt;</OnYazi>
+      <Aciklama>Bella Notte Ekru Desenli Pamuklu Sabahlık 9661&lt;br /&gt;Bedenler : S-M-L-XL&lt;br /&gt;Materyal  : %100 Pamuk&lt;br /&gt;Yıkama talimatı : 30 derece sıcaklıkta hassas ve tersten yıkama yapınız. Havada kurutma önerilir.</Aciklama>
+      <Marka>BELLA NOTTE</Marka>
+      <SatisBirimi>ADET</SatisBirimi>
+      <KategoriID>47</KategoriID>
+      <Kategori>Sabahlık</Kategori>
+      <KategoriTree>Kadın Giyim/Sabahlık</KategoriTree>
+      <UrunUrl>https://gecelikmagazasi.com/bella-notte-ekru-desenli-pamuklu-sabahlik-9661-696</UrunUrl>
+      <OzelAlan2>9661-Serisi</OzelAlan2>
+      <Resimler>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Ekru-Desenli-Pamuklu-Sabahli-c659.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Ekru-Desenli-Pamuklu-Sabahli-e86a.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Ekru-Desenli-Pamuklu-Sabahli-e1e5.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Ekru-Desenli-Pamuklu-Sabahli-4355.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Ekru-Desenli-Pamuklu-Sabahli-0804.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Ekru-Desenli-Pamuklu-Sabahli-f4e2.jpg</Resim>
+      </Resimler>
+      <UrunSecenek>
+        <Secenek>
+          <VaryasyonID>2070</VaryasyonID>
+          <StokKodu>9661.5.S</StokKodu>
+          <Barkod>7000246767677</Barkod>
+          <StokAdedi>1</StokAdedi>
+          <AlisFiyati>303,90</AlisFiyati>
+          <SatisFiyati>479,90</SatisFiyati>
+          <IndirimliFiyat>479,90</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="GÜL KURUSU">GÜL KURUSU</Ozellik>
+            <Ozellik Tanim="Beden" Deger="S">S</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2071</VaryasyonID>
+          <StokKodu>9661.5.M</StokKodu>
+          <Barkod>7000246767678</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>303,90</AlisFiyati>
+          <SatisFiyati>479,90</SatisFiyati>
+          <IndirimliFiyat>479,90</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="GÜL KURUSU">GÜL KURUSU</Ozellik>
+            <Ozellik Tanim="Beden" Deger="M">M</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2072</VaryasyonID>
+          <StokKodu>9661.5.L</StokKodu>
+          <Barkod>7000246767679</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>303,90</AlisFiyati>
+          <SatisFiyati>479,90</SatisFiyati>
+          <IndirimliFiyat>479,90</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="GÜL KURUSU">GÜL KURUSU</Ozellik>
+            <Ozellik Tanim="Beden" Deger="L">L</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2073</VaryasyonID>
+          <StokKodu>9661.5.XL</StokKodu>
+          <Barkod>7000246767680</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>303,90</AlisFiyati>
+          <SatisFiyati>479,90</SatisFiyati>
+          <IndirimliFiyat>479,90</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="GÜL KURUSU">GÜL KURUSU</Ozellik>
+            <Ozellik Tanim="Beden" Deger="XL">XL</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+      </UrunSecenek>
+      <TeknikDetaylar />
+    </Urun>
+    <Urun>
       <UrunKartiID>697</UrunKartiID>
       <UrunAdi>Bella Notte Pembe Uzun Kollu Pamuklu Pijama Takımı 7103</UrunAdi>
       <OnYazi>&lt;img alt="" src="https://static.ticimax.cloud/67913//uploads/editoruploads/4-al-3-ode-2.svg" /&gt;</OnYazi>
@@ -18382,178 +18590,6 @@
       <TeknikDetaylar />
     </Urun>
     <Urun>
-      <UrunKartiID>340</UrunKartiID>
-      <UrunAdi>Bella Notte Siyah Dantelli Etekli Babydoll Takım 16511</UrunAdi>
-      <OnYazi>&lt;img alt="" src="https://static.ticimax.cloud/67913//uploads/editoruploads/4-al-3-ode-2.svg" /&gt;</OnYazi>
-      <Aciklama>&lt;p&gt;Bella Notte Siyah Dantelli Etekli Babydoll Takım 16511&lt;/p&gt;&lt;p&gt;Paket İçeriği *Babydoll *Etek*Çorap&lt;/p&gt;&lt;p&gt;Bedenler : S/M- L/XL- 2XL/3XL  Ürünümüz ince tül ve dantelden üretilmişdir.&lt;/p&gt;&lt;p&gt;Transparan yapısı sayesinde bayan gecelik katagorisinde en çok tercih edilen modeller arasıdadır. %100 polyester Not :İncelediginiz Ürün Hijyen Kuralları Gereği İade Ve Değişimi Bulunmamaktadır.&lt;/p&gt;</Aciklama>
-      <Marka>BELLA NOTTE</Marka>
-      <SatisBirimi>ADET</SatisBirimi>
-      <KategoriID>3</KategoriID>
-      <Kategori>Fantezi Gecelik</Kategori>
-      <KategoriTree>Fantezi Giyim/Fantezi Gecelik</KategoriTree>
-      <UrunUrl>https://gecelikmagazasi.com/bella-notte-siyah-dantelli-etekli-babydoll-takim-16511-340</UrunUrl>
-      <OzelAlan2>16517-Serisi</OzelAlan2>
-      <Resimler>
-        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Siyah-Dantelli-Etekli-Babydo-82c6.jpg</Resim>
-        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Siyah-Dantelli-Etekli-Babydo-ee58.jpg</Resim>
-        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Siyah-Dantelli-Etekli-Babydo-63a4.jpg</Resim>
-        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Siyah-Dantelli-Etekli-Babydo-8435.jpg</Resim>
-      </Resimler>
-      <UrunSecenek>
-        <Secenek>
-          <VaryasyonID>962</VaryasyonID>
-          <StokKodu>16511.1.L/XL</StokKodu>
-          <Barkod>25448845324</Barkod>
-          <StokAdedi>2</StokAdedi>
-          <AlisFiyati>231,90</AlisFiyati>
-          <SatisFiyati>389,90</SatisFiyati>
-          <IndirimliFiyat>389,90</IndirimliFiyat>
-          <KDVDahil>true</KDVDahil>
-          <KdvOrani>10</KdvOrani>
-          <ParaBirimi>TL</ParaBirimi>
-          <ParaBirimiKodu>TRY</ParaBirimiKodu>
-          <Desi>0</Desi>
-          <EkSecenekOzellik>
-            <Ozellik Tanim="Renk" Deger="SİYAH">SİYAH</Ozellik>
-            <Ozellik Tanim="Beden" Deger="L/XL">L/XL</Ozellik>
-          </EkSecenekOzellik>
-        </Secenek>
-        <Secenek>
-          <VaryasyonID>963</VaryasyonID>
-          <StokKodu>16511.1.S/M</StokKodu>
-          <Barkod>25448845326</Barkod>
-          <StokAdedi>0</StokAdedi>
-          <AlisFiyati>231,90</AlisFiyati>
-          <SatisFiyati>389,90</SatisFiyati>
-          <IndirimliFiyat>389,90</IndirimliFiyat>
-          <KDVDahil>true</KDVDahil>
-          <KdvOrani>10</KdvOrani>
-          <ParaBirimi>TL</ParaBirimi>
-          <ParaBirimiKodu>TRY</ParaBirimiKodu>
-          <Desi>0</Desi>
-          <EkSecenekOzellik>
-            <Ozellik Tanim="Renk" Deger="SİYAH">SİYAH</Ozellik>
-            <Ozellik Tanim="Beden" Deger="S/M">S/M</Ozellik>
-          </EkSecenekOzellik>
-        </Secenek>
-        <Secenek>
-          <VaryasyonID>964</VaryasyonID>
-          <StokKodu>16511.1.BIG</StokKodu>
-          <Barkod>25448845328</Barkod>
-          <StokAdedi>0</StokAdedi>
-          <AlisFiyati>231,90</AlisFiyati>
-          <SatisFiyati>389,90</SatisFiyati>
-          <IndirimliFiyat>389,90</IndirimliFiyat>
-          <KDVDahil>true</KDVDahil>
-          <KdvOrani>10</KdvOrani>
-          <ParaBirimi>TL</ParaBirimi>
-          <ParaBirimiKodu>TRY</ParaBirimiKodu>
-          <Desi>0</Desi>
-          <EkSecenekOzellik>
-            <Ozellik Tanim="Renk" Deger="SİYAH">SİYAH</Ozellik>
-            <Ozellik Tanim="Beden" Deger="2XL-3XL">2XL-3XL</Ozellik>
-          </EkSecenekOzellik>
-        </Secenek>
-      </UrunSecenek>
-      <TeknikDetaylar />
-    </Urun>
-    <Urun>
-      <UrunKartiID>696</UrunKartiID>
-      <UrunAdi>Bella Notte Ekru Desenli Pamuklu Sabahlık 9661</UrunAdi>
-      <OnYazi>&lt;img alt="" src="https://static.ticimax.cloud/67913//uploads/editoruploads/4-al-3-ode-2.svg" /&gt;</OnYazi>
-      <Aciklama>Bella Notte Ekru Desenli Pamuklu Sabahlık 9661&lt;br /&gt;Bedenler : S-M-L-XL&lt;br /&gt;Materyal  : %100 Pamuk&lt;br /&gt;Yıkama talimatı : 30 derece sıcaklıkta hassas ve tersten yıkama yapınız. Havada kurutma önerilir.</Aciklama>
-      <Marka>BELLA NOTTE</Marka>
-      <SatisBirimi>ADET</SatisBirimi>
-      <KategoriID>47</KategoriID>
-      <Kategori>Sabahlık</Kategori>
-      <KategoriTree>Kadın Giyim/Sabahlık</KategoriTree>
-      <UrunUrl>https://gecelikmagazasi.com/bella-notte-ekru-desenli-pamuklu-sabahlik-9661-696</UrunUrl>
-      <OzelAlan2>9661-Serisi</OzelAlan2>
-      <Resimler>
-        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Ekru-Desenli-Pamuklu-Sabahli-c659.jpg</Resim>
-        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Ekru-Desenli-Pamuklu-Sabahli-e86a.jpg</Resim>
-        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Ekru-Desenli-Pamuklu-Sabahli-e1e5.jpg</Resim>
-        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Ekru-Desenli-Pamuklu-Sabahli-4355.jpg</Resim>
-        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Ekru-Desenli-Pamuklu-Sabahli-0804.jpg</Resim>
-        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Ekru-Desenli-Pamuklu-Sabahli-f4e2.jpg</Resim>
-      </Resimler>
-      <UrunSecenek>
-        <Secenek>
-          <VaryasyonID>2070</VaryasyonID>
-          <StokKodu>9661.5.S</StokKodu>
-          <Barkod>7000246767677</Barkod>
-          <StokAdedi>1</StokAdedi>
-          <AlisFiyati>303,90</AlisFiyati>
-          <SatisFiyati>479,90</SatisFiyati>
-          <IndirimliFiyat>479,90</IndirimliFiyat>
-          <KDVDahil>true</KDVDahil>
-          <KdvOrani>10</KdvOrani>
-          <ParaBirimi>TL</ParaBirimi>
-          <ParaBirimiKodu>TRY</ParaBirimiKodu>
-          <Desi>1</Desi>
-          <EkSecenekOzellik>
-            <Ozellik Tanim="Renk" Deger="GÜL KURUSU">GÜL KURUSU</Ozellik>
-            <Ozellik Tanim="Beden" Deger="S">S</Ozellik>
-          </EkSecenekOzellik>
-        </Secenek>
-        <Secenek>
-          <VaryasyonID>2071</VaryasyonID>
-          <StokKodu>9661.5.M</StokKodu>
-          <Barkod>7000246767678</Barkod>
-          <StokAdedi>0</StokAdedi>
-          <AlisFiyati>303,90</AlisFiyati>
-          <SatisFiyati>479,90</SatisFiyati>
-          <IndirimliFiyat>479,90</IndirimliFiyat>
-          <KDVDahil>true</KDVDahil>
-          <KdvOrani>10</KdvOrani>
-          <ParaBirimi>TL</ParaBirimi>
-          <ParaBirimiKodu>TRY</ParaBirimiKodu>
-          <Desi>1</Desi>
-          <EkSecenekOzellik>
-            <Ozellik Tanim="Renk" Deger="GÜL KURUSU">GÜL KURUSU</Ozellik>
-            <Ozellik Tanim="Beden" Deger="M">M</Ozellik>
-          </EkSecenekOzellik>
-        </Secenek>
-        <Secenek>
-          <VaryasyonID>2072</VaryasyonID>
-          <StokKodu>9661.5.L</StokKodu>
-          <Barkod>7000246767679</Barkod>
-          <StokAdedi>0</StokAdedi>
-          <AlisFiyati>303,90</AlisFiyati>
-          <SatisFiyati>479,90</SatisFiyati>
-          <IndirimliFiyat>479,90</IndirimliFiyat>
-          <KDVDahil>true</KDVDahil>
-          <KdvOrani>10</KdvOrani>
-          <ParaBirimi>TL</ParaBirimi>
-          <ParaBirimiKodu>TRY</ParaBirimiKodu>
-          <Desi>1</Desi>
-          <EkSecenekOzellik>
-            <Ozellik Tanim="Renk" Deger="GÜL KURUSU">GÜL KURUSU</Ozellik>
-            <Ozellik Tanim="Beden" Deger="L">L</Ozellik>
-          </EkSecenekOzellik>
-        </Secenek>
-        <Secenek>
-          <VaryasyonID>2073</VaryasyonID>
-          <StokKodu>9661.5.XL</StokKodu>
-          <Barkod>7000246767680</Barkod>
-          <StokAdedi>0</StokAdedi>
-          <AlisFiyati>303,90</AlisFiyati>
-          <SatisFiyati>479,90</SatisFiyati>
-          <IndirimliFiyat>479,90</IndirimliFiyat>
-          <KDVDahil>true</KDVDahil>
-          <KdvOrani>10</KdvOrani>
-          <ParaBirimi>TL</ParaBirimi>
-          <ParaBirimiKodu>TRY</ParaBirimiKodu>
-          <Desi>1</Desi>
-          <EkSecenekOzellik>
-            <Ozellik Tanim="Renk" Deger="GÜL KURUSU">GÜL KURUSU</Ozellik>
-            <Ozellik Tanim="Beden" Deger="XL">XL</Ozellik>
-          </EkSecenekOzellik>
-        </Secenek>
-      </UrunSecenek>
-      <TeknikDetaylar />
-    </Urun>
-    <Urun>
       <UrunKartiID>827</UrunKartiID>
       <UrunAdi>Bella Notte Gül Kurusu Fiyonklu V Yaka Yazlık Pijama Takımı 7315</UrunAdi>
       <OnYazi />
@@ -18647,4 +18683,4 @@
       </UrunSecenek>
       <TeknikDetaylar />
     </Urun>
-    </Root>
+    </Urunler></Root>

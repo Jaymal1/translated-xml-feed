@@ -1,1 +1,4 @@
+requests
+deep_translator
+forex-python
 

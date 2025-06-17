@@ -437,7 +437,7 @@ def translate_text(text):
     try:
         translated = GoogleTranslator(source='tr', target='en').translate(text)
         translation_cache[text] = translated
-        time.sleep(0.5)  # To avoid rate limits
+        time.sleep(0.5)  # Avoid rate limits
         return translated
     except Exception as e:
         print(f"Translation failed for: {text}\nError: {e}")
@@ -445,8 +445,7 @@ def translate_text(text):
 
 def convert_price(try_price):
     try:
-        # Dummy conversion rate, should be updated with real-time API if needed
-        usd_rate = 0.031
+        usd_rate = 0.031  # Example rate
         return round(float(try_price) * usd_rate, 2)
     except:
         return try_price
@@ -476,15 +475,15 @@ except ET.ParseError as e:
     print("XML parsing failed. Check debug_raw_ayakkabi.xml for the raw content.")
     raise e
 
-# Load existing
+# Load existing translations
 existing_translations = load_existing_translations()
 translated_root = ET.Element("Products")
 
 for product in root.findall("Product"):
     pid = product.find("ProductId").text
 
-    # If product exists, update stock info
     if pid in existing_translations:
+        # Update stock for existing product
         existing = existing_translations[pid]
         existing.find("ProductStockQuantity").text = product.find("ProductStockQuantity").text
         for pc_old, pc_new in zip(existing.findall("ProductCombinations/ProductCombination"), product.findall("ProductCombinations/ProductCombination")):
@@ -492,19 +491,20 @@ for product in root.findall("Product"):
         translated_root.append(existing)
         continue
 
-    # Translate new product
+    # Create new translated product
     new_product = ET.Element("Product")
     for child in product:
         tag = child.tag
+
         if tag == "ProductName":
-            elem = ET.SubElement(new_product, "ProductName")
-            elem.text = translate_text(child.text or "")
+            e = ET.SubElement(new_product, "ProductName")
+            e.text = translate_text(child.text or "")
         elif tag == "FullDescription":
-            elem = ET.SubElement(new_product, "FullDescription")
-            elem.text = translate_text(child.text or "")
+            e = ET.SubElement(new_product, "FullDescription")
+            e.text = translate_text(child.text or "")
         elif tag == "ProductPrice":
-            elem = ET.SubElement(new_product, "ProductPrice")
-            elem.text = str(convert_price(child.text or "0"))
+            e = ET.SubElement(new_product, "ProductPrice")
+            e.text = str(convert_price(child.text or "0"))
         elif tag == "ProductCombinations":
             combinations = ET.SubElement(new_product, "ProductCombinations")
             for pc in child.findall("ProductCombination"):
@@ -521,13 +521,21 @@ for product in root.findall("Product"):
                     else:
                         e = ET.SubElement(new_pc, c.tag)
                         e.text = c.text or ""
+        elif tag == "Pictures":
+            pictures = ET.SubElement(new_product, "Pictures")
+            for pic in child.findall("Picture"):
+                new_pic = ET.SubElement(pictures, "Picture")
+                url = pic.find("PictureUrl")
+                if url is not None:
+                    url_tag = ET.SubElement(new_pic, "PictureUrl")
+                    url_tag.text = url.text or ""
         else:
             e = ET.SubElement(new_product, tag)
             e.text = child.text or ""
 
     translated_root.append(new_product)
 
-# Save output XML
+# Save final XML
 translated_tree = ET.ElementTree(translated_root)
 translated_tree.write(OUTPUT_FILE, encoding="utf-8", xml_declaration=True)
 
@@ -535,4 +543,4 @@ translated_tree.write(OUTPUT_FILE, encoding="utf-8", xml_declaration=True)
 with open(TRANSLATION_CACHE, "w", encoding="utf-8") as f:
     json.dump(translation_cache, f, ensure_ascii=False, indent=2)
 
-print(f"Translated XML saved to {OUTPUT_FILE}")
+print(f"✅ Translated XML saved to {OUTPUT_FILE}")

@@ -419,7 +419,7 @@ from deep_translator import GoogleTranslator
 
 # Constants
 XML_URL = "https://www.ayakkabixml.com/index.php?route=ddaxml/xml_export&kullanici_adi=64f72a582b29a&sifre=53160962&key=da3fc42e3"
-OUTPUT_FILE = "translatesample_ayakkabi.xml"
+OUTPUT_FILE = "translatedsample_ayakkabi.xml"
 TRANSLATION_CACHE = "ayakkabi_translation_cache.json"
 
 # Load or initialize translation cache

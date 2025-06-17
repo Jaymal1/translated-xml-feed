@@ -412,123 +412,149 @@
 
 import xml.etree.ElementTree as ET
 from deep_translator import GoogleTranslator
-from forex_python.converter import CurrencyRates
+import requests
+import copy
 import os
+from datetime import datetime
 
-# Load the raw XML file
-raw_file = "debug_raw_ayakkabi.xml"
-tree = ET.parse(raw_file)
-root = tree.getroot()
+RAW_URL = "https://www.ayakkabixml.com/index.php?route=ddaxml/xml_export&kullanici_adi=64f72a582b29a&sifre=53160962&key=da3fc42e3"
+RAW_FILE = "debug_raw_ayakkabi.xml"
+TRANSLATED_FILE = "translatedsample_ayakkabi.xml"
 
-# Load or create the translated output XML
-output_file = "translatedsample_ayakkabi.xml"
+# Fetch and save the raw XML
+def fetch_raw_xml():
+    response = requests.get(RAW_URL)
+    with open(RAW_FILE, "wb") as f:
+        f.write(response.content)
 
-if os.path.exists(output_file):
-    output_tree = ET.parse(output_file)
-    output_root = output_tree.getroot()
-else:
-    output_root = ET.Element("Products")
-    output_tree = ET.ElementTree(output_root)
+# Load XML tree from file
+def load_tree(file_path):
+    tree = ET.parse(file_path)
+    return tree, tree.getroot()
 
-# Keep track of existing Product IDs to avoid duplicates
-existing_ids = set()
-for product in output_root.findall("Product"):
-    pid = product.find("ProductId")
-    if pid is not None:
-        existing_ids.add(pid.text)
+# Save XML tree to file
+def save_tree(tree, file_path):
+    tree.write(file_path, encoding="utf-8", xml_declaration=True)
 
-# Set up translators and currency converter
-translator = GoogleTranslator(source='tr', target='en')
-currency = CurrencyRates()
-try:
-    rate = currency.get_rate('TRY', 'USD')
-except:
-    rate = 0.031  # fallback if API fails
-
-def translate_text(text):
-    if text is None or text.strip() == "":
-        return ""
+# Get USD exchange rate from TRY
+def get_usd_rate():
     try:
-        return translator.translate(text.strip())
+        response = requests.get("https://api.exchangerate.host/latest?base=TRY&symbols=USD")
+        return response.json()["rates"]["USD"]
     except:
-        return text.strip()
+        return 0.031  # fallback rate
 
-for product in root.findall("Product"):
-    product_id = product.find("ProductId").text
-    if product_id in existing_ids:
-        continue
+# Translate text with fallback
+def translate_text(text):
+    try:
+        return GoogleTranslator(source="auto", target="en").translate(text)
+    except:
+        return text
 
-    product_elem = ET.SubElement(output_root, "Product")
-    for tag in ["ProductId", "ModelCode", "ProductSku", "ProductGtin", "Tax", "DeliveryTime"]:
-        val = product.find(tag)
-        if val is not None:
-            el = ET.SubElement(product_elem, tag)
-            el.text = val.text
+# Get all existing product IDs to avoid re-translating
+def get_existing_ids(root):
+    return {prod.find("ProductId").text for prod in root.findall("Product")}
 
-    # Translated fields
-    pname = product.find("ProductName")
-    desc = product.find("FullDescription")
-    color = product.find("ProductColor")
+# Main translation and merging logic
+def translate_and_merge():
+    fetch_raw_xml()
 
-    pname_el = ET.SubElement(product_elem, "ProductName")
-    pname_el.text = translate_text(pname.text) if pname is not None else ""
+    raw_tree, raw_root = load_tree(RAW_FILE)
 
-    desc_el = ET.SubElement(product_elem, "FullDescription")
-    desc_el.text = translate_text(desc.text) if desc is not None else ""
+    if os.path.exists(TRANSLATED_FILE):
+        translated_tree, translated_root = load_tree(TRANSLATED_FILE)
+    else:
+        translated_root = ET.Element("Products")
+        translated_tree = ET.ElementTree(translated_root)
 
-    color_el = ET.SubElement(product_elem, "ProductColor")
-    color_el.text = translate_text(color.text) if color is not None else ""
+    existing_ids = get_existing_ids(translated_root)
+    usd_rate = get_usd_rate()
 
-    # Price conversion
-    price = product.find("ProductPrice")
-    if price is not None:
-        try:
-            price_usd = float(price.text) * rate
-            price_el = ET.SubElement(product_elem, "ProductPrice")
-            price_el.text = f"{price_usd:.2f}"
-        except:
-            pass
+    for raw_product in raw_root.findall("Product"):
+        product_id = raw_product.find("ProductId").text
 
-    # Product Stock
-    stock = product.find("ProductStockQuantity")
-    if stock is not None:
-        stock_el = ET.SubElement(product_elem, "ProductStockQuantity")
-        stock_el.text = stock.text
+        # If product already exists, update stock only
+        existing_product = next((p for p in translated_root.findall("Product") if p.find("ProductId").text == product_id), None)
+        if existing_product:
+            # Update stock quantities
+            existing_product.find("ProductStockQuantity").text = raw_product.find("ProductStockQuantity").text
 
-    # Product Combinations and Variants
-    combinations = product.find("ProductCombinations")
-    if combinations is not None:
-        combos_el = ET.SubElement(product_elem, "ProductCombinations")
-        for combo in combinations.findall("ProductCombination"):
-            combo_el = ET.SubElement(combos_el, "ProductCombination")
-            for ctag in ["ProductCombinationId", "VariantGtin", "VariantStockQuantity"]:
-                cval = combo.find(ctag)
-                if cval is not None:
-                    c_el = ET.SubElement(combo_el, ctag)
-                    c_el.text = cval.text
-            attrs = combo.find("ProductAttributes")
-            if attrs is not None:
-                attrs_el = ET.SubElement(combo_el, "ProductAttributes")
-                for attr in attrs.findall("ProductAttribute"):
-                    attr_el = ET.SubElement(attrs_el, "ProductAttribute")
-                    vname = attr.find("VariantName")
-                    vval = attr.find("VariantValue")
-                    vn_el = ET.SubElement(attr_el, "VariantName")
-                    vn_el.text = translate_text(vname.text) if vname is not None else ""
-                    vv_el = ET.SubElement(attr_el, "VariantValue")
-                    vv_el.text = translate_text(vval.text) if vval is not None else ""
+            raw_combinations = raw_product.find("ProductCombinations")
+            translated_combinations = existing_product.find("ProductCombinations")
+            if raw_combinations is not None and translated_combinations is not None:
+                for raw_comb in raw_combinations.findall("ProductCombination"):
+                    comb_id = raw_comb.find("ProductCombinationId").text
+                    matching_comb = translated_combinations.find(f"./ProductCombination[ProductCombinationId='{comb_id}']")
+                    if matching_comb is not None:
+                        matching_comb.find("VariantStockQuantity").text = raw_comb.find("VariantStockQuantity").text
+            continue
 
-    # Pictures
-    pictures = product.find("Pictures")
-    if pictures is not None:
-        pictures_elem = ET.SubElement(product_elem, "Pictures")
-        for picture in pictures.findall("Picture"):
-            picture_elem = ET.SubElement(pictures_elem, "Picture")
-            url = picture.find("PictureUrl")
-            if url is not None:
-                url_elem = ET.SubElement(picture_elem, "PictureUrl")
-                url_elem.text = url.text.strip() if url.text else ""
+        # Translate new product
+        new_product = copy.deepcopy(raw_product)
 
-# Write the updated XML
-output_tree.write(output_file, encoding="utf-8", xml_declaration=True)
-print("Translation and picture inclusion complete.")
+        # Translate ProductName
+        name_tag = new_product.find("ProductName")
+        if name_tag is not None:
+            name_tag.text = translate_text(name_tag.text or "")
+
+        # Translate FullDescription
+        desc_tag = new_product.find("FullDescription")
+        if desc_tag is not None:
+            desc_tag.text = translate_text(desc_tag.text or "")
+
+        # Translate variant attributes
+        combinations = new_product.find("ProductCombinations")
+        if combinations is not None:
+            for comb in combinations.findall("ProductCombination"):
+                attrs = comb.find("ProductAttributes")
+                if attrs is not None:
+                    for attr in attrs.findall("ProductAttribute"):
+                        var_name = attr.find("VariantName")
+                        var_value = attr.find("VariantValue")
+                        if var_name is not None:
+                            var_name.text = translate_text(var_name.text or "")
+                        if var_value is not None:
+                            var_value.text = translate_text(var_value.text or "")
+
+        # Convert price from TRY to USD
+        price_tag = new_product.find("ProductPrice")
+        if price_tag is not None:
+            try:
+                price_try = float(price_tag.text)
+                price_usd = round(price_try * usd_rate, 2)
+                price_tag.text = str(price_usd)
+            except:
+                pass
+
+        # Copy Pictures
+        pictures_tag = raw_product.find("Pictures")
+        if pictures_tag is not None:
+            existing_pictures = new_product.find("Pictures")
+            if existing_pictures is not None:
+                new_product.remove(existing_pictures)
+            new_product.append(copy.deepcopy(pictures_tag))
+
+        # Copy Categories
+        categories_tag = raw_product.find("Categories")
+        if categories_tag is not None:
+            existing_categories = new_product.find("Categories")
+            if existing_categories is not None:
+                new_product.remove(existing_categories)
+            new_product.append(copy.deepcopy(categories_tag))
+
+        # Copy Manufacturers
+        manufacturers_tag = raw_product.find("Manufacturers")
+        if manufacturers_tag is not None:
+            existing_manufacturers = new_product.find("Manufacturers")
+            if existing_manufacturers is not None:
+                new_product.remove(existing_manufacturers)
+            new_product.append(copy.deepcopy(manufacturers_tag))
+
+        # Append translated product
+        translated_root.append(new_product)
+
+    save_tree(translated_tree, TRANSLATED_FILE)
+    print(f"[{datetime.now().isoformat()}] Translation completed and saved to {TRANSLATED_FILE}")
+
+if __name__ == "__main__":
+    translate_and_merge()

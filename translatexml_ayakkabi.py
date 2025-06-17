@@ -429,7 +429,14 @@ else:
 # Fetch XML
 resp = requests.get(URL, timeout=60)
 resp.raise_for_status()
-root = ET.fromstring(resp.content)
+with open("debug_raw_ayakkabi.xml", "wb") as f:
+    f.write(resp.content)
+
+try:
+    root = ET.fromstring(resp.content)
+except ET.ParseError as e:
+    print("XML parsing failed. Check debug_raw_ayakkabi.xml for the raw content.")
+    raise e
 
 translator = GoogleTranslator(source="auto", target="en")
 rate = CurrencyRates().get_rate("TRY", "USD")

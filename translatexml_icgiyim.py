@@ -371,107 +371,107 @@
 
 
 
-import os
-import requests
-import xml.etree.ElementTree as ET
-from deep_translator import GoogleTranslator
-from forex_python.converter import CurrencyRates
-import math
-import copy
+# import os
+# import requests
+# import xml.etree.ElementTree as ET
+# from deep_translator import GoogleTranslator
+# from forex_python.converter import CurrencyRates
+# import math
+# import copy
 
-# Config
-URL = "https://gecelikmagazasi.com/TicimaxXml/CB0C2D2195694477A0657C567D29C8AF"
-ORIGINAL_FILE = "original_icgiyim.xml"
-TRANSLATED_FILE = "translatedsample_icgiyim.xml"
+# # Config
+# URL = "https://gecelikmagazasi.com/TicimaxXml/CB0C2D2195694477A0657C567D29C8AF"
+# ORIGINAL_FILE = "original_icgiyim.xml"
+# TRANSLATED_FILE = "translatedsample_icgiyim.xml"
 
-# Download XML
-response = requests.get(URL, timeout=60)
-response.raise_for_status()
-with open(ORIGINAL_FILE, "wb") as f:
-    f.write(response.content)
-print("Downloaded XML.")
+# # Download XML
+# response = requests.get(URL, timeout=60)
+# response.raise_for_status()
+# with open(ORIGINAL_FILE, "wb") as f:
+#     f.write(response.content)
+# print("Downloaded XML.")
 
-# Parse XML
-tree = ET.parse(ORIGINAL_FILE)
-root = tree.getroot()
-products = root.find("Urunler").findall("Urun")
-print(f"Found {len(products)} products.")
+# # Parse XML
+# tree = ET.parse(ORIGINAL_FILE)
+# root = tree.getroot()
+# products = root.find("Urunler").findall("Urun")
+# print(f"Found {len(products)} products.")
 
-# Load existing translated output
-if os.path.exists(TRANSLATED_FILE) and os.path.getsize(TRANSLATED_FILE) > 0:
-    try:
-        old_root = ET.parse(TRANSLATED_FILE).getroot()
-        old_by_id = {p.findtext("UrunKartiID"): p for p in old_root.findall("Urun")}
-        print(f"Loaded {len(old_by_id)} previously translated.")
-    except ET.ParseError:
-        old_by_id = {}
-        print("Warning: Corrupted old XML. Ignoring.")
-else:
-    old_by_id = {}
-    print("No existing translated file.")
+# # Load existing translated output
+# if os.path.exists(TRANSLATED_FILE) and os.path.getsize(TRANSLATED_FILE) > 0:
+#     try:
+#         old_root = ET.parse(TRANSLATED_FILE).getroot()
+#         old_by_id = {p.findtext("UrunKartiID"): p for p in old_root.findall("Urun")}
+#         print(f"Loaded {len(old_by_id)} previously translated.")
+#     except ET.ParseError:
+#         old_by_id = {}
+#         print("Warning: Corrupted old XML. Ignoring.")
+# else:
+#     old_by_id = {}
+#     print("No existing translated file.")
 
-translator = GoogleTranslator(source="auto", target="en")
-try:
-    rate = CurrencyRates().get_rate("TRY", "USD")
-except Exception:
-    rate = 0.031
-print(f"Using exchange rate: {rate:.4f}")
+# translator = GoogleTranslator(source="auto", target="en")
+# try:
+#     rate = CurrencyRates().get_rate("TRY", "USD")
+# except Exception:
+#     rate = 0.031
+# print(f"Using exchange rate: {rate:.4f}")
 
-final_products = []
+# final_products = []
 
-for prod in products:
-    pid = prod.findtext("UrunKartiID")
-    if not pid:
-        continue
+# for prod in products:
+#     pid = prod.findtext("UrunKartiID")
+#     if not pid:
+#         continue
 
-    stok = sum(int(s.findtext("StokAdedi") or 0) for s in prod.findall(".//Secenek"))
-    if stok == 0:
-        continue
+#     stok = sum(int(s.findtext("StokAdedi") or 0) for s in prod.findall(".//Secenek"))
+#     if stok == 0:
+#         continue
 
-    if pid in old_by_id:
-        final_products.append(old_by_id[pid])
-        continue
+#     if pid in old_by_id:
+#         final_products.append(old_by_id[pid])
+#         continue
 
-    # New product → translate & convert
-    print(f"Translating new product {pid}")
-    cp = copy.deepcopy(prod)
+#     # New product → translate & convert
+#     print(f"Translating new product {pid}")
+#     cp = copy.deepcopy(prod)
 
-    for tag in ["UrunAdi", "Kategori", "KategoriTree", "Marka"]:
-        el = cp.find(tag)
-        if el is not None and el.text:
-            el.text = translator.translate(el.text)
+#     for tag in ["UrunAdi", "Kategori", "KategoriTree", "Marka"]:
+#         el = cp.find(tag)
+#         if el is not None and el.text:
+#             el.text = translator.translate(el.text)
 
-    price_el = cp.find(".//SatisFiyati")
-    if price_el is not None and price_el.text:
-        try:
-            tr = float(price_el.text.replace(",", "."))
-            price_el.text = f"{math.ceil(tr * rate * 100)/100:.2f}"
-        except:
-            pass
+#     price_el = cp.find(".//SatisFiyati")
+#     if price_el is not None and price_el.text:
+#         try:
+#             tr = float(price_el.text.replace(",", "."))
+#             price_el.text = f"{math.ceil(tr * rate * 100)/100:.2f}"
+#         except:
+#             pass
 
-    final_products.append(cp)
+#     final_products.append(cp)
 
-# Clean up old products not present or zero stock
-valid_ids = {p.findtext("UrunKartiID") for p in products}
-final_products = [
-    p for p in final_products
-    if p.findtext("UrunKartiID") in valid_ids and sum(int(s.findtext("StokAdedi") or 0) for s in p.findall(".//Secenek")) > 0
-]
+# # Clean up old products not present or zero stock
+# valid_ids = {p.findtext("UrunKartiID") for p in products}
+# final_products = [
+#     p for p in final_products
+#     if p.findtext("UrunKartiID") in valid_ids and sum(int(s.findtext("StokAdedi") or 0) for s in p.findall(".//Secenek")) > 0
+# ]
 
-# Write updated XML
-root_new = ET.Element("Root")
-uv = ET.SubElement(root_new, "Urunler")
-for p in final_products:
-    uv.append(p)
+# # Write updated XML
+# root_new = ET.Element("Root")
+# uv = ET.SubElement(root_new, "Urunler")
+# for p in final_products:
+#     uv.append(p)
 
-ET.ElementTree(root_new).write(
-    TRANSLATED_FILE,
-    encoding="utf-8",
-    xml_declaration=True,
-    method="xml",
-    short_empty_elements=True
-)
-print(f"Translated {len(final_products)} products to {TRANSLATED_FILE}.")
+# ET.ElementTree(root_new).write(
+#     TRANSLATED_FILE,
+#     encoding="utf-8",
+#     xml_declaration=True,
+#     method="xml",
+#     short_empty_elements=True
+# )
+# print(f"Translated {len(final_products)} products to {TRANSLATED_FILE}.")
 
 
 

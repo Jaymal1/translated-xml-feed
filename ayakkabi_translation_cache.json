@@ -1255,5 +1255,11 @@
   "<p>Renk: Siyah</p>\n<p>Detay: Topuklu&nbsp;</p>\n<p>Malzeme: Cilt</p>\n<p>Topuk Boyu: 10 Cm</p>\n<p>Taban Materyali: Jurdan Taban</p>\n<p>Kalıp: Standart Ayak Ölçülerine Göre Tam Kalıp.</p>": "<p> Color: Black </p>\n<p> Detail: Heels & nbsp; </p>\n<p> Material: Volume </p>\n<p> Heel length: 10 cm </p>\n<p> Base Material: Jurdan Base </p>\n<p> Mold: Full mold according to standard foot dimensions. </p>",
   "Arpil Beyaz Cilt Topuklu Ayakkabı": "Arpil White Skin Heels Shoes",
   "<p>Renk: Beyaz</p>\n<p>Detay: Topuklu&nbsp;</p>\n<p>Malzeme: Cilt</p>\n<p>Topuk Boyu: 10 Cm</p>\n<p>Taban Materyali: Jurdan Taban</p>\n<p>Kalıp: Standart Ayak Ölçülerine Göre Tam Kalıp.</p>": "<p> Color: White </p>\n<p> Detail: Heels & nbsp; </p>\n<p> Material: Volume </p>\n<p> Heel length: 10 cm </p>\n<p> Base Material: Jurdan Base </p>\n<p> Mold: Full mold according to standard foot dimensions. </p>",
-  "Akver Siyah Cilt Topuklu Bot": "Akver black skin heels boat"
+  "Akver Siyah Cilt Topuklu Bot": "Akver black skin heels boat",
+  "Biga Ten Cilt  Ayakkabı": "Biga skin shoes",
+  "<p>Renk: Ten</p>\n<p>Detay: Tokalı</p>\n<p>Topuk Boyu: 3 cm.</p>\n<p>Taban Materyali: Poliüratan Taban</p>\n<p>İç Materyali: Pad'li İç Taban.</p>\n<p>Kalıp: Standart Ayak Ölçülerine Göre Tam Kalıp.</p>": "<p> Color: Ten </p>\n<p> Detail: buckle </p>\n<p> Heel length: 3 cm. </p>\n<p> Base Material: Polyureran Base </p>\n<p> Internal Material: Pad's inner base. </p>\n<p> Mold: Full mold according to standard foot dimensions. </p>",
+  "Tinea Bej Cilt Oxford Ayakkabı": "Tinea beige skin oxford shoes",
+  "<p>Renk: Bej</p>\n<p>Detay: Topuklu&nbsp;</p>\n<p>Topuk Boyu: 4 cm.</p>\n<p>Taban Materyali: Poliuretan Taban</p>\n<p>İç Materyali: Pad'li İç Taban.</p>\n<p>Kalıp: Standart Ayak Ölçülerine Göre Tam Kalıp.</p>": "<p> Color: beige </p>\n<p> Detail: Heels & nbsp; </p>\n<p> Heel length: 4 cm. </p>\n<p> Base Material: Polyurethane Base </p>\n<p> Internal Material: Pad's inner base. </p>\n<p> Mold: Full mold according to standard foot dimensions. </p>",
+  "Meos Siyah Cilt Ayakkabı": "Meos black skin shoes",
+  "<p>Renk: Siyah</p>\n<p>Detay: Topuklu</p>\n<p>Topuk Boyu: 3 cm.</p>\n<p>Taban Materyali: Poliüratan Taban</p>\n<p>İç Materyali: Pad'li İç Taban.</p>\n<p>Kalıp: Standart Ayak Ölçülerine Göre Tam Kalıp.</p>": "<p> Color: Black </p>\n<p> Detail: Heels </p>\n<p> Heel length: 3 cm. </p>\n<p> Base Material: Polyureran Base </p>\n<p> Internal Material: Pad's inner base. </p>\n<p> Mold: Full mold according to standard foot dimensions. </p>"
 }

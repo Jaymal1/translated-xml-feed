@@ -429,130 +429,130 @@
 
 
 
-import os
-import json
-import hashlib
-import requests
-import xml.etree.ElementTree as ET
-from deep_translator import GoogleTranslator
-from forex_python.converter import CurrencyRates
-import math
-import copy
-import xml.dom.minidom
-import subprocess
+# import os
+# import json
+# import hashlib
+# import requests
+# import xml.etree.ElementTree as ET
+# from deep_translator import GoogleTranslator
+# from forex_python.converter import CurrencyRates
+# import math
+# import copy
+# import xml.dom.minidom
+# import subprocess
 
-def load_processed_ids(filename):
-    if os.path.exists(filename):
-        with open(filename, "r", encoding="utf-8") as f:
-            return set(json.load(f))
-    return set()
+# def load_processed_ids(filename):
+#     if os.path.exists(filename):
+#         with open(filename, "r", encoding="utf-8") as f:
+#             return set(json.load(f))
+#     return set()
 
-def save_processed_ids(ids, filename):
-    with open(filename, "w", encoding="utf-8") as f:
-        json.dump(list(ids), f)
+# def save_processed_ids(ids, filename):
+#     with open(filename, "w", encoding="utf-8") as f:
+#         json.dump(list(ids), f)
 
-def hash_text(text):
-    return hashlib.md5(text.strip().lower().encode("utf-8")).hexdigest()
+# def hash_text(text):
+#     return hashlib.md5(text.strip().lower().encode("utf-8")).hexdigest()
 
-def get_product_id_ayakkabi(product):
-    pname = product.find("ProductName")
-    if pname is not None and pname.text:
-        return hash_text(pname.text)
-    return None
+# def get_product_id_ayakkabi(product):
+#     pname = product.find("ProductName")
+#     if pname is not None and pname.text:
+#         return hash_text(pname.text)
+#     return None
 
-def run_ayakkabi_script():
-    print("Running Ayakkabi XML processing in main.py...")
-    url = "https://www.ayakkabixml.com/index.php?route=ddaxml/xml_export&kullanici_adi=64f72a582b29a&sifre=53160962&key=da3fc42e3"
-    response = requests.get(url)
-    with open("original_ayakkabi.xml", "wb") as f:
-        f.write(response.content)
+# def run_ayakkabi_script():
+#     print("Running Ayakkabi XML processing in main.py...")
+#     url = "https://www.ayakkabixml.com/index.php?route=ddaxml/xml_export&kullanici_adi=64f72a582b29a&sifre=53160962&key=da3fc42e3"
+#     response = requests.get(url)
+#     with open("original_ayakkabi.xml", "wb") as f:
+#         f.write(response.content)
 
-    tree = ET.parse("original_ayakkabi.xml")
-    root = tree.getroot()
-    translator = GoogleTranslator(source='auto', target='en')
-    currency = CurrencyRates()
-    try:
-        rate = currency.get_rate('TRY', 'USD')
-    except Exception as e:
-        print(f"Currency API failed. Using fallback rate. Error: {e}")
-        rate = 0.031
+#     tree = ET.parse("original_ayakkabi.xml")
+#     root = tree.getroot()
+#     translator = GoogleTranslator(source='auto', target='en')
+#     currency = CurrencyRates()
+#     try:
+#         rate = currency.get_rate('TRY', 'USD')
+#     except Exception as e:
+#         print(f"Currency API failed. Using fallback rate. Error: {e}")
+#         rate = 0.031
 
-    processed_ids_file = "processed_ids_ayakkabi.json"
-    processed_ids = load_processed_ids(processed_ids_file)
-    new_processed_ids = set()
-    translated_root = ET.Element(root.tag)
-    products = root.findall(".//Product")
+#     processed_ids_file = "processed_ids_ayakkabi.json"
+#     processed_ids = load_processed_ids(processed_ids_file)
+#     new_processed_ids = set()
+#     translated_root = ET.Element(root.tag)
+#     products = root.findall(".//Product")
 
-    for i, product in enumerate(products, start=1):
-        product_id = get_product_id_ayakkabi(product)
-        if product_id is None:
-            print(f"Skipping product {i} with no valid ID.")
-            continue
-        if product_id in processed_ids:
-            print(f"Skipping already processed product {i}")
-            translated_root.append(copy.deepcopy(product))
-            continue
+#     for i, product in enumerate(products, start=1):
+#         product_id = get_product_id_ayakkabi(product)
+#         if product_id is None:
+#             print(f"Skipping product {i} with no valid ID.")
+#             continue
+#         if product_id in processed_ids:
+#             print(f"Skipping already processed product {i}")
+#             translated_root.append(copy.deepcopy(product))
+#             continue
 
-        print(f"Translating new product {i}...")
-        product_copy = copy.deepcopy(product)
-        for tag in ["ProductName", "FullDescription"]:
-            elem = product_copy.find(tag)
-            if elem is not None and elem.text:
-                try:
-                    elem.text = translator.translate(elem.text)
-                except Exception as e:
-                    print(f"{tag} translation error: {e}")
+#         print(f"Translating new product {i}...")
+#         product_copy = copy.deepcopy(product)
+#         for tag in ["ProductName", "FullDescription"]:
+#             elem = product_copy.find(tag)
+#             if elem is not None and elem.text:
+#                 try:
+#                     elem.text = translator.translate(elem.text)
+#                 except Exception as e:
+#                     print(f"{tag} translation error: {e}")
 
-        price = product_copy.find("ProductPrice")
-        if price is not None and price.text:
-            try:
-                lira = float(price.text.replace(",", "."))
-                usd = math.ceil(lira * rate * 100) / 100.0
-                price.text = f"{usd:.2f}"
-            except Exception as e:
-                print(f"ProductPrice conversion error: {e}")
+#         price = product_copy.find("ProductPrice")
+#         if price is not None and price.text:
+#             try:
+#                 lira = float(price.text.replace(",", "."))
+#                 usd = math.ceil(lira * rate * 100) / 100.0
+#                 price.text = f"{usd:.2f}"
+#             except Exception as e:
+#                 print(f"ProductPrice conversion error: {e}")
 
-        combinations = product_copy.find("ProductCombinations")
-        if combinations is not None:
-            for combination in combinations.findall("ProductCombination"):
-                attributes = combination.find("ProductAttributes")
-                if attributes is not None:
-                    for attr in attributes.findall("ProductAttribute"):
-                        for tag in ["VariantName", "VariantValue"]:
-                            elem = attr.find(tag)
-                            if elem is not None and elem.text:
-                                try:
-                                    elem.text = translator.translate(elem.text)
-                                except Exception as e:
-                                    print(f"{tag} translation error: {e}")
+#         combinations = product_copy.find("ProductCombinations")
+#         if combinations is not None:
+#             for combination in combinations.findall("ProductCombination"):
+#                 attributes = combination.find("ProductAttributes")
+#                 if attributes is not None:
+#                     for attr in attributes.findall("ProductAttribute"):
+#                         for tag in ["VariantName", "VariantValue"]:
+#                             elem = attr.find(tag)
+#                             if elem is not None and elem.text:
+#                                 try:
+#                                     elem.text = translator.translate(elem.text)
+#                                 except Exception as e:
+#                                     print(f"{tag} translation error: {e}")
 
-        translated_root.append(product_copy)
-        new_processed_ids.add(product_id)
+#         translated_root.append(product_copy)
+#         new_processed_ids.add(product_id)
 
-    save_processed_ids(processed_ids.union(new_processed_ids), processed_ids_file)
-    rough_string = ET.tostring(translated_root, encoding='utf-8')
-    reparsed = xml.dom.minidom.parseString(rough_string)
-    with open("translatedsample_ayakkabi.xml", "w", encoding="utf-8") as f:
-        f.write(reparsed.toprettyxml(indent="  "))
-    print("Ayakkabi script completed.")
+#     save_processed_ids(processed_ids.union(new_processed_ids), processed_ids_file)
+#     rough_string = ET.tostring(translated_root, encoding='utf-8')
+#     reparsed = xml.dom.minidom.parseString(rough_string)
+#     with open("translatedsample_ayakkabi.xml", "w", encoding="utf-8") as f:
+#         f.write(reparsed.toprettyxml(indent="  "))
+#     print("Ayakkabi script completed.")
 
-def run_icgiyim_script():
-    print("Running IcGiyim XML translation script (translatexml_icgiyim.py)...")
-    result = subprocess.run(["python3", "translatexml_icgiyim.py"], capture_output=True, text=True)
-    print(result.stdout)
-    if result.stderr:
-        print(f"Errors:\n{result.stderr}")
-    print("IcGiyim script completed.")
+# def run_icgiyim_script():
+#     print("Running IcGiyim XML translation script (translatexml_icgiyim.py)...")
+#     result = subprocess.run(["python3", "translatexml_icgiyim.py"], capture_output=True, text=True)
+#     print(result.stdout)
+#     if result.stderr:
+#         print(f"Errors:\n{result.stderr}")
+#     print("IcGiyim script completed.")
 
-def run_all():
-    print("Starting XML translation scripts...\n")
-    run_ayakkabi_script()
-    print("\nFinished Ayakkabi processing.\n")
+# def run_all():
+#     print("Starting XML translation scripts...\n")
+#     run_ayakkabi_script()
+#     print("\nFinished Ayakkabi processing.\n")
 
-    run_icgiyim_script()
-    print("\nFinished IcGiyim processing.\n")
+#     run_icgiyim_script()
+#     print("\nFinished IcGiyim processing.\n")
 
-    print("All scripts completed.")
+#     print("All scripts completed.")
 
-if __name__ == "__main__":
-    run_all()
+# if __name__ == "__main__":
+#     run_all()

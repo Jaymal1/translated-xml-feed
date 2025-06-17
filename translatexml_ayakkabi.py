@@ -410,95 +410,129 @@
 
 
 
-import os, json, math, requests, xml.etree.ElementTree as ET
+import os
+import xml.etree.ElementTree as ET
+import requests
+import time
+import json
 from deep_translator import GoogleTranslator
-from forex_python.converter import CurrencyRates
 
 # Constants
-URL = "https://www.ayakkabixml.com/index.php?route=ddaxml/xml_export&kullanici_adi=...&key=..."
-OUTPUT = "translatesample_ayakkabi.xml"
-CACHE_FILE = "ayakkabi_cache.json"
+XML_URL = "https://www.ayakkabixml.com/index.php?route=ddaxml/xml_export&kullanici_adi=64f72a582b29a&sifre=53160962&key=da3fc42e3"
+OUTPUT_FILE = "translatesample_ayakkabi.xml"
+TRANSLATION_CACHE = "ayakkabi_translation_cache.json"
 
-# Load or init cache (tracks translated IDs and their ProductCombinationIds)
-if os.path.exists(CACHE_FILE):
-    with open(CACHE_FILE, "r", encoding="utf-8") as f:
-        cache = json.load(f)
+# Load or initialize translation cache
+if os.path.exists(TRANSLATION_CACHE):
+    with open(TRANSLATION_CACHE, "r", encoding="utf-8") as f:
+        translation_cache = json.load(f)
 else:
-    cache = {}
+    translation_cache = {}
 
-# Fetch XML
-resp = requests.get(URL, timeout=60)
-resp.raise_for_status()
+def translate_text(text):
+    if not text.strip():
+        return text
+    if text in translation_cache:
+        return translation_cache[text]
+    try:
+        translated = GoogleTranslator(source='tr', target='en').translate(text)
+        translation_cache[text] = translated
+        time.sleep(0.5)  # To avoid rate limits
+        return translated
+    except Exception as e:
+        print(f"Translation failed for: {text}\nError: {e}")
+        return text
+
+def convert_price(try_price):
+    try:
+        # Dummy conversion rate, should be updated with real-time API if needed
+        usd_rate = 0.031
+        return round(float(try_price) * usd_rate, 2)
+    except:
+        return try_price
+
+def load_existing_translations():
+    if not os.path.exists(OUTPUT_FILE):
+        return {}
+    try:
+        tree = ET.parse(OUTPUT_FILE)
+        root = tree.getroot()
+        existing = {}
+        for product in root.findall("Product"):
+            pid = product.find("ProductId").text
+            existing[pid] = product
+        return existing
+    except Exception as e:
+        print(f"Failed to load existing translations: {e}")
+        return {}
+
+# Download XML
+resp = requests.get(XML_URL)
 with open("debug_raw_ayakkabi.xml", "wb") as f:
     f.write(resp.content)
-
 try:
     root = ET.fromstring(resp.content)
 except ET.ParseError as e:
     print("XML parsing failed. Check debug_raw_ayakkabi.xml for the raw content.")
     raise e
 
-translator = GoogleTranslator(source="auto", target="en")
-rate = CurrencyRates().get_rate("TRY", "USD")
+# Load existing
+existing_translations = load_existing_translations()
+translated_root = ET.Element("Products")
 
-output_root = ET.Element(root.tag, root.attrib)
+for product in root.findall("Product"):
+    pid = product.find("ProductId").text
 
-new_cache = {}
-for prod in root.findall("./Product"):
-    pid = prod.findtext("ProductId")
-    if not pid: continue
+    # If product exists, update stock info
+    if pid in existing_translations:
+        existing = existing_translations[pid]
+        existing.find("ProductStockQuantity").text = product.find("ProductStockQuantity").text
+        for pc_old, pc_new in zip(existing.findall("ProductCombinations/ProductCombination"), product.findall("ProductCombinations/ProductCombination")):
+            pc_old.find("VariantStockQuantity").text = pc_new.find("VariantStockQuantity").text
+        translated_root.append(existing)
+        continue
 
-    # Price conversion
-    price_el = prod.find("ProductPrice")
-    if price_el is not None and price_el.text:
-        try:
-            tr = float(price_el.text.replace(",", "."))
-            price_usd = math.ceil(tr * rate * 100) / 100
-            price_el.text = f"{price_usd:.2f}"
-        except: pass
+    # Translate new product
+    new_product = ET.Element("Product")
+    for child in product:
+        tag = child.tag
+        if tag == "ProductName":
+            elem = ET.SubElement(new_product, "ProductName")
+            elem.text = translate_text(child.text or "")
+        elif tag == "FullDescription":
+            elem = ET.SubElement(new_product, "FullDescription")
+            elem.text = translate_text(child.text or "")
+        elif tag == "ProductPrice":
+            elem = ET.SubElement(new_product, "ProductPrice")
+            elem.text = str(convert_price(child.text or "0"))
+        elif tag == "ProductCombinations":
+            combinations = ET.SubElement(new_product, "ProductCombinations")
+            for pc in child.findall("ProductCombination"):
+                new_pc = ET.SubElement(combinations, "ProductCombination")
+                for c in pc:
+                    if c.tag == "ProductAttributes":
+                        pa = ET.SubElement(new_pc, "ProductAttributes")
+                        for attr in c.findall("ProductAttribute"):
+                            new_attr = ET.SubElement(pa, "ProductAttribute")
+                            vn = ET.SubElement(new_attr, "VariantName")
+                            vn.text = translate_text(attr.find("VariantName").text or "")
+                            vv = ET.SubElement(new_attr, "VariantValue")
+                            vv.text = attr.find("VariantValue").text or ""
+                    else:
+                        e = ET.SubElement(new_pc, c.tag)
+                        e.text = c.text or ""
+        else:
+            e = ET.SubElement(new_product, tag)
+            e.text = child.text or ""
 
-    # Update stock
-    prod_stock = prod.find("ProductStockQuantity")
-    if prod_stock is not None and prod_stock.text:
-        prod_stock.text = prod_stock.text.strip()
+    translated_root.append(new_product)
 
-    # Variants
-    for comb in prod.findall("./ProductCombinations/ProductCombination"):
-        vcid = comb.findtext("ProductCombinationId")
-        stock = comb.find("VariantStockQuantity")
-        if stock is not None and stock.text:
-            stock.text = stock.text.strip()
+# Save output XML
+translated_tree = ET.ElementTree(translated_root)
+translated_tree.write(OUTPUT_FILE, encoding="utf-8", xml_declaration=True)
 
-        if vcid and vcid not in cache.get(pid, []):
-            # New variant ⇒ translate
-            name_el = comb.find("./ProductAttributes/ProductAttribute/VariantName")
-            if name_el is not None and name_el.text:
-                name_el.text = translator.translate(name_el.text)
-            cache.setdefault(pid, []).append(vcid)
+# Save translation cache
+with open(TRANSLATION_CACHE, "w", encoding="utf-8") as f:
+    json.dump(translation_cache, f, ensure_ascii=False, indent=2)
 
-    # Translate product text if first time seen
-    if pid not in cache:
-        name_el = prod.find("ProductName")
-        if name_el is not None and name_el.text:
-            name_el.text = translator.translate(name_el.text)
-
-        desc_el = prod.find("FullDescription")
-        if desc_el is not None and desc_el.text:
-            desc_el.text = translator.translate(desc_el.text)
-
-    new_cache[pid] = cache.get(pid, [])
-
-    output_root.append(prod)
-
-# Save cache
-with open(CACHE_FILE, "w", encoding="utf-8") as f:
-    json.dump(new_cache, f, ensure_ascii=False, indent=2)
-
-# Write XML
-ET.ElementTree(output_root).write(
-    OUTPUT, encoding="utf-8", xml_declaration=True, short_empty_elements=True
-)
-print(f"↪ Saved {len(output_root)} products to `{OUTPUT}`")
-
-
-
+print(f"Translated XML saved to {OUTPUT_FILE}")

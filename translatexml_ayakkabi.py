@@ -525,10 +525,11 @@ for product in root.findall("Product"):
             pictures = ET.SubElement(new_product, "Pictures")
             for pic in child.findall("Picture"):
                 new_pic = ET.SubElement(pictures, "Picture")
-                url = pic.find("PictureUrl")
-                if url is not None:
-                    url_tag = ET.SubElement(new_pic, "PictureUrl")
-                    url_tag.text = url.text or ""
+                for item in pic:
+                    e = ET.SubElement(new_pic, item.tag)
+                    e.text = item.text or ""
+
+        
         else:
             e = ET.SubElement(new_product, tag)
             e.text = child.text or ""

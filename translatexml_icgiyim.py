@@ -478,7 +478,6 @@
 
 
 
-
 import requests
 import xml.etree.ElementTree as ET
 from deep_translator import GoogleTranslator
@@ -509,9 +508,25 @@ def translate_text(text):
 def save_raw_xml():
     response = requests.get(XML_URL)
     response.encoding = 'utf-8'
-    with open(RAW_XML_PATH, "w", encoding='utf-8') as f:
+
+    # Save raw content for debugging
+    with open(RAW_XML_PATH, "w", encoding="utf-8") as f:
         f.write(response.text)
-    return ET.ElementTree(ET.fromstring(response.text))
+
+    # Check if response is valid XML
+    if not response.ok:
+        raise Exception(f"Failed to fetch XML. Status code: {response.status_code}")
+
+    if not response.text.strip().startswith("<?xml"):
+        preview = response.text[:300].strip()
+        raise Exception(f"Response does not appear to be valid XML. Preview:\n{preview}")
+
+    try:
+        return ET.ElementTree(ET.fromstring(response.text))
+    except ET.ParseError as e:
+        with open("error_log_icgiyim.txt", "w", encoding="utf-8") as err_file:
+            err_file.write(response.text)
+        raise Exception(f"Failed to parse XML: {e}")
 
 def load_existing_output():
     if not os.path.exists(OUTPUT_XML_PATH):

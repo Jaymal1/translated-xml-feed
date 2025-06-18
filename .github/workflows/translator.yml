@@ -26,8 +26,8 @@ jobs:
           python -m pip install --upgrade pip
           pip install deep-translator forex-python
 
-      - name: Translate Ayakkabi Feed
-        run: python translatexml_ayakkabi.py
+      # - name: Translate Ayakkabi Feed
+      #   run: python translatexml_ayakkabi.py
 
       - name: Translate IcGiyim Feed
         run: python translatexml_icgiyim.py

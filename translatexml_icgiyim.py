@@ -485,7 +485,7 @@ import os
 import time
 
 # Constants
-XML_URL = "https://www.gecelikmagazasi.com/XMLYukle"
+XML_URL = "https://gecelikmagazasi.com/TicimaxXml/CB0C2D2195694477A0657C567D29C8AF"
 RAW_XML_PATH = "debug_raw_icgiyim.xml"
 OUTPUT_XML_PATH = "translatedsample_icgiyim.xml"
 TRANSLATOR = GoogleTranslator(source='tr', target='en')

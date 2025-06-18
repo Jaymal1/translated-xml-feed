@@ -477,7 +477,6 @@
 
 
 
-
 import requests
 import xml.etree.ElementTree as ET
 from deep_translator import GoogleTranslator
@@ -489,6 +488,10 @@ XML_URL = "https://gecelikmagazasi.com/TicimaxXml/CB0C2D2195694477A0657C567D29C8
 RAW_XML_PATH = "debug_raw_icgiyim.xml"
 OUTPUT_XML_PATH = "translatedsample_icgiyim.xml"
 TRANSLATOR = GoogleTranslator(source='tr', target='en')
+
+HEADERS = {
+    "User-Agent": "Mozilla/5.0"
+}
 
 def fetch_exchange_rate():
     try:
@@ -506,26 +509,27 @@ def translate_text(text):
         return text
 
 def save_raw_xml():
-    response = requests.get(XML_URL)
+    response = requests.get(XML_URL, headers=HEADERS)
     response.encoding = 'utf-8'
 
-    # Save raw content for debugging
-    with open(RAW_XML_PATH, "w", encoding="utf-8") as f:
-        f.write(response.text)
-
-    # Check if response is valid XML
     if not response.ok:
         raise Exception(f"Failed to fetch XML. Status code: {response.status_code}")
 
-    if not response.text.strip().startswith("<?xml"):
-        preview = response.text[:300].strip()
+    # Save raw for debugging
+    with open(RAW_XML_PATH, "w", encoding="utf-8") as f:
+        f.write(response.text)
+
+    # Clean BOM and validate XML
+    content = response.text.lstrip('\ufeff').strip()
+    if not content.startswith("<?xml"):
+        preview = content[:300]
         raise Exception(f"Response does not appear to be valid XML. Preview:\n{preview}")
 
     try:
-        return ET.ElementTree(ET.fromstring(response.text))
+        return ET.ElementTree(ET.fromstring(content))
     except ET.ParseError as e:
         with open("error_log_icgiyim.txt", "w", encoding="utf-8") as err_file:
-            err_file.write(response.text)
+            err_file.write(content)
         raise Exception(f"Failed to parse XML: {e}")
 
 def load_existing_output():
@@ -543,6 +547,7 @@ def process_products(raw_tree, output_tree, rate):
 
     for urun in raw_tree.findall(".//Urun"):
         urun_kopya = ET.Element("Urun")
+        barkod = None  # initialize outside loop
 
         # Translate product name
         name = urun.findtext("UrunAdi", "")
@@ -559,14 +564,14 @@ def process_products(raw_tree, output_tree, rate):
         for field in fields_to_copy:
             ET.SubElement(urun_kopya, field).text = urun.findtext(field, "")
 
-        # Copy and add images as pictureUrls
+        # Copy and add images
         images = urun.find("Resimler")
         if images is not None:
             for resim in images.findall("Resim"):
                 pic = ET.SubElement(urun_kopya, "pictureUrl")
                 pic.text = resim.text
 
-        # Process variations (Secenek)
+        # Process variations
         urunsecenek_tag = urun.find("UrunSecenek")
         if urunsecenek_tag is not None:
             secenek_group = ET.SubElement(urun_kopya, "UrunSecenek")
@@ -576,10 +581,9 @@ def process_products(raw_tree, output_tree, rate):
                 stok_adedi = secenek.findtext("StokAdedi", "0")
                 satis_fiyati = secenek.findtext("SatisFiyati", "0").replace(",", ".")
 
-                # Update if new product or update stock
                 is_new = barkod and barkod not in barcodes_out
 
-                if is_new or True:  # Always update stock and price
+                if is_new or True:
                     secenek_out = ET.SubElement(secenek_group, "Secenek")
                     for child in ["VaryasyonID", "StokKodu", "Barkod"]:
                         ET.SubElement(secenek_out, child).text = secenek.findtext(child, "")
@@ -601,11 +605,9 @@ def process_products(raw_tree, output_tree, rate):
                                 new_ozellik.set(k, translate_text(v))
                             new_ozellik.text = translate_text(ozellik.text or "")
 
-        # Merge if new product
         if barkod and barkod not in barcodes_out:
             root_out.append(urun_kopya)
         else:
-            # update existing stock in place
             for existing_sec in root_out.findall(".//Secenek"):
                 if existing_sec.findtext("Barkod", "") == barkod:
                     existing_sec.find("StokAdedi").text = stok_adedi
@@ -622,8 +624,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-
-
-

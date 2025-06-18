@@ -29,6 +29,9 @@ jobs:
       - name: Translate Ayakkabi Feed
         run: python translatexml_ayakkabi.py
 
+      - name: Translate IcGiyim Feed
+        run: python translatexml_icgiyim.py
+
       - name: Commit and push updated XML files
         run: |
           git config user.name "github-actions[bot]"

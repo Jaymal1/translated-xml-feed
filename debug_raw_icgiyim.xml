@@ -65449,6 +65449,297 @@
       </UrunSecenek>
       <TeknikDetaylar />
     </Urun>
+    <Urun>
+      <UrunKartiID>840</UrunKartiID>
+      <UrunAdi>Bella Notte Ekru Çiçek Baskılı Askılı V Yaka Şort Takım 7731</UrunAdi>
+      <OnYazi><![CDATA[]]></OnYazi>
+      <Aciklama><![CDATA[Bella Notte Ekru Çiçek Baskılı Askılı V Yaka Şort Takım 7731<br />Bedenler : S-M-L-XL<br />Materyal : %100 Pamuk<br />Yıkama Talimatı : 30 derece sıcaklıkta hassas ve tersten yıkama yapınız. Kurutma makinası önerilmez.]]></Aciklama>
+      <Marka>BELLA NOTTE</Marka>
+      <SatisBirimi>ADET</SatisBirimi>
+      <KategoriID>13</KategoriID>
+      <Kategori>Alt Üst Takım</Kategori>
+      <KategoriTree>Kadın Giyim/Alt Üst Takım</KategoriTree>
+      <UrunUrl>https://gecelikmagazasi.com/bella-notte-ekru-cicek-baskili-askili-v-yaka-sort-takim-7731-840</UrunUrl>
+      <OzelAlan2>7731-Serisi</OzelAlan2>
+      <Resimler>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Ekru-Cicek-Baskili-Askili-V--6a57.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Ekru-Cicek-Baskili-Askili-V--ea7d.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Ekru-Cicek-Baskili-Askili-V--a724.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Ekru-Cicek-Baskili-Askili-V--9aa6.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Ekru-Cicek-Baskili-Askili-V--c467.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Ekru-Cicek-Baskili-Askili-V--eb84.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Ekru-Cicek-Baskili-Askili-V--0f5e.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Ekru-Cicek-Baskili-Askili-V--e86e.jpg</Resim>
+      </Resimler>
+      <UrunSecenek>
+        <Secenek>
+          <VaryasyonID>2659</VaryasyonID>
+          <StokKodu>7731.5.S</StokKodu>
+          <Barkod>5604654654644645</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="EKRU">EKRU</Ozellik>
+            <Ozellik Tanim="Beden" Deger="S">S</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2660</VaryasyonID>
+          <StokKodu>7731.5.M</StokKodu>
+          <Barkod>5604654654644646</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="EKRU">EKRU</Ozellik>
+            <Ozellik Tanim="Beden" Deger="M">M</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2661</VaryasyonID>
+          <StokKodu>7731.5.L</StokKodu>
+          <Barkod>5604654654644647</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="EKRU">EKRU</Ozellik>
+            <Ozellik Tanim="Beden" Deger="L">L</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2662</VaryasyonID>
+          <StokKodu>7731.5.XL</StokKodu>
+          <Barkod>5604654654644648</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="EKRU">EKRU</Ozellik>
+            <Ozellik Tanim="Beden" Deger="XL">XL</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+      </UrunSecenek>
+      <TeknikDetaylar />
+    </Urun>
+    <Urun>
+      <UrunKartiID>841</UrunKartiID>
+      <UrunAdi>Bella Notte Ekru Çiçek Baskılı Kısa Kollu Şort Takım 7735</UrunAdi>
+      <OnYazi><![CDATA[]]></OnYazi>
+      <Aciklama><![CDATA[Bella Notte Ekru Çiçek Baskılı Kısa Kollu Şort Takım 7735<br />Bedenler : S-M-L-XL<br />Materyal : %100 Pamuk<br />Yıkama Talimatı : 30 derece sıcaklıkta hassas ve tersten yıkama yapınız. Kurutma makinası önerilmez.]]></Aciklama>
+      <Marka>BELLA NOTTE</Marka>
+      <SatisBirimi>ADET</SatisBirimi>
+      <KategoriID>13</KategoriID>
+      <Kategori>Alt Üst Takım</Kategori>
+      <KategoriTree>Kadın Giyim/Alt Üst Takım</KategoriTree>
+      <UrunUrl>https://gecelikmagazasi.com/bella-notte-ekru-cicek-baskili-kisa-kollu-sort-takim-7735-841</UrunUrl>
+      <OzelAlan2>7735-Serisi</OzelAlan2>
+      <Resimler>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Ekru-Cicek-Baskili-Kisa-Koll-caa3.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Ekru-Cicek-Baskili-Kisa-Koll-d22b.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Ekru-Cicek-Baskili-Kisa-Koll-1575.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Ekru-Cicek-Baskili-Kisa-Koll-0409.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Ekru-Cicek-Baskili-Kisa-Koll-5894.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Ekru-Cicek-Baskili-Kisa-Koll-071c.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Ekru-Cicek-Baskili-Kisa-Koll-e3d9.jpg</Resim>
+      </Resimler>
+      <UrunSecenek>
+        <Secenek>
+          <VaryasyonID>2663</VaryasyonID>
+          <StokKodu>7735.5.S</StokKodu>
+          <Barkod>578797970302</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="EKRU">EKRU</Ozellik>
+            <Ozellik Tanim="Beden" Deger="S">S</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2664</VaryasyonID>
+          <StokKodu>7735.5.M</StokKodu>
+          <Barkod>578797970303</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="EKRU">EKRU</Ozellik>
+            <Ozellik Tanim="Beden" Deger="M">M</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2665</VaryasyonID>
+          <StokKodu>7735.5.L</StokKodu>
+          <Barkod>578797970304</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="EKRU">EKRU</Ozellik>
+            <Ozellik Tanim="Beden" Deger="L">L</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2666</VaryasyonID>
+          <StokKodu>7735.5.XL</StokKodu>
+          <Barkod>578797970305</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="EKRU">EKRU</Ozellik>
+            <Ozellik Tanim="Beden" Deger="XL">XL</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+      </UrunSecenek>
+      <TeknikDetaylar />
+    </Urun>
+    <Urun>
+      <UrunKartiID>842</UrunKartiID>
+      <UrunAdi>Bella Notte Yeşil Çiçekli Yaz Esintili Pijama Takımı 7345</UrunAdi>
+      <OnYazi><![CDATA[]]></OnYazi>
+      <Aciklama><![CDATA[Bella Notte Yeşil Çiçekli Yaz Esintili Pijama Takımı 7345<br />Bedenler : S-M-L-XL<br />Materyal : %100 Spandex<br />Yıkama Talimatı : 30 derece sıcaklıkta hassas ve tersten yıkama yapınız. Kurutma makinası önerilmez.]]></Aciklama>
+      <Marka>BELLA NOTTE</Marka>
+      <SatisBirimi>ADET</SatisBirimi>
+      <KategoriID>13</KategoriID>
+      <Kategori>Alt Üst Takım</Kategori>
+      <KategoriTree>Kadın Giyim/Alt Üst Takım</KategoriTree>
+      <UrunUrl>https://gecelikmagazasi.com/bella-notte-yesil-cicekli-yaz-esintili-pijama-takimi-7345-842</UrunUrl>
+      <OzelAlan2>7345-Serisi</OzelAlan2>
+      <Resimler>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Yesil-Cicekli-Yaz-Esintili-P-f2ed.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Yesil-Cicekli-Yaz-Esintili-P-57b4.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Yesil-Cicekli-Yaz-Esintili-P-a374.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Yesil-Cicekli-Yaz-Esintili-P-abcf.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Yesil-Cicekli-Yaz-Esintili-P-1a68.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Yesil-Cicekli-Yaz-Esintili-P-9ca3.jpg</Resim>
+      </Resimler>
+      <UrunSecenek>
+        <Secenek>
+          <VaryasyonID>2667</VaryasyonID>
+          <StokKodu>7345.73.S</StokKodu>
+          <Barkod>98904235423</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="YEŞİL">YEŞİL</Ozellik>
+            <Ozellik Tanim="Beden" Deger="S">S</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2668</VaryasyonID>
+          <StokKodu>7345.73.M</StokKodu>
+          <Barkod>98904235424</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="YEŞİL">YEŞİL</Ozellik>
+            <Ozellik Tanim="Beden" Deger="M">M</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2669</VaryasyonID>
+          <StokKodu>7345.73.L</StokKodu>
+          <Barkod>98904235425</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="YEŞİL">YEŞİL</Ozellik>
+            <Ozellik Tanim="Beden" Deger="L">L</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2670</VaryasyonID>
+          <StokKodu>7345.73.XL</StokKodu>
+          <Barkod>98904235426</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="YEŞİL">YEŞİL</Ozellik>
+            <Ozellik Tanim="Beden" Deger="XL">XL</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+      </UrunSecenek>
+      <TeknikDetaylar />
+    </Urun>
   </Urunler>
   <Markalar>
     <Marka>

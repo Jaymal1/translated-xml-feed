@@ -66881,6 +66881,199 @@
       </UrunSecenek>
       <TeknikDetaylar />
     </Urun>
+    <Urun>
+      <UrunKartiID>855</UrunKartiID>
+      <UrunAdi>Bella Notte Ekru Yaz Romantizmi Askılı Pijama Takımı 7359</UrunAdi>
+      <OnYazi><![CDATA[]]></OnYazi>
+      <Aciklama><![CDATA[Bella Notte Ekru Yaz Romantizmi Askılı Pijama Takımı 7359<br />Bedenler : S-M-L-XL<br />Materyal : %100 Cotton<br />Yıkama Talimatı  :  Maksimum 30°C sıcaklıkta hassas ve tersten yıkama yapınız. <br />Bu pijama takımı, hem günlük kullanım hem de uyku için idealdir. Şıklığıyla dikkat çekerken, rahat yapısıyla da tercih sebebi olacaktır.<br />Her mevsimde kullanıma uygun olan bu takım, gardırobunuzun vazgeçilmez parçalarından biri olacak.]]></Aciklama>
+      <Marka>BELLA NOTTE</Marka>
+      <SatisBirimi>ADET</SatisBirimi>
+      <KategoriID>13</KategoriID>
+      <Kategori>Alt Üst Takım</Kategori>
+      <KategoriTree>Kadın Giyim/Alt Üst Takım</KategoriTree>
+      <UrunUrl>https://gecelikmagazasi.com/bella-notte-ekru-yaz-romantizmi-askili-pijama-takimi-7359-855</UrunUrl>
+      <OzelAlan2>7359-Serisi</OzelAlan2>
+      <Resimler>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Ekru-Yaz-Romantizmi-Askili-P-a606.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Ekru-Yaz-Romantizmi-Askili-P-a7ac.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Ekru-Yaz-Romantizmi-Askili-P-e1bf.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Ekru-Yaz-Romantizmi-Askili-P-238d.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Ekru-Yaz-Romantizmi-Askili-P-4044.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Ekru-Yaz-Romantizmi-Askili-P-a59b.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Ekru-Yaz-Romantizmi-Askili-P-5bd7.jpg</Resim>
+      </Resimler>
+      <UrunSecenek>
+        <Secenek>
+          <VaryasyonID>2719</VaryasyonID>
+          <StokKodu>7359.5.S</StokKodu>
+          <Barkod>980807486656</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="EKRU">EKRU</Ozellik>
+            <Ozellik Tanim="Beden" Deger="S">S</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2720</VaryasyonID>
+          <StokKodu>7359.5.M</StokKodu>
+          <Barkod>980807486657</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="EKRU">EKRU</Ozellik>
+            <Ozellik Tanim="Beden" Deger="M">M</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2721</VaryasyonID>
+          <StokKodu>7359.5.L</StokKodu>
+          <Barkod>980807486658</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="EKRU">EKRU</Ozellik>
+            <Ozellik Tanim="Beden" Deger="L">L</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2722</VaryasyonID>
+          <StokKodu>7359.5.XL</StokKodu>
+          <Barkod>980807486659</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="EKRU">EKRU</Ozellik>
+            <Ozellik Tanim="Beden" Deger="XL">XL</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+      </UrunSecenek>
+      <TeknikDetaylar />
+    </Urun>
+    <Urun>
+      <UrunKartiID>856</UrunKartiID>
+      <UrunAdi>Bella Notte Ekru Pamuklu Kiraz Baskılı Kısa Kollu Pijama Takım 7357</UrunAdi>
+      <OnYazi><![CDATA[]]></OnYazi>
+      <Aciklama><![CDATA[Bella Notte Ekru Pamuklu Kiraz Baskılı Kısa Kollu Pijama Takım 7357<br />Bedenler : S-M-L-XL<br />Materyal : %100 Pamuk<br />Yıkama Talimatı : 30 derece sıcaklıkta hassas ve tersten yıkama yapınız. Kurutma makinası önerilmez.]]></Aciklama>
+      <Marka>BELLA NOTTE</Marka>
+      <SatisBirimi>ADET</SatisBirimi>
+      <KategoriID>13</KategoriID>
+      <Kategori>Alt Üst Takım</Kategori>
+      <KategoriTree>Kadın Giyim/Alt Üst Takım</KategoriTree>
+      <UrunUrl>https://gecelikmagazasi.com/bella-notte-ekru-pamuklu-kiraz-baskili-kisa-kollu-pijama-takim-7357-856</UrunUrl>
+      <OzelAlan2>7357-Serisi</OzelAlan2>
+      <Resimler>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Ekru-Pamuklu-Kiraz-Baskili-K-c129.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Ekru-Pamuklu-Kiraz-Baskili-K-2416.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Ekru-Pamuklu-Kiraz-Baskili-K-5110.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Ekru-Pamuklu-Kiraz-Baskili-K-1335.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Ekru-Pamuklu-Kiraz-Baskili-K-60fe.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Ekru-Pamuklu-Kiraz-Baskili-K-1a3e.jpg</Resim>
+      </Resimler>
+      <UrunSecenek>
+        <Secenek>
+          <VaryasyonID>2723</VaryasyonID>
+          <StokKodu>7357.5.S</StokKodu>
+          <Barkod>98074780787805</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="EKRU">EKRU</Ozellik>
+            <Ozellik Tanim="Beden" Deger="S">S</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2724</VaryasyonID>
+          <StokKodu>7357.5.M</StokKodu>
+          <Barkod>98074780787806</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="EKRU">EKRU</Ozellik>
+            <Ozellik Tanim="Beden" Deger="M">M</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2725</VaryasyonID>
+          <StokKodu>7357.5.L</StokKodu>
+          <Barkod>98074780787807</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="EKRU">EKRU</Ozellik>
+            <Ozellik Tanim="Beden" Deger="L">L</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2726</VaryasyonID>
+          <StokKodu>7357.5.XL</StokKodu>
+          <Barkod>98074780787808</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="EKRU">EKRU</Ozellik>
+            <Ozellik Tanim="Beden" Deger="XL">XL</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+      </UrunSecenek>
+      <TeknikDetaylar />
+    </Urun>
   </Urunler>
   <Markalar>
     <Marka>

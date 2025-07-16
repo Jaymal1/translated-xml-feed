@@ -1,12 +1,63 @@
+# name: Translate XML and update files
+
+# on:
+#   schedule:
+#     - cron: "0 */4 * * *" # every 4 hours at minute 0
+#   workflow_dispatch: # allows manual trigger
+
+# permissions:
+#   contents: write
+
+# jobs:
+#   translate:
+#     runs-on: ubuntu-latest
+
+#     steps:
+#       - name: Checkout repository
+#         uses: actions/checkout@v3
+
+#       - name: Set up Python 3.x
+#         uses: actions/setup-python@v4
+#         with:
+#           python-version: "3.x"
+
+#       - name: Install dependencies
+#         run: |
+#           python -m pip install --upgrade pip
+#           pip install deep-translator forex-python
+
+#       - name: Translate Ayakkabi Feed
+#         run: python translatexml_ayakkabi.py
+
+#       - name: Translate IcGiyim Feed
+#         run: python translatexml_icgiyim.py
+
+#       - name: Commit and push updated XML files
+#         run: |
+#           git config user.name "github-actions[bot]"
+#           git config user.email "github-actions[bot]@users.noreply.github.com"
+#           git add -A
+#           if git diff --cached --quiet; then
+#             echo "No changes to commit"
+#           else
+#             git commit -m "Update translated XML files"
+#             git push
+#           fi
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+
+
 name: Translate XML and update files
 
 on:
   schedule:
-    - cron: "0 */4 * * *" # every 4 hours at minute 0
-  workflow_dispatch: # allows manual trigger
+    - cron: "0 */4 * * *"   # every 4 hours at minute 0
+  workflow_dispatch:       # allows manual trigger
 
 permissions:
-  contents: write
+  contents: write        # needed for push
 
 jobs:
   translate:
@@ -15,6 +66,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0            # fetch full history so we can pull
+          persist-credentials: true # let git pull/push use GITHUB_TOKEN
 
       - name: Set up Python 3.x
         uses: actions/setup-python@v4
@@ -32,6 +86,11 @@ jobs:
       - name: Translate IcGiyim Feed
         run: python translatexml_icgiyim.py
 
+      - name: Sync remote changes
+        run: |
+          git config pull.rebase true
+          git pull origin main
+
       - name: Commit and push updated XML files
         run: |
           git config user.name "github-actions[bot]"
@@ -41,7 +100,8 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Update translated XML files"
-            git push
+            git push origin main
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+

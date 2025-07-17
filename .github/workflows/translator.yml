@@ -53,11 +53,11 @@ name: Translate XML and update files
 
 on:
   schedule:
-    - cron: "0 */4 * * *"   # every 4 hours at minute 0
-  workflow_dispatch:       # allows manual trigger
+    - cron: "0 */4 * * *"
+  workflow_dispatch:
 
 permissions:
-  contents: write        # needed for push
+  contents: write
 
 jobs:
   translate:
@@ -67,8 +67,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0            # fetch full history so we can pull
-          persist-credentials: true # let git pull/push use GITHUB_TOKEN
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Sync remote changes
+        run: |
+          git config pull.rebase true
+          git pull origin main
 
       - name: Set up Python 3.x
         uses: actions/setup-python@v4
@@ -86,11 +91,6 @@ jobs:
       - name: Translate IcGiyim Feed
         run: python translatexml_icgiyim.py
 
-      - name: Sync remote changes
-        run: |
-          git config pull.rebase true
-          git pull origin main
-
       - name: Commit and push updated XML files
         run: |
           git config user.name "github-actions[bot]"
@@ -104,4 +104,3 @@ jobs:
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-

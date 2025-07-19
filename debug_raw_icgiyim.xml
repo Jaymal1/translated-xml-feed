@@ -290,7 +290,7 @@
           <VaryasyonID>11</VaryasyonID>
           <StokKodu>15500-S/M</StokKodu>
           <Barkod>845626555625244</Barkod>
-          <StokAdedi>503</StokAdedi>
+          <StokAdedi>502</StokAdedi>
           <AlisFiyati>128,90</AlisFiyati>
           <SatisFiyati>249,90</SatisFiyati>
           <IndirimliFiyat>249,90</IndirimliFiyat>
@@ -3945,7 +3945,7 @@
           <VaryasyonID>150</VaryasyonID>
           <StokKodu>15513-S/M</StokKodu>
           <Barkod>845626555625502</Barkod>
-          <StokAdedi>329</StokAdedi>
+          <StokAdedi>328</StokAdedi>
           <AlisFiyati>149,90</AlisFiyati>
           <SatisFiyati>279,90</SatisFiyati>
           <IndirimliFiyat>279,90</IndirimliFiyat>
@@ -4323,7 +4323,7 @@
           <VaryasyonID>165</VaryasyonID>
           <StokKodu>15024-S/M</StokKodu>
           <Barkod>845626555625532</Barkod>
-          <StokAdedi>869</StokAdedi>
+          <StokAdedi>868</StokAdedi>
           <AlisFiyati>163,90</AlisFiyati>
           <SatisFiyati>299,90</SatisFiyati>
           <IndirimliFiyat>299,90</IndirimliFiyat>
@@ -5115,7 +5115,7 @@
           <VaryasyonID>197</VaryasyonID>
           <StokKodu>15032-2XL/3XL</StokKodu>
           <Barkod>845626555625596</Barkod>
-          <StokAdedi>273</StokAdedi>
+          <StokAdedi>272</StokAdedi>
           <AlisFiyati>145,90</AlisFiyati>
           <SatisFiyati>269,90</SatisFiyati>
           <IndirimliFiyat>269,90</IndirimliFiyat>
@@ -5448,7 +5448,7 @@
           <VaryasyonID>208</VaryasyonID>
           <StokKodu>1017-STD</StokKodu>
           <Barkod>9874505129</Barkod>
-          <StokAdedi>22</StokAdedi>
+          <StokAdedi>21</StokAdedi>
           <AlisFiyati>12,90</AlisFiyati>
           <SatisFiyati>109,90</SatisFiyati>
           <IndirimliFiyat>109,90</IndirimliFiyat>
@@ -10203,7 +10203,7 @@
           <VaryasyonID>397</VaryasyonID>
           <StokKodu>7013-L</StokKodu>
           <Barkod>845626555625970</Barkod>
-          <StokAdedi>46</StokAdedi>
+          <StokAdedi>45</StokAdedi>
           <AlisFiyati>235,90</AlisFiyati>
           <SatisFiyati>389,90</SatisFiyati>
           <IndirimliFiyat>389,90</IndirimliFiyat>
@@ -18117,7 +18117,7 @@
           <VaryasyonID>696</VaryasyonID>
           <StokKodu>PR15531-2XL/3XL</StokKodu>
           <Barkod>845626555626562</Barkod>
-          <StokAdedi>539</StokAdedi>
+          <StokAdedi>538</StokAdedi>
           <AlisFiyati>175,90</AlisFiyati>
           <SatisFiyati>309,90</SatisFiyati>
           <IndirimliFiyat>309,90</IndirimliFiyat>
@@ -21130,7 +21130,7 @@
           <VaryasyonID>823</VaryasyonID>
           <StokKodu>15576-L</StokKodu>
           <Barkod>8452322320011</Barkod>
-          <StokAdedi>150</StokAdedi>
+          <StokAdedi>149</StokAdedi>
           <AlisFiyati>176,90</AlisFiyati>
           <SatisFiyati>309,90</SatisFiyati>
           <IndirimliFiyat>309,90</IndirimliFiyat>
@@ -21699,7 +21699,7 @@
           <VaryasyonID>846</VaryasyonID>
           <StokKodu>PR15535.KIRMIZI.L/XL</StokKodu>
           <Barkod>84562012222155800</Barkod>
-          <StokAdedi>417</StokAdedi>
+          <StokAdedi>416</StokAdedi>
           <AlisFiyati>175,90</AlisFiyati>
           <SatisFiyati>309,90</SatisFiyati>
           <IndirimliFiyat>309,90</IndirimliFiyat>
@@ -25080,7 +25080,7 @@
           <VaryasyonID>984</VaryasyonID>
           <StokKodu>PR7515.1.L</StokKodu>
           <Barkod>25448845368</Barkod>
-          <StokAdedi>895</StokAdedi>
+          <StokAdedi>894</StokAdedi>
           <AlisFiyati>178,90</AlisFiyati>
           <SatisFiyati>309,90</SatisFiyati>
           <IndirimliFiyat>309,90</IndirimliFiyat>
@@ -25433,7 +25433,7 @@
           <VaryasyonID>996</VaryasyonID>
           <StokKodu>16065.1.L/XL</StokKodu>
           <Barkod>25448845404</Barkod>
-          <StokAdedi>131</StokAdedi>
+          <StokAdedi>130</StokAdedi>
           <AlisFiyati>149,90</AlisFiyati>
           <SatisFiyati>279,90</SatisFiyati>
           <IndirimliFiyat>279,90</IndirimliFiyat>
@@ -27490,9 +27490,9 @@
           <StokKodu>15601.1.L/XL</StokKodu>
           <Barkod>25448845548</Barkod>
           <StokAdedi>551</StokAdedi>
-          <AlisFiyati>192,90</AlisFiyati>
-          <SatisFiyati>329,90</SatisFiyati>
-          <IndirimliFiyat>329,90</IndirimliFiyat>
+          <AlisFiyati>226,90</AlisFiyati>
+          <SatisFiyati>557,90</SatisFiyati>
+          <IndirimliFiyat>429,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -27508,9 +27508,9 @@
           <StokKodu>15601.1.S/M</StokKodu>
           <Barkod>25448845550</Barkod>
           <StokAdedi>678</StokAdedi>
-          <AlisFiyati>192,90</AlisFiyati>
-          <SatisFiyati>329,90</SatisFiyati>
-          <IndirimliFiyat>329,90</IndirimliFiyat>
+          <AlisFiyati>226,90</AlisFiyati>
+          <SatisFiyati>557,90</SatisFiyati>
+          <IndirimliFiyat>429,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -27526,9 +27526,9 @@
           <StokKodu>15601.1.BIG</StokKodu>
           <Barkod>25448845552</Barkod>
           <StokAdedi>764</StokAdedi>
-          <AlisFiyati>192,90</AlisFiyati>
-          <SatisFiyati>329,90</SatisFiyati>
-          <IndirimliFiyat>329,90</IndirimliFiyat>
+          <AlisFiyati>226,90</AlisFiyati>
+          <SatisFiyati>557,90</SatisFiyati>
+          <IndirimliFiyat>429,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -27567,9 +27567,9 @@
           <VaryasyonID>1084</VaryasyonID>
           <StokKodu>15564.56.L/XL</StokKodu>
           <Barkod>25448845554</Barkod>
-          <StokAdedi>753</StokAdedi>
-          <AlisFiyati>211,90</AlisFiyati>
-          <SatisFiyati>359,90</SatisFiyati>
+          <StokAdedi>752</StokAdedi>
+          <AlisFiyati>243,90</AlisFiyati>
+          <SatisFiyati>586,90</SatisFiyati>
           <IndirimliFiyat>0,00</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
@@ -27586,8 +27586,8 @@
           <StokKodu>15564.56.S/M</StokKodu>
           <Barkod>25448845556</Barkod>
           <StokAdedi>697</StokAdedi>
-          <AlisFiyati>211,90</AlisFiyati>
-          <SatisFiyati>359,90</SatisFiyati>
+          <AlisFiyati>243,90</AlisFiyati>
+          <SatisFiyati>586,90</SatisFiyati>
           <IndirimliFiyat>0,00</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
@@ -27604,8 +27604,8 @@
           <StokKodu>15564.56.BIG</StokKodu>
           <Barkod>25448845558</Barkod>
           <StokAdedi>865</StokAdedi>
-          <AlisFiyati>211,90</AlisFiyati>
-          <SatisFiyati>359,90</SatisFiyati>
+          <AlisFiyati>243,90</AlisFiyati>
+          <SatisFiyati>586,90</SatisFiyati>
           <IndirimliFiyat>0,00</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
@@ -27726,9 +27726,9 @@
           <StokKodu>15600.44.L/XL</StokKodu>
           <Barkod>25448845566</Barkod>
           <StokAdedi>833</StokAdedi>
-          <AlisFiyati>168,90</AlisFiyati>
-          <SatisFiyati>299,90</SatisFiyati>
-          <IndirimliFiyat>299,90</IndirimliFiyat>
+          <AlisFiyati>197,90</AlisFiyati>
+          <SatisFiyati>509,90</SatisFiyati>
+          <IndirimliFiyat>391,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -27744,9 +27744,9 @@
           <StokKodu>15600.44.S/M</StokKodu>
           <Barkod>25448845568</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>168,90</AlisFiyati>
-          <SatisFiyati>299,90</SatisFiyati>
-          <IndirimliFiyat>299,90</IndirimliFiyat>
+          <AlisFiyati>197,90</AlisFiyati>
+          <SatisFiyati>509,90</SatisFiyati>
+          <IndirimliFiyat>391,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -27762,9 +27762,9 @@
           <StokKodu>15600.44.BIG</StokKodu>
           <Barkod>25448845570</Barkod>
           <StokAdedi>944</StokAdedi>
-          <AlisFiyati>168,90</AlisFiyati>
-          <SatisFiyati>299,90</SatisFiyati>
-          <IndirimliFiyat>299,90</IndirimliFiyat>
+          <AlisFiyati>197,90</AlisFiyati>
+          <SatisFiyati>509,90</SatisFiyati>
+          <IndirimliFiyat>391,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -27803,9 +27803,9 @@
           <StokKodu>17031.1.L/XL</StokKodu>
           <Barkod>25448845572</Barkod>
           <StokAdedi>186</StokAdedi>
-          <AlisFiyati>197,90</AlisFiyati>
-          <SatisFiyati>339,90</SatisFiyati>
-          <IndirimliFiyat>339,90</IndirimliFiyat>
+          <AlisFiyati>243,90</AlisFiyati>
+          <SatisFiyati>586,90</SatisFiyati>
+          <IndirimliFiyat>451,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -27821,9 +27821,9 @@
           <StokKodu>17031.1.S/M</StokKodu>
           <Barkod>25448845574</Barkod>
           <StokAdedi>552</StokAdedi>
-          <AlisFiyati>197,90</AlisFiyati>
-          <SatisFiyati>339,90</SatisFiyati>
-          <IndirimliFiyat>339,90</IndirimliFiyat>
+          <AlisFiyati>243,90</AlisFiyati>
+          <SatisFiyati>586,90</SatisFiyati>
+          <IndirimliFiyat>451,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -27839,9 +27839,9 @@
           <StokKodu>17031.1.BIG</StokKodu>
           <Barkod>25448845576</Barkod>
           <StokAdedi>600</StokAdedi>
-          <AlisFiyati>197,90</AlisFiyati>
-          <SatisFiyati>339,90</SatisFiyati>
-          <IndirimliFiyat>339,90</IndirimliFiyat>
+          <AlisFiyati>243,90</AlisFiyati>
+          <SatisFiyati>586,90</SatisFiyati>
+          <IndirimliFiyat>451,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -28028,9 +28028,9 @@
           <StokKodu>15661.1.L/XL</StokKodu>
           <Barkod>25448845584</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>260,90</AlisFiyati>
-          <SatisFiyati>419,90</SatisFiyati>
-          <IndirimliFiyat>419,90</IndirimliFiyat>
+          <AlisFiyati>303,90</AlisFiyati>
+          <SatisFiyati>686,90</SatisFiyati>
+          <IndirimliFiyat>528,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -28046,9 +28046,9 @@
           <StokKodu>15661.1.S/M</StokKodu>
           <Barkod>25448845586</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>260,90</AlisFiyati>
-          <SatisFiyati>419,90</SatisFiyati>
-          <IndirimliFiyat>419,90</IndirimliFiyat>
+          <AlisFiyati>303,90</AlisFiyati>
+          <SatisFiyati>686,90</SatisFiyati>
+          <IndirimliFiyat>528,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -28064,9 +28064,9 @@
           <StokKodu>15661.1.BIG</StokKodu>
           <Barkod>25448845588</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>260,90</AlisFiyati>
-          <SatisFiyati>419,90</SatisFiyati>
-          <IndirimliFiyat>419,90</IndirimliFiyat>
+          <AlisFiyati>303,90</AlisFiyati>
+          <SatisFiyati>686,90</SatisFiyati>
+          <IndirimliFiyat>528,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -28182,9 +28182,9 @@
           <StokKodu>17021.56.L/XL</StokKodu>
           <Barkod>25448845596</Barkod>
           <StokAdedi>926</StokAdedi>
-          <AlisFiyati>233,90</AlisFiyati>
-          <SatisFiyati>389,90</SatisFiyati>
-          <IndirimliFiyat>389,90</IndirimliFiyat>
+          <AlisFiyati>264,90</AlisFiyati>
+          <SatisFiyati>620,90</SatisFiyati>
+          <IndirimliFiyat>477,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -28200,9 +28200,9 @@
           <StokKodu>17021.56.S/M</StokKodu>
           <Barkod>25448845598</Barkod>
           <StokAdedi>897</StokAdedi>
-          <AlisFiyati>233,90</AlisFiyati>
-          <SatisFiyati>389,90</SatisFiyati>
-          <IndirimliFiyat>389,90</IndirimliFiyat>
+          <AlisFiyati>264,90</AlisFiyati>
+          <SatisFiyati>620,90</SatisFiyati>
+          <IndirimliFiyat>477,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -28218,9 +28218,9 @@
           <StokKodu>17021.56.BIG</StokKodu>
           <Barkod>25448845600</Barkod>
           <StokAdedi>898</StokAdedi>
-          <AlisFiyati>233,90</AlisFiyati>
-          <SatisFiyati>389,90</SatisFiyati>
-          <IndirimliFiyat>389,90</IndirimliFiyat>
+          <AlisFiyati>264,90</AlisFiyati>
+          <SatisFiyati>620,90</SatisFiyati>
+          <IndirimliFiyat>477,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -28899,9 +28899,9 @@
           <StokKodu>17038.63.L/XL</StokKodu>
           <Barkod>45651415236</Barkod>
           <StokAdedi>742</StokAdedi>
-          <AlisFiyati>197,90</AlisFiyati>
-          <SatisFiyati>339,90</SatisFiyati>
-          <IndirimliFiyat>339,90</IndirimliFiyat>
+          <AlisFiyati>245,90</AlisFiyati>
+          <SatisFiyati>589,90</SatisFiyati>
+          <IndirimliFiyat>453,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -28916,10 +28916,10 @@
           <VaryasyonID>1141</VaryasyonID>
           <StokKodu>17038.63.S/M</StokKodu>
           <Barkod>45651415237</Barkod>
-          <StokAdedi>754</StokAdedi>
-          <AlisFiyati>197,90</AlisFiyati>
-          <SatisFiyati>339,90</SatisFiyati>
-          <IndirimliFiyat>339,90</IndirimliFiyat>
+          <StokAdedi>753</StokAdedi>
+          <AlisFiyati>245,90</AlisFiyati>
+          <SatisFiyati>589,90</SatisFiyati>
+          <IndirimliFiyat>453,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -28935,9 +28935,9 @@
           <StokKodu>17038.63.BIG</StokKodu>
           <Barkod>45651415238</Barkod>
           <StokAdedi>789</StokAdedi>
-          <AlisFiyati>197,90</AlisFiyati>
-          <SatisFiyati>339,90</SatisFiyati>
-          <IndirimliFiyat>339,90</IndirimliFiyat>
+          <AlisFiyati>245,90</AlisFiyati>
+          <SatisFiyati>589,90</SatisFiyati>
+          <IndirimliFiyat>453,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -29366,8 +29366,8 @@
           <StokKodu>15099.59.2XL</StokKodu>
           <Barkod>45651415262</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>180,90</AlisFiyati>
-          <SatisFiyati>319,90</SatisFiyati>
+          <AlisFiyati>229,90</AlisFiyati>
+          <SatisFiyati>563,90</SatisFiyati>
           <IndirimliFiyat>0,00</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
@@ -29384,8 +29384,8 @@
           <StokKodu>15099.59.3XL</StokKodu>
           <Barkod>45651415263</Barkod>
           <StokAdedi>950</StokAdedi>
-          <AlisFiyati>180,90</AlisFiyati>
-          <SatisFiyati>319,90</SatisFiyati>
+          <AlisFiyati>229,90</AlisFiyati>
+          <SatisFiyati>563,90</SatisFiyati>
           <IndirimliFiyat>0,00</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
@@ -29402,8 +29402,8 @@
           <StokKodu>15099.59.S</StokKodu>
           <Barkod>45651415264</Barkod>
           <StokAdedi>788</StokAdedi>
-          <AlisFiyati>180,90</AlisFiyati>
-          <SatisFiyati>319,90</SatisFiyati>
+          <AlisFiyati>229,90</AlisFiyati>
+          <SatisFiyati>563,90</SatisFiyati>
           <IndirimliFiyat>0,00</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
@@ -29420,8 +29420,8 @@
           <StokKodu>15099.59.L</StokKodu>
           <Barkod>45651415265</Barkod>
           <StokAdedi>763</StokAdedi>
-          <AlisFiyati>180,90</AlisFiyati>
-          <SatisFiyati>319,90</SatisFiyati>
+          <AlisFiyati>229,90</AlisFiyati>
+          <SatisFiyati>563,90</SatisFiyati>
           <IndirimliFiyat>0,00</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
@@ -29438,8 +29438,8 @@
           <StokKodu>15099.59.XL</StokKodu>
           <Barkod>45651415266</Barkod>
           <StokAdedi>807</StokAdedi>
-          <AlisFiyati>180,90</AlisFiyati>
-          <SatisFiyati>319,90</SatisFiyati>
+          <AlisFiyati>229,90</AlisFiyati>
+          <SatisFiyati>563,90</SatisFiyati>
           <IndirimliFiyat>0,00</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
@@ -29456,8 +29456,8 @@
           <StokKodu>15099.59.M</StokKodu>
           <Barkod>45651415267</Barkod>
           <StokAdedi>732</StokAdedi>
-          <AlisFiyati>180,90</AlisFiyati>
-          <SatisFiyati>319,90</SatisFiyati>
+          <AlisFiyati>229,90</AlisFiyati>
+          <SatisFiyati>563,90</SatisFiyati>
           <IndirimliFiyat>0,00</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
@@ -29474,8 +29474,8 @@
           <StokKodu>15099.59.4XL</StokKodu>
           <Barkod>4565141526474</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>180,90</AlisFiyati>
-          <SatisFiyati>319,90</SatisFiyati>
+          <AlisFiyati>229,90</AlisFiyati>
+          <SatisFiyati>563,90</SatisFiyati>
           <IndirimliFiyat>0,00</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
@@ -29492,8 +29492,8 @@
           <StokKodu>15099.59.5XL</StokKodu>
           <Barkod>45651415264963</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>180,90</AlisFiyati>
-          <SatisFiyati>319,90</SatisFiyati>
+          <AlisFiyati>229,90</AlisFiyati>
+          <SatisFiyati>563,90</SatisFiyati>
           <IndirimliFiyat>0,00</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
@@ -29880,9 +29880,9 @@
           <StokKodu>15621.63.2XL</StokKodu>
           <Barkod>45651415283</Barkod>
           <StokAdedi>704</StokAdedi>
-          <AlisFiyati>175,90</AlisFiyati>
-          <SatisFiyati>309,90</SatisFiyati>
-          <IndirimliFiyat>309,90</IndirimliFiyat>
+          <AlisFiyati>209,90</AlisFiyati>
+          <SatisFiyati>529,90</SatisFiyati>
+          <IndirimliFiyat>407,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -29898,9 +29898,9 @@
           <StokKodu>15621.63.3XL</StokKodu>
           <Barkod>45651415284</Barkod>
           <StokAdedi>666</StokAdedi>
-          <AlisFiyati>175,90</AlisFiyati>
-          <SatisFiyati>309,90</SatisFiyati>
-          <IndirimliFiyat>309,90</IndirimliFiyat>
+          <AlisFiyati>209,90</AlisFiyati>
+          <SatisFiyati>529,90</SatisFiyati>
+          <IndirimliFiyat>407,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -29916,9 +29916,9 @@
           <StokKodu>15621.63.S</StokKodu>
           <Barkod>45651415285</Barkod>
           <StokAdedi>614</StokAdedi>
-          <AlisFiyati>175,90</AlisFiyati>
-          <SatisFiyati>309,90</SatisFiyati>
-          <IndirimliFiyat>309,90</IndirimliFiyat>
+          <AlisFiyati>209,90</AlisFiyati>
+          <SatisFiyati>529,90</SatisFiyati>
+          <IndirimliFiyat>407,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -29934,9 +29934,9 @@
           <StokKodu>15621.63.L</StokKodu>
           <Barkod>45651415286</Barkod>
           <StokAdedi>403</StokAdedi>
-          <AlisFiyati>175,90</AlisFiyati>
-          <SatisFiyati>309,90</SatisFiyati>
-          <IndirimliFiyat>309,90</IndirimliFiyat>
+          <AlisFiyati>209,90</AlisFiyati>
+          <SatisFiyati>529,90</SatisFiyati>
+          <IndirimliFiyat>407,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -29952,9 +29952,9 @@
           <StokKodu>15621.63.XL</StokKodu>
           <Barkod>45651415287</Barkod>
           <StokAdedi>584</StokAdedi>
-          <AlisFiyati>175,90</AlisFiyati>
-          <SatisFiyati>309,90</SatisFiyati>
-          <IndirimliFiyat>309,90</IndirimliFiyat>
+          <AlisFiyati>209,90</AlisFiyati>
+          <SatisFiyati>529,90</SatisFiyati>
+          <IndirimliFiyat>407,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -29970,9 +29970,9 @@
           <StokKodu>15621.63.M</StokKodu>
           <Barkod>45651415288</Barkod>
           <StokAdedi>447</StokAdedi>
-          <AlisFiyati>175,90</AlisFiyati>
-          <SatisFiyati>309,90</SatisFiyati>
-          <IndirimliFiyat>309,90</IndirimliFiyat>
+          <AlisFiyati>209,90</AlisFiyati>
+          <SatisFiyati>529,90</SatisFiyati>
+          <IndirimliFiyat>407,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -30820,9 +30820,9 @@
           <StokKodu>15622.4.L/XL</StokKodu>
           <Barkod>18558325185</Barkod>
           <StokAdedi>590</StokAdedi>
-          <AlisFiyati>197,90</AlisFiyati>
-          <SatisFiyati>339,90</SatisFiyati>
-          <IndirimliFiyat>339,90</IndirimliFiyat>
+          <AlisFiyati>228,90</AlisFiyati>
+          <SatisFiyati>560,90</SatisFiyati>
+          <IndirimliFiyat>431,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -30838,9 +30838,9 @@
           <StokKodu>15622.4.S/M</StokKodu>
           <Barkod>18558325186</Barkod>
           <StokAdedi>750</StokAdedi>
-          <AlisFiyati>197,90</AlisFiyati>
-          <SatisFiyati>339,90</SatisFiyati>
-          <IndirimliFiyat>339,90</IndirimliFiyat>
+          <AlisFiyati>228,90</AlisFiyati>
+          <SatisFiyati>560,90</SatisFiyati>
+          <IndirimliFiyat>431,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -30856,9 +30856,9 @@
           <StokKodu>15622.4.BIG</StokKodu>
           <Barkod>18558325187</Barkod>
           <StokAdedi>784</StokAdedi>
-          <AlisFiyati>197,90</AlisFiyati>
-          <SatisFiyati>339,90</SatisFiyati>
-          <IndirimliFiyat>339,90</IndirimliFiyat>
+          <AlisFiyati>228,90</AlisFiyati>
+          <SatisFiyati>560,90</SatisFiyati>
+          <IndirimliFiyat>431,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -31455,9 +31455,9 @@
           <StokKodu>15565.56.L/XL</StokKodu>
           <Barkod>18558325152</Barkod>
           <StokAdedi>685</StokAdedi>
-          <AlisFiyati>200,90</AlisFiyati>
-          <SatisFiyati>339,90</SatisFiyati>
-          <IndirimliFiyat>339,90</IndirimliFiyat>
+          <AlisFiyati>229,90</AlisFiyati>
+          <SatisFiyati>563,90</SatisFiyati>
+          <IndirimliFiyat>433,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -31473,9 +31473,9 @@
           <StokKodu>15565.56.S/M</StokKodu>
           <Barkod>18558325153</Barkod>
           <StokAdedi>676</StokAdedi>
-          <AlisFiyati>200,90</AlisFiyati>
-          <SatisFiyati>339,90</SatisFiyati>
-          <IndirimliFiyat>339,90</IndirimliFiyat>
+          <AlisFiyati>229,90</AlisFiyati>
+          <SatisFiyati>563,90</SatisFiyati>
+          <IndirimliFiyat>433,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -31491,9 +31491,9 @@
           <StokKodu>15565.56.BIG</StokKodu>
           <Barkod>18558325154</Barkod>
           <StokAdedi>409</StokAdedi>
-          <AlisFiyati>200,90</AlisFiyati>
-          <SatisFiyati>339,90</SatisFiyati>
-          <IndirimliFiyat>339,90</IndirimliFiyat>
+          <AlisFiyati>229,90</AlisFiyati>
+          <SatisFiyati>563,90</SatisFiyati>
+          <IndirimliFiyat>433,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -32138,9 +32138,9 @@
           <StokKodu>15094.77.2XL</StokKodu>
           <Barkod>18558325146</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>181,39</AlisFiyati>
-          <SatisFiyati>319,90</SatisFiyati>
-          <IndirimliFiyat>319,90</IndirimliFiyat>
+          <AlisFiyati>229,90</AlisFiyati>
+          <SatisFiyati>563,90</SatisFiyati>
+          <IndirimliFiyat>433,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -32156,9 +32156,9 @@
           <StokKodu>15094.77.3XL</StokKodu>
           <Barkod>18558325147</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>181,39</AlisFiyati>
-          <SatisFiyati>319,90</SatisFiyati>
-          <IndirimliFiyat>319,90</IndirimliFiyat>
+          <AlisFiyati>229,90</AlisFiyati>
+          <SatisFiyati>563,90</SatisFiyati>
+          <IndirimliFiyat>433,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -32174,9 +32174,9 @@
           <StokKodu>15094.77.S</StokKodu>
           <Barkod>18558325148</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>181,39</AlisFiyati>
-          <SatisFiyati>319,90</SatisFiyati>
-          <IndirimliFiyat>319,90</IndirimliFiyat>
+          <AlisFiyati>229,90</AlisFiyati>
+          <SatisFiyati>563,90</SatisFiyati>
+          <IndirimliFiyat>433,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -32192,9 +32192,9 @@
           <StokKodu>15094.77.L</StokKodu>
           <Barkod>18558325149</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>181,39</AlisFiyati>
-          <SatisFiyati>319,90</SatisFiyati>
-          <IndirimliFiyat>319,90</IndirimliFiyat>
+          <AlisFiyati>229,90</AlisFiyati>
+          <SatisFiyati>563,90</SatisFiyati>
+          <IndirimliFiyat>433,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -32210,9 +32210,9 @@
           <StokKodu>15094.77.XL</StokKodu>
           <Barkod>18558325150</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>181,39</AlisFiyati>
-          <SatisFiyati>319,90</SatisFiyati>
-          <IndirimliFiyat>319,90</IndirimliFiyat>
+          <AlisFiyati>229,90</AlisFiyati>
+          <SatisFiyati>563,90</SatisFiyati>
+          <IndirimliFiyat>433,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -32228,9 +32228,9 @@
           <StokKodu>15094.77.M</StokKodu>
           <Barkod>18558325151</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>181,39</AlisFiyati>
-          <SatisFiyati>319,90</SatisFiyati>
-          <IndirimliFiyat>319,90</IndirimliFiyat>
+          <AlisFiyati>229,90</AlisFiyati>
+          <SatisFiyati>563,90</SatisFiyati>
+          <IndirimliFiyat>433,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -32246,9 +32246,9 @@
           <StokKodu>15094.77.4XL</StokKodu>
           <Barkod>18558325148741</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>181,39</AlisFiyati>
-          <SatisFiyati>319,90</SatisFiyati>
-          <IndirimliFiyat>319,90</IndirimliFiyat>
+          <AlisFiyati>229,90</AlisFiyati>
+          <SatisFiyati>563,90</SatisFiyati>
+          <IndirimliFiyat>433,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -32264,9 +32264,9 @@
           <StokKodu>15094.77.5XL</StokKodu>
           <Barkod>18558325148</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>181,39</AlisFiyati>
-          <SatisFiyati>319,90</SatisFiyati>
-          <IndirimliFiyat>319,90</IndirimliFiyat>
+          <AlisFiyati>229,90</AlisFiyati>
+          <SatisFiyati>563,90</SatisFiyati>
+          <IndirimliFiyat>433,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -32828,9 +32828,9 @@
           <StokKodu>15705.5.L/XL</StokKodu>
           <Barkod>18558325112</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>260,90</AlisFiyati>
-          <SatisFiyati>419,90</SatisFiyati>
-          <IndirimliFiyat>419,90</IndirimliFiyat>
+          <AlisFiyati>303,90</AlisFiyati>
+          <SatisFiyati>686,90</SatisFiyati>
+          <IndirimliFiyat>528,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -32846,9 +32846,9 @@
           <StokKodu>15705.5.S/M</StokKodu>
           <Barkod>18558325113</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>260,90</AlisFiyati>
-          <SatisFiyati>419,90</SatisFiyati>
-          <IndirimliFiyat>419,90</IndirimliFiyat>
+          <AlisFiyati>303,90</AlisFiyati>
+          <SatisFiyati>686,90</SatisFiyati>
+          <IndirimliFiyat>528,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -32864,9 +32864,9 @@
           <StokKodu>15705.5.BIG</StokKodu>
           <Barkod>18558325114</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>260,90</AlisFiyati>
-          <SatisFiyati>419,90</SatisFiyati>
-          <IndirimliFiyat>419,90</IndirimliFiyat>
+          <AlisFiyati>303,90</AlisFiyati>
+          <SatisFiyati>686,90</SatisFiyati>
+          <IndirimliFiyat>528,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -33399,9 +33399,9 @@
           <StokKodu>7526.55.S</StokKodu>
           <Barkod>58546890054</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>168,90</AlisFiyati>
-          <SatisFiyati>299,90</SatisFiyati>
-          <IndirimliFiyat>299,90</IndirimliFiyat>
+          <AlisFiyati>209,90</AlisFiyati>
+          <SatisFiyati>529,90</SatisFiyati>
+          <IndirimliFiyat>407,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -33417,9 +33417,9 @@
           <StokKodu>7526.55.L</StokKodu>
           <Barkod>58546890055</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>168,90</AlisFiyati>
-          <SatisFiyati>299,90</SatisFiyati>
-          <IndirimliFiyat>299,90</IndirimliFiyat>
+          <AlisFiyati>209,90</AlisFiyati>
+          <SatisFiyati>529,90</SatisFiyati>
+          <IndirimliFiyat>407,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -33435,9 +33435,9 @@
           <StokKodu>7526.55.XL</StokKodu>
           <Barkod>58546890056</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>168,90</AlisFiyati>
-          <SatisFiyati>299,90</SatisFiyati>
-          <IndirimliFiyat>299,90</IndirimliFiyat>
+          <AlisFiyati>209,90</AlisFiyati>
+          <SatisFiyati>529,90</SatisFiyati>
+          <IndirimliFiyat>407,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -33453,9 +33453,9 @@
           <StokKodu>7526.55.M</StokKodu>
           <Barkod>58546890057</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>168,90</AlisFiyati>
-          <SatisFiyati>299,90</SatisFiyati>
-          <IndirimliFiyat>299,90</IndirimliFiyat>
+          <AlisFiyati>209,90</AlisFiyati>
+          <SatisFiyati>529,90</SatisFiyati>
+          <IndirimliFiyat>407,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -33471,9 +33471,9 @@
           <StokKodu>7526.55.2XL</StokKodu>
           <Barkod>58546890058</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>168,90</AlisFiyati>
-          <SatisFiyati>299,90</SatisFiyati>
-          <IndirimliFiyat>299,90</IndirimliFiyat>
+          <AlisFiyati>209,90</AlisFiyati>
+          <SatisFiyati>529,90</SatisFiyati>
+          <IndirimliFiyat>407,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -35661,9 +35661,9 @@
           <StokKodu>15620.62.2XL</StokKodu>
           <Barkod>7418526396520</Barkod>
           <StokAdedi>653</StokAdedi>
-          <AlisFiyati>175,90</AlisFiyati>
-          <SatisFiyati>309,90</SatisFiyati>
-          <IndirimliFiyat>269,90</IndirimliFiyat>
+          <AlisFiyati>209,90</AlisFiyati>
+          <SatisFiyati>529,90</SatisFiyati>
+          <IndirimliFiyat>407,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -35679,9 +35679,9 @@
           <StokKodu>15620.62.3XL</StokKodu>
           <Barkod>7418526396527</Barkod>
           <StokAdedi>655</StokAdedi>
-          <AlisFiyati>175,90</AlisFiyati>
-          <SatisFiyati>309,90</SatisFiyati>
-          <IndirimliFiyat>269,90</IndirimliFiyat>
+          <AlisFiyati>209,90</AlisFiyati>
+          <SatisFiyati>529,90</SatisFiyati>
+          <IndirimliFiyat>407,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -35697,9 +35697,9 @@
           <StokKodu>15620.62.S</StokKodu>
           <Barkod>7418526396522</Barkod>
           <StokAdedi>462</StokAdedi>
-          <AlisFiyati>175,90</AlisFiyati>
-          <SatisFiyati>309,90</SatisFiyati>
-          <IndirimliFiyat>269,90</IndirimliFiyat>
+          <AlisFiyati>209,90</AlisFiyati>
+          <SatisFiyati>529,90</SatisFiyati>
+          <IndirimliFiyat>407,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -35714,10 +35714,10 @@
           <VaryasyonID>1394</VaryasyonID>
           <StokKodu>15620.62.L</StokKodu>
           <Barkod>7418526396523</Barkod>
-          <StokAdedi>311</StokAdedi>
-          <AlisFiyati>175,90</AlisFiyati>
-          <SatisFiyati>309,90</SatisFiyati>
-          <IndirimliFiyat>269,90</IndirimliFiyat>
+          <StokAdedi>310</StokAdedi>
+          <AlisFiyati>209,90</AlisFiyati>
+          <SatisFiyati>529,90</SatisFiyati>
+          <IndirimliFiyat>407,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -35733,9 +35733,9 @@
           <StokKodu>15620.62.XL</StokKodu>
           <Barkod>7418526396524</Barkod>
           <StokAdedi>442</StokAdedi>
-          <AlisFiyati>175,90</AlisFiyati>
-          <SatisFiyati>309,90</SatisFiyati>
-          <IndirimliFiyat>269,90</IndirimliFiyat>
+          <AlisFiyati>209,90</AlisFiyati>
+          <SatisFiyati>529,90</SatisFiyati>
+          <IndirimliFiyat>407,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -35751,9 +35751,9 @@
           <StokKodu>15620.62.M</StokKodu>
           <Barkod>7418526396529</Barkod>
           <StokAdedi>374</StokAdedi>
-          <AlisFiyati>175,90</AlisFiyati>
-          <SatisFiyati>309,90</SatisFiyati>
-          <IndirimliFiyat>269,90</IndirimliFiyat>
+          <AlisFiyati>209,90</AlisFiyati>
+          <SatisFiyati>529,90</SatisFiyati>
+          <IndirimliFiyat>407,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -36799,9 +36799,9 @@
           <StokKodu>7539.59.S</StokKodu>
           <Barkod>57844980119</Barkod>
           <StokAdedi>965</StokAdedi>
-          <AlisFiyati>223,90</AlisFiyati>
-          <SatisFiyati>424,90</SatisFiyati>
-          <IndirimliFiyat>424,90</IndirimliFiyat>
+          <AlisFiyati>243,90</AlisFiyati>
+          <SatisFiyati>586,90</SatisFiyati>
+          <IndirimliFiyat>451,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -36817,9 +36817,9 @@
           <StokKodu>7539.59.L</StokKodu>
           <Barkod>57844980120</Barkod>
           <StokAdedi>803</StokAdedi>
-          <AlisFiyati>223,90</AlisFiyati>
-          <SatisFiyati>424,90</SatisFiyati>
-          <IndirimliFiyat>424,90</IndirimliFiyat>
+          <AlisFiyati>243,90</AlisFiyati>
+          <SatisFiyati>586,90</SatisFiyati>
+          <IndirimliFiyat>451,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -36835,9 +36835,9 @@
           <StokKodu>7539.59.XL</StokKodu>
           <Barkod>57844980121</Barkod>
           <StokAdedi>656</StokAdedi>
-          <AlisFiyati>223,90</AlisFiyati>
-          <SatisFiyati>424,90</SatisFiyati>
-          <IndirimliFiyat>424,90</IndirimliFiyat>
+          <AlisFiyati>243,90</AlisFiyati>
+          <SatisFiyati>586,90</SatisFiyati>
+          <IndirimliFiyat>451,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -36853,9 +36853,9 @@
           <StokKodu>7539.59.M</StokKodu>
           <Barkod>57844980122</Barkod>
           <StokAdedi>811</StokAdedi>
-          <AlisFiyati>223,90</AlisFiyati>
-          <SatisFiyati>424,90</SatisFiyati>
-          <IndirimliFiyat>424,90</IndirimliFiyat>
+          <AlisFiyati>243,90</AlisFiyati>
+          <SatisFiyati>586,90</SatisFiyati>
+          <IndirimliFiyat>451,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -36871,9 +36871,9 @@
           <StokKodu>7539.59.XS</StokKodu>
           <Barkod>57844980124</Barkod>
           <StokAdedi>994</StokAdedi>
-          <AlisFiyati>223,90</AlisFiyati>
-          <SatisFiyati>424,90</SatisFiyati>
-          <IndirimliFiyat>424,90</IndirimliFiyat>
+          <AlisFiyati>243,90</AlisFiyati>
+          <SatisFiyati>586,90</SatisFiyati>
+          <IndirimliFiyat>451,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -37942,9 +37942,9 @@
           <StokKodu>7536.59.S</StokKodu>
           <Barkod>57844980182</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>229,90</AlisFiyati>
-          <SatisFiyati>389,90</SatisFiyati>
-          <IndirimliFiyat>389,90</IndirimliFiyat>
+          <AlisFiyati>260,90</AlisFiyati>
+          <SatisFiyati>614,90</SatisFiyati>
+          <IndirimliFiyat>473,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -37960,9 +37960,9 @@
           <StokKodu>7536.59.L</StokKodu>
           <Barkod>57844980183</Barkod>
           <StokAdedi>966</StokAdedi>
-          <AlisFiyati>229,90</AlisFiyati>
-          <SatisFiyati>389,90</SatisFiyati>
-          <IndirimliFiyat>389,90</IndirimliFiyat>
+          <AlisFiyati>260,90</AlisFiyati>
+          <SatisFiyati>614,90</SatisFiyati>
+          <IndirimliFiyat>473,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -37978,9 +37978,9 @@
           <StokKodu>7536.59.XL</StokKodu>
           <Barkod>57844980184</Barkod>
           <StokAdedi>970</StokAdedi>
-          <AlisFiyati>229,90</AlisFiyati>
-          <SatisFiyati>389,90</SatisFiyati>
-          <IndirimliFiyat>389,90</IndirimliFiyat>
+          <AlisFiyati>260,90</AlisFiyati>
+          <SatisFiyati>614,90</SatisFiyati>
+          <IndirimliFiyat>473,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -37996,9 +37996,9 @@
           <StokKodu>7536.59.M</StokKodu>
           <Barkod>57844980185</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>229,90</AlisFiyati>
-          <SatisFiyati>389,90</SatisFiyati>
-          <IndirimliFiyat>389,90</IndirimliFiyat>
+          <AlisFiyati>260,90</AlisFiyati>
+          <SatisFiyati>614,90</SatisFiyati>
+          <IndirimliFiyat>473,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -38014,9 +38014,9 @@
           <StokKodu>7536.59.2XL</StokKodu>
           <Barkod>57844980186</Barkod>
           <StokAdedi>996</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>389,90</SatisFiyati>
-          <IndirimliFiyat>389,90</IndirimliFiyat>
+          <AlisFiyati>260,90</AlisFiyati>
+          <SatisFiyati>614,90</SatisFiyati>
+          <IndirimliFiyat>473,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -38742,9 +38742,9 @@
           <StokKodu>E-5503.56.S</StokKodu>
           <Barkod>57844980227</Barkod>
           <StokAdedi>990</StokAdedi>
-          <AlisFiyati>201,57</AlisFiyati>
-          <SatisFiyati>349,90</SatisFiyati>
-          <IndirimliFiyat>349,90</IndirimliFiyat>
+          <AlisFiyati>209,90</AlisFiyati>
+          <SatisFiyati>529,90</SatisFiyati>
+          <IndirimliFiyat>407,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -38760,9 +38760,9 @@
           <StokKodu>E-5503.56.L</StokKodu>
           <Barkod>57844980228</Barkod>
           <StokAdedi>980</StokAdedi>
-          <AlisFiyati>201,57</AlisFiyati>
-          <SatisFiyati>349,90</SatisFiyati>
-          <IndirimliFiyat>349,90</IndirimliFiyat>
+          <AlisFiyati>209,90</AlisFiyati>
+          <SatisFiyati>529,90</SatisFiyati>
+          <IndirimliFiyat>407,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -38778,9 +38778,9 @@
           <StokKodu>E-5503.56.XL</StokKodu>
           <Barkod>57844980229</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>201,57</AlisFiyati>
-          <SatisFiyati>349,90</SatisFiyati>
-          <IndirimliFiyat>349,90</IndirimliFiyat>
+          <AlisFiyati>209,90</AlisFiyati>
+          <SatisFiyati>529,90</SatisFiyati>
+          <IndirimliFiyat>407,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -38796,9 +38796,9 @@
           <StokKodu>E-5503.56.M</StokKodu>
           <Barkod>57844980230</Barkod>
           <StokAdedi>982</StokAdedi>
-          <AlisFiyati>201,57</AlisFiyati>
-          <SatisFiyati>349,90</SatisFiyati>
-          <IndirimliFiyat>349,90</IndirimliFiyat>
+          <AlisFiyati>209,90</AlisFiyati>
+          <SatisFiyati>529,90</SatisFiyati>
+          <IndirimliFiyat>407,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -39349,9 +39349,9 @@
           <StokKodu>B-5508.59.2XL</StokKodu>
           <Barkod>57844980256</Barkod>
           <StokAdedi>988</StokAdedi>
-          <AlisFiyati>126,90</AlisFiyati>
-          <SatisFiyati>249,90</SatisFiyati>
-          <IndirimliFiyat>249,90</IndirimliFiyat>
+          <AlisFiyati>166,90</AlisFiyati>
+          <SatisFiyati>457,90</SatisFiyati>
+          <IndirimliFiyat>352,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -39367,9 +39367,9 @@
           <StokKodu>B-5508.59.S</StokKodu>
           <Barkod>57844980257</Barkod>
           <StokAdedi>986</StokAdedi>
-          <AlisFiyati>126,90</AlisFiyati>
-          <SatisFiyati>249,90</SatisFiyati>
-          <IndirimliFiyat>249,90</IndirimliFiyat>
+          <AlisFiyati>166,90</AlisFiyati>
+          <SatisFiyati>457,90</SatisFiyati>
+          <IndirimliFiyat>352,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -39385,9 +39385,9 @@
           <StokKodu>B-5508.59.L</StokKodu>
           <Barkod>57844980258</Barkod>
           <StokAdedi>992</StokAdedi>
-          <AlisFiyati>126,90</AlisFiyati>
-          <SatisFiyati>249,90</SatisFiyati>
-          <IndirimliFiyat>249,90</IndirimliFiyat>
+          <AlisFiyati>166,90</AlisFiyati>
+          <SatisFiyati>457,90</SatisFiyati>
+          <IndirimliFiyat>352,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -39403,9 +39403,9 @@
           <StokKodu>B-5508.59.XL</StokKodu>
           <Barkod>57844980259</Barkod>
           <StokAdedi>988</StokAdedi>
-          <AlisFiyati>126,90</AlisFiyati>
-          <SatisFiyati>249,90</SatisFiyati>
-          <IndirimliFiyat>249,90</IndirimliFiyat>
+          <AlisFiyati>166,90</AlisFiyati>
+          <SatisFiyati>457,90</SatisFiyati>
+          <IndirimliFiyat>352,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -39421,9 +39421,9 @@
           <StokKodu>B-5508.59.M</StokKodu>
           <Barkod>57844980260</Barkod>
           <StokAdedi>990</StokAdedi>
-          <AlisFiyati>126,90</AlisFiyati>
-          <SatisFiyati>249,90</SatisFiyati>
-          <IndirimliFiyat>249,90</IndirimliFiyat>
+          <AlisFiyati>166,90</AlisFiyati>
+          <SatisFiyati>457,90</SatisFiyati>
+          <IndirimliFiyat>352,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -39439,9 +39439,9 @@
           <StokKodu>B-5508.59.3XL</StokKodu>
           <Barkod>5784498025752</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>126,90</AlisFiyati>
-          <SatisFiyati>249,90</SatisFiyati>
-          <IndirimliFiyat>249,90</IndirimliFiyat>
+          <AlisFiyati>166,90</AlisFiyati>
+          <SatisFiyati>457,90</SatisFiyati>
+          <IndirimliFiyat>352,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -39515,7 +39515,7 @@
           <VaryasyonID>1549</VaryasyonID>
           <StokKodu>15628.53.S</StokKodu>
           <Barkod>57844980309</Barkod>
-          <StokAdedi>70</StokAdedi>
+          <StokAdedi>69</StokAdedi>
           <AlisFiyati>229,90</AlisFiyati>
           <SatisFiyati>389,90</SatisFiyati>
           <IndirimliFiyat>0,00</IndirimliFiyat>
@@ -39879,9 +39879,9 @@
           <StokKodu>M-9000.34.36</StokKodu>
           <Barkod>57844980341</Barkod>
           <StokAdedi>998</StokAdedi>
-          <AlisFiyati>363,90</AlisFiyati>
-          <SatisFiyati>549,90</SatisFiyati>
-          <IndirimliFiyat>549,90</IndirimliFiyat>
+          <AlisFiyati>432,90</AlisFiyati>
+          <SatisFiyati>899,90</SatisFiyati>
+          <IndirimliFiyat>692,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -39897,9 +39897,9 @@
           <StokKodu>M-9000.34.38</StokKodu>
           <Barkod>57844980342</Barkod>
           <StokAdedi>990</StokAdedi>
-          <AlisFiyati>363,90</AlisFiyati>
-          <SatisFiyati>549,90</SatisFiyati>
-          <IndirimliFiyat>549,90</IndirimliFiyat>
+          <AlisFiyati>432,90</AlisFiyati>
+          <SatisFiyati>899,90</SatisFiyati>
+          <IndirimliFiyat>692,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -39915,9 +39915,9 @@
           <StokKodu>M-9000.34.40</StokKodu>
           <Barkod>57844980343</Barkod>
           <StokAdedi>991</StokAdedi>
-          <AlisFiyati>363,90</AlisFiyati>
-          <SatisFiyati>549,90</SatisFiyati>
-          <IndirimliFiyat>549,90</IndirimliFiyat>
+          <AlisFiyati>432,90</AlisFiyati>
+          <SatisFiyati>899,90</SatisFiyati>
+          <IndirimliFiyat>692,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -39933,9 +39933,9 @@
           <StokKodu>M-9000.34.42</StokKodu>
           <Barkod>57844980344</Barkod>
           <StokAdedi>986</StokAdedi>
-          <AlisFiyati>363,90</AlisFiyati>
-          <SatisFiyati>549,90</SatisFiyati>
-          <IndirimliFiyat>549,90</IndirimliFiyat>
+          <AlisFiyati>432,90</AlisFiyati>
+          <SatisFiyati>899,90</SatisFiyati>
+          <IndirimliFiyat>692,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -39951,9 +39951,9 @@
           <StokKodu>M-9000.34.34</StokKodu>
           <Barkod>57844980345</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>363,90</AlisFiyati>
-          <SatisFiyati>549,90</SatisFiyati>
-          <IndirimliFiyat>549,90</IndirimliFiyat>
+          <AlisFiyati>432,90</AlisFiyati>
+          <SatisFiyati>899,90</SatisFiyati>
+          <IndirimliFiyat>692,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -40304,9 +40304,9 @@
           <StokKodu>E-5501.56.S</StokKodu>
           <Barkod>57844980370</Barkod>
           <StokAdedi>987</StokAdedi>
-          <AlisFiyati>217,90</AlisFiyati>
-          <SatisFiyati>369,90</SatisFiyati>
-          <IndirimliFiyat>369,90</IndirimliFiyat>
+          <AlisFiyati>226,90</AlisFiyati>
+          <SatisFiyati>557,90</SatisFiyati>
+          <IndirimliFiyat>429,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -40322,9 +40322,9 @@
           <StokKodu>E-5501.56.L</StokKodu>
           <Barkod>57844980371</Barkod>
           <StokAdedi>988</StokAdedi>
-          <AlisFiyati>217,90</AlisFiyati>
-          <SatisFiyati>369,90</SatisFiyati>
-          <IndirimliFiyat>369,90</IndirimliFiyat>
+          <AlisFiyati>226,90</AlisFiyati>
+          <SatisFiyati>557,90</SatisFiyati>
+          <IndirimliFiyat>429,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -40340,9 +40340,9 @@
           <StokKodu>E-5501.56.XL</StokKodu>
           <Barkod>57844980372</Barkod>
           <StokAdedi>967</StokAdedi>
-          <AlisFiyati>217,90</AlisFiyati>
-          <SatisFiyati>369,90</SatisFiyati>
-          <IndirimliFiyat>369,90</IndirimliFiyat>
+          <AlisFiyati>226,90</AlisFiyati>
+          <SatisFiyati>557,90</SatisFiyati>
+          <IndirimliFiyat>429,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -40358,9 +40358,9 @@
           <StokKodu>E-5501.56.M</StokKodu>
           <Barkod>57844980373</Barkod>
           <StokAdedi>991</StokAdedi>
-          <AlisFiyati>217,90</AlisFiyati>
-          <SatisFiyati>369,90</SatisFiyati>
-          <IndirimliFiyat>369,90</IndirimliFiyat>
+          <AlisFiyati>226,90</AlisFiyati>
+          <SatisFiyati>557,90</SatisFiyati>
+          <IndirimliFiyat>429,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -40661,9 +40661,9 @@
           <StokKodu>7553.5.S</StokKodu>
           <Barkod></Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>159,90</AlisFiyati>
-          <SatisFiyati>289,90</SatisFiyati>
-          <IndirimliFiyat>289,90</IndirimliFiyat>
+          <AlisFiyati>179,90</AlisFiyati>
+          <SatisFiyati>479,90</SatisFiyati>
+          <IndirimliFiyat>369,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -40679,9 +40679,9 @@
           <StokKodu>7553.5.M</StokKodu>
           <Barkod></Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>159,90</AlisFiyati>
-          <SatisFiyati>289,90</SatisFiyati>
-          <IndirimliFiyat>289,90</IndirimliFiyat>
+          <AlisFiyati>179,90</AlisFiyati>
+          <SatisFiyati>479,90</SatisFiyati>
+          <IndirimliFiyat>369,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -40697,9 +40697,9 @@
           <StokKodu>7553.5.L</StokKodu>
           <Barkod></Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>159,90</AlisFiyati>
-          <SatisFiyati>289,90</SatisFiyati>
-          <IndirimliFiyat>289,90</IndirimliFiyat>
+          <AlisFiyati>179,90</AlisFiyati>
+          <SatisFiyati>479,90</SatisFiyati>
+          <IndirimliFiyat>369,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -40715,9 +40715,9 @@
           <StokKodu>7553.5.XL</StokKodu>
           <Barkod></Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>159,90</AlisFiyati>
-          <SatisFiyati>289,90</SatisFiyati>
-          <IndirimliFiyat>289,90</IndirimliFiyat>
+          <AlisFiyati>179,90</AlisFiyati>
+          <SatisFiyati>479,90</SatisFiyati>
+          <IndirimliFiyat>369,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -41296,9 +41296,9 @@
           <StokKodu>7019.59.S</StokKodu>
           <Barkod>0554125662203122</Barkod>
           <StokAdedi>954</StokAdedi>
-          <AlisFiyati>399,90</AlisFiyati>
-          <SatisFiyati>599,90</SatisFiyati>
-          <IndirimliFiyat>599,90</IndirimliFiyat>
+          <AlisFiyati>419,90</AlisFiyati>
+          <SatisFiyati>879,90</SatisFiyati>
+          <IndirimliFiyat>677,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -41314,9 +41314,9 @@
           <StokKodu>7019.59.M</StokKodu>
           <Barkod>0554125662203123</Barkod>
           <StokAdedi>762</StokAdedi>
-          <AlisFiyati>399,90</AlisFiyati>
-          <SatisFiyati>599,90</SatisFiyati>
-          <IndirimliFiyat>599,90</IndirimliFiyat>
+          <AlisFiyati>419,90</AlisFiyati>
+          <SatisFiyati>879,90</SatisFiyati>
+          <IndirimliFiyat>677,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -41332,9 +41332,9 @@
           <StokKodu>7019.59.L</StokKodu>
           <Barkod>0554125662203124</Barkod>
           <StokAdedi>924</StokAdedi>
-          <AlisFiyati>399,90</AlisFiyati>
-          <SatisFiyati>599,90</SatisFiyati>
-          <IndirimliFiyat>599,90</IndirimliFiyat>
+          <AlisFiyati>419,90</AlisFiyati>
+          <SatisFiyati>879,90</SatisFiyati>
+          <IndirimliFiyat>677,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -41350,9 +41350,9 @@
           <StokKodu>7019.59.XL</StokKodu>
           <Barkod>0554125662203125</Barkod>
           <StokAdedi>916</StokAdedi>
-          <AlisFiyati>399,90</AlisFiyati>
-          <SatisFiyati>599,90</SatisFiyati>
-          <IndirimliFiyat>599,90</IndirimliFiyat>
+          <AlisFiyati>419,90</AlisFiyati>
+          <SatisFiyati>879,90</SatisFiyati>
+          <IndirimliFiyat>677,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -42566,9 +42566,9 @@
           <StokKodu>15729.44.S</StokKodu>
           <Barkod>754204562344231606</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>217,90</AlisFiyati>
-          <SatisFiyati>369,90</SatisFiyati>
-          <IndirimliFiyat>369,90</IndirimliFiyat>
+          <AlisFiyati>257,90</AlisFiyati>
+          <SatisFiyati>609,90</SatisFiyati>
+          <IndirimliFiyat>468,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -42584,9 +42584,9 @@
           <StokKodu>15729.44.M</StokKodu>
           <Barkod>754204562344231607</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>217,90</AlisFiyati>
-          <SatisFiyati>369,90</SatisFiyati>
-          <IndirimliFiyat>369,90</IndirimliFiyat>
+          <AlisFiyati>257,90</AlisFiyati>
+          <SatisFiyati>609,90</SatisFiyati>
+          <IndirimliFiyat>468,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -42602,9 +42602,9 @@
           <StokKodu>15729.44.L</StokKodu>
           <Barkod>754204562344231608</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>217,90</AlisFiyati>
-          <SatisFiyati>369,90</SatisFiyati>
-          <IndirimliFiyat>369,90</IndirimliFiyat>
+          <AlisFiyati>257,90</AlisFiyati>
+          <SatisFiyati>609,90</SatisFiyati>
+          <IndirimliFiyat>468,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -42620,9 +42620,9 @@
           <StokKodu>15729.44.XL</StokKodu>
           <Barkod>754204562344231609</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>217,90</AlisFiyati>
-          <SatisFiyati>369,90</SatisFiyati>
-          <IndirimliFiyat>369,90</IndirimliFiyat>
+          <AlisFiyati>257,90</AlisFiyati>
+          <SatisFiyati>609,90</SatisFiyati>
+          <IndirimliFiyat>468,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -42638,9 +42638,9 @@
           <StokKodu>15729.44.2XL</StokKodu>
           <Barkod>754204562344231600</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>217,90</AlisFiyati>
-          <SatisFiyati>369,90</SatisFiyati>
-          <IndirimliFiyat>369,90</IndirimliFiyat>
+          <AlisFiyati>257,90</AlisFiyati>
+          <SatisFiyati>609,90</SatisFiyati>
+          <IndirimliFiyat>468,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -43173,9 +43173,9 @@
           <StokKodu>7559.34.S</StokKodu>
           <Barkod>1862432414046438527</Barkod>
           <StokAdedi>659</StokAdedi>
-          <AlisFiyati>199,90</AlisFiyati>
-          <SatisFiyati>339,90</SatisFiyati>
-          <IndirimliFiyat>339,90</IndirimliFiyat>
+          <AlisFiyati>209,90</AlisFiyati>
+          <SatisFiyati>529,90</SatisFiyati>
+          <IndirimliFiyat>407,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -43191,9 +43191,9 @@
           <StokKodu>7559.34.M</StokKodu>
           <Barkod>1862432414046438528</Barkod>
           <StokAdedi>767</StokAdedi>
-          <AlisFiyati>199,90</AlisFiyati>
-          <SatisFiyati>339,90</SatisFiyati>
-          <IndirimliFiyat>339,90</IndirimliFiyat>
+          <AlisFiyati>209,90</AlisFiyati>
+          <SatisFiyati>529,90</SatisFiyati>
+          <IndirimliFiyat>407,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -43209,9 +43209,9 @@
           <StokKodu>7559.34.L</StokKodu>
           <Barkod>1862432414046438529</Barkod>
           <StokAdedi>779</StokAdedi>
-          <AlisFiyati>199,90</AlisFiyati>
-          <SatisFiyati>339,90</SatisFiyati>
-          <IndirimliFiyat>339,90</IndirimliFiyat>
+          <AlisFiyati>209,90</AlisFiyati>
+          <SatisFiyati>529,90</SatisFiyati>
+          <IndirimliFiyat>407,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -43227,9 +43227,9 @@
           <StokKodu>7559.34.XL</StokKodu>
           <Barkod>1862432414046438530</Barkod>
           <StokAdedi>783</StokAdedi>
-          <AlisFiyati>199,90</AlisFiyati>
-          <SatisFiyati>339,90</SatisFiyati>
-          <IndirimliFiyat>339,90</IndirimliFiyat>
+          <AlisFiyati>209,90</AlisFiyati>
+          <SatisFiyati>529,90</SatisFiyati>
+          <IndirimliFiyat>407,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -43245,9 +43245,9 @@
           <StokKodu>7559.34.2XL</StokKodu>
           <Barkod>1862432414046438531</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>199,90</AlisFiyati>
-          <SatisFiyati>339,90</SatisFiyati>
-          <IndirimliFiyat>339,90</IndirimliFiyat>
+          <AlisFiyati>209,90</AlisFiyati>
+          <SatisFiyati>529,90</SatisFiyati>
+          <IndirimliFiyat>407,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -44563,9 +44563,9 @@
           <StokKodu>B-5510.34.S</StokKodu>
           <Barkod>465654676754450</Barkod>
           <StokAdedi>998</StokAdedi>
-          <AlisFiyati>138,90</AlisFiyati>
-          <SatisFiyati>259,90</SatisFiyati>
-          <IndirimliFiyat>259,90</IndirimliFiyat>
+          <AlisFiyati>166,90</AlisFiyati>
+          <SatisFiyati>457,90</SatisFiyati>
+          <IndirimliFiyat>352,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -44581,9 +44581,9 @@
           <StokKodu>B-5510.34.M</StokKodu>
           <Barkod>465654676754451</Barkod>
           <StokAdedi>993</StokAdedi>
-          <AlisFiyati>138,90</AlisFiyati>
-          <SatisFiyati>259,90</SatisFiyati>
-          <IndirimliFiyat>259,90</IndirimliFiyat>
+          <AlisFiyati>166,90</AlisFiyati>
+          <SatisFiyati>457,90</SatisFiyati>
+          <IndirimliFiyat>352,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -44599,9 +44599,9 @@
           <StokKodu>B-5510.34.L</StokKodu>
           <Barkod>465654676754452</Barkod>
           <StokAdedi>998</StokAdedi>
-          <AlisFiyati>138,90</AlisFiyati>
-          <SatisFiyati>259,90</SatisFiyati>
-          <IndirimliFiyat>259,90</IndirimliFiyat>
+          <AlisFiyati>166,90</AlisFiyati>
+          <SatisFiyati>457,90</SatisFiyati>
+          <IndirimliFiyat>352,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -44617,9 +44617,9 @@
           <StokKodu>B-5510.34.XL</StokKodu>
           <Barkod>465654676754454</Barkod>
           <StokAdedi>997</StokAdedi>
-          <AlisFiyati>138,90</AlisFiyati>
-          <SatisFiyati>259,90</SatisFiyati>
-          <IndirimliFiyat>259,90</IndirimliFiyat>
+          <AlisFiyati>166,90</AlisFiyati>
+          <SatisFiyati>457,90</SatisFiyati>
+          <IndirimliFiyat>352,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -44635,9 +44635,9 @@
           <StokKodu>B-5510.34.2XL</StokKodu>
           <Barkod>465654676754455</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>138,90</AlisFiyati>
-          <SatisFiyati>259,90</SatisFiyati>
-          <IndirimliFiyat>259,90</IndirimliFiyat>
+          <AlisFiyati>166,90</AlisFiyati>
+          <SatisFiyati>457,90</SatisFiyati>
+          <IndirimliFiyat>352,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -45226,9 +45226,9 @@
           <StokKodu>15771.59.S/M</StokKodu>
           <Barkod>8524196341203</Barkod>
           <StokAdedi>830</StokAdedi>
-          <AlisFiyati>200,90</AlisFiyati>
-          <SatisFiyati>339,90</SatisFiyati>
-          <IndirimliFiyat>339,90</IndirimliFiyat>
+          <AlisFiyati>229,90</AlisFiyati>
+          <SatisFiyati>563,90</SatisFiyati>
+          <IndirimliFiyat>433,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -45244,9 +45244,9 @@
           <StokKodu>15771.59.L/XL</StokKodu>
           <Barkod>8524196341204</Barkod>
           <StokAdedi>803</StokAdedi>
-          <AlisFiyati>200,90</AlisFiyati>
-          <SatisFiyati>339,90</SatisFiyati>
-          <IndirimliFiyat>339,90</IndirimliFiyat>
+          <AlisFiyati>229,90</AlisFiyati>
+          <SatisFiyati>563,90</SatisFiyati>
+          <IndirimliFiyat>433,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -45262,9 +45262,9 @@
           <StokKodu>15771.59.BIG</StokKodu>
           <Barkod>8524196341205</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>200,90</AlisFiyati>
-          <SatisFiyati>339,90</SatisFiyati>
-          <IndirimliFiyat>339,90</IndirimliFiyat>
+          <AlisFiyati>229,90</AlisFiyati>
+          <SatisFiyati>563,90</SatisFiyati>
+          <IndirimliFiyat>433,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -45495,9 +45495,9 @@
           <StokKodu>7053.67.S</StokKodu>
           <Barkod>8509894015500</Barkod>
           <StokAdedi>974</StokAdedi>
-          <AlisFiyati>372,40</AlisFiyati>
-          <SatisFiyati>564,90</SatisFiyati>
-          <IndirimliFiyat>564,90</IndirimliFiyat>
+          <AlisFiyati>386,90</AlisFiyati>
+          <SatisFiyati>823,90</SatisFiyati>
+          <IndirimliFiyat>633,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -45513,9 +45513,9 @@
           <StokKodu>7053.67.M</StokKodu>
           <Barkod>8509894015501</Barkod>
           <StokAdedi>974</StokAdedi>
-          <AlisFiyati>372,40</AlisFiyati>
-          <SatisFiyati>564,90</SatisFiyati>
-          <IndirimliFiyat>564,90</IndirimliFiyat>
+          <AlisFiyati>386,90</AlisFiyati>
+          <SatisFiyati>823,90</SatisFiyati>
+          <IndirimliFiyat>633,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -45531,9 +45531,9 @@
           <StokKodu>7053.67.L</StokKodu>
           <Barkod>8509894015502</Barkod>
           <StokAdedi>976</StokAdedi>
-          <AlisFiyati>372,40</AlisFiyati>
-          <SatisFiyati>564,90</SatisFiyati>
-          <IndirimliFiyat>564,90</IndirimliFiyat>
+          <AlisFiyati>386,90</AlisFiyati>
+          <SatisFiyati>823,90</SatisFiyati>
+          <IndirimliFiyat>633,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -45549,9 +45549,9 @@
           <StokKodu>7053.67.XL</StokKodu>
           <Barkod>8509894015503</Barkod>
           <StokAdedi>962</StokAdedi>
-          <AlisFiyati>372,40</AlisFiyati>
-          <SatisFiyati>564,90</SatisFiyati>
-          <IndirimliFiyat>564,90</IndirimliFiyat>
+          <AlisFiyati>386,90</AlisFiyati>
+          <SatisFiyati>823,90</SatisFiyati>
+          <IndirimliFiyat>633,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -45911,9 +45911,9 @@
           <StokKodu>7057.55.S</StokKodu>
           <Barkod>23002305601565654</Barkod>
           <StokAdedi>916</StokAdedi>
-          <AlisFiyati>183,90</AlisFiyati>
-          <SatisFiyati>319,90</SatisFiyati>
-          <IndirimliFiyat>319,90</IndirimliFiyat>
+          <AlisFiyati>204,90</AlisFiyati>
+          <SatisFiyati>519,90</SatisFiyati>
+          <IndirimliFiyat>399,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -45929,9 +45929,9 @@
           <StokKodu>7057.55.M</StokKodu>
           <Barkod>23002305601565655</Barkod>
           <StokAdedi>885</StokAdedi>
-          <AlisFiyati>183,90</AlisFiyati>
-          <SatisFiyati>319,90</SatisFiyati>
-          <IndirimliFiyat>319,90</IndirimliFiyat>
+          <AlisFiyati>204,90</AlisFiyati>
+          <SatisFiyati>519,90</SatisFiyati>
+          <IndirimliFiyat>399,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -45947,9 +45947,9 @@
           <StokKodu>7057.55.L</StokKodu>
           <Barkod>23002305601565656</Barkod>
           <StokAdedi>899</StokAdedi>
-          <AlisFiyati>183,90</AlisFiyati>
-          <SatisFiyati>319,90</SatisFiyati>
-          <IndirimliFiyat>319,90</IndirimliFiyat>
+          <AlisFiyati>204,90</AlisFiyati>
+          <SatisFiyati>519,90</SatisFiyati>
+          <IndirimliFiyat>399,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -45965,9 +45965,9 @@
           <StokKodu>7057.55.XL</StokKodu>
           <Barkod>23002305601565657</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>183,90</AlisFiyati>
-          <SatisFiyati>319,90</SatisFiyati>
-          <IndirimliFiyat>319,90</IndirimliFiyat>
+          <AlisFiyati>204,90</AlisFiyati>
+          <SatisFiyati>519,90</SatisFiyati>
+          <IndirimliFiyat>399,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -46267,9 +46267,9 @@
           <StokKodu>19509.59.S</StokKodu>
           <Barkod>74850254310332</Barkod>
           <StokAdedi>849</StokAdedi>
-          <AlisFiyati>183,90</AlisFiyati>
-          <SatisFiyati>319,90</SatisFiyati>
-          <IndirimliFiyat>319,90</IndirimliFiyat>
+          <AlisFiyati>214,90</AlisFiyati>
+          <SatisFiyati>537,90</SatisFiyati>
+          <IndirimliFiyat>413,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -46285,9 +46285,9 @@
           <StokKodu>19509.59.M</StokKodu>
           <Barkod>74850254310333</Barkod>
           <StokAdedi>785</StokAdedi>
-          <AlisFiyati>183,90</AlisFiyati>
-          <SatisFiyati>319,90</SatisFiyati>
-          <IndirimliFiyat>319,90</IndirimliFiyat>
+          <AlisFiyati>214,90</AlisFiyati>
+          <SatisFiyati>537,90</SatisFiyati>
+          <IndirimliFiyat>413,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -46303,9 +46303,9 @@
           <StokKodu>19509.59.L</StokKodu>
           <Barkod>74850254310334</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>183,90</AlisFiyati>
-          <SatisFiyati>319,90</SatisFiyati>
-          <IndirimliFiyat>319,90</IndirimliFiyat>
+          <AlisFiyati>214,90</AlisFiyati>
+          <SatisFiyati>537,90</SatisFiyati>
+          <IndirimliFiyat>413,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -46321,9 +46321,9 @@
           <StokKodu>19509.59.XL</StokKodu>
           <Barkod>74850254310335</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>183,90</AlisFiyati>
-          <SatisFiyati>319,90</SatisFiyati>
-          <IndirimliFiyat>319,90</IndirimliFiyat>
+          <AlisFiyati>214,90</AlisFiyati>
+          <SatisFiyati>537,90</SatisFiyati>
+          <IndirimliFiyat>413,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -46339,9 +46339,9 @@
           <StokKodu>19509.59.2XL</StokKodu>
           <Barkod>74850254310336</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>183,90</AlisFiyati>
-          <SatisFiyati>319,90</SatisFiyati>
-          <IndirimliFiyat>319,90</IndirimliFiyat>
+          <AlisFiyati>214,90</AlisFiyati>
+          <SatisFiyati>537,90</SatisFiyati>
+          <IndirimliFiyat>413,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -48294,9 +48294,9 @@
           <StokKodu>15773.1.S</StokKodu>
           <Barkod>9945000165654</Barkod>
           <StokAdedi>978</StokAdedi>
-          <AlisFiyati>225,90</AlisFiyati>
-          <SatisFiyati>556,90</SatisFiyati>
-          <IndirimliFiyat>429,90</IndirimliFiyat>
+          <AlisFiyati>238,90</AlisFiyati>
+          <SatisFiyati>577,90</SatisFiyati>
+          <IndirimliFiyat>444,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -48312,9 +48312,9 @@
           <StokKodu>15773.1.M</StokKodu>
           <Barkod>9945000165655</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>225,90</AlisFiyati>
-          <SatisFiyati>556,90</SatisFiyati>
-          <IndirimliFiyat>429,90</IndirimliFiyat>
+          <AlisFiyati>238,90</AlisFiyati>
+          <SatisFiyati>577,90</SatisFiyati>
+          <IndirimliFiyat>444,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -48330,9 +48330,9 @@
           <StokKodu>15773.1.L</StokKodu>
           <Barkod>9945000165656</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>225,90</AlisFiyati>
-          <SatisFiyati>556,90</SatisFiyati>
-          <IndirimliFiyat>429,90</IndirimliFiyat>
+          <AlisFiyati>238,90</AlisFiyati>
+          <SatisFiyati>577,90</SatisFiyati>
+          <IndirimliFiyat>444,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -48348,9 +48348,9 @@
           <StokKodu>15773.1.XL</StokKodu>
           <Barkod>9945000165657</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>225,90</AlisFiyati>
-          <SatisFiyati>556,90</SatisFiyati>
-          <IndirimliFiyat>429,90</IndirimliFiyat>
+          <AlisFiyati>238,90</AlisFiyati>
+          <SatisFiyati>577,90</SatisFiyati>
+          <IndirimliFiyat>444,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -48366,9 +48366,9 @@
           <StokKodu>15773.1.2XL</StokKodu>
           <Barkod>9945000165658</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>225,90</AlisFiyati>
-          <SatisFiyati>556,90</SatisFiyati>
-          <IndirimliFiyat>429,90</IndirimliFiyat>
+          <AlisFiyati>238,90</AlisFiyati>
+          <SatisFiyati>577,90</SatisFiyati>
+          <IndirimliFiyat>444,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -48384,9 +48384,9 @@
           <StokKodu>15773.1.3XL</StokKodu>
           <Barkod>9945000165658</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>225,90</AlisFiyati>
-          <SatisFiyati>556,90</SatisFiyati>
-          <IndirimliFiyat>429,90</IndirimliFiyat>
+          <AlisFiyati>238,90</AlisFiyati>
+          <SatisFiyati>577,90</SatisFiyati>
+          <IndirimliFiyat>444,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -49093,9 +49093,9 @@
           <StokKodu>15779.56.S</StokKodu>
           <Barkod>65565546544401454</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>295,90</AlisFiyati>
-          <SatisFiyati>672,90</SatisFiyati>
-          <IndirimliFiyat>517,90</IndirimliFiyat>
+          <AlisFiyati>312,90</AlisFiyati>
+          <SatisFiyati>699,90</SatisFiyati>
+          <IndirimliFiyat>539,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -49111,9 +49111,9 @@
           <StokKodu>15779.56.M</StokKodu>
           <Barkod>65565546544401455</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>295,90</AlisFiyati>
-          <SatisFiyati>672,90</SatisFiyati>
-          <IndirimliFiyat>517,90</IndirimliFiyat>
+          <AlisFiyati>312,90</AlisFiyati>
+          <SatisFiyati>699,90</SatisFiyati>
+          <IndirimliFiyat>539,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -49129,9 +49129,9 @@
           <StokKodu>15779.56.L</StokKodu>
           <Barkod>65565546544401456</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>295,90</AlisFiyati>
-          <SatisFiyati>672,90</SatisFiyati>
-          <IndirimliFiyat>517,90</IndirimliFiyat>
+          <AlisFiyati>312,90</AlisFiyati>
+          <SatisFiyati>699,90</SatisFiyati>
+          <IndirimliFiyat>539,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -49147,9 +49147,9 @@
           <StokKodu>15779.56.XL</StokKodu>
           <Barkod>65565546544401457</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>295,90</AlisFiyati>
-          <SatisFiyati>672,90</SatisFiyati>
-          <IndirimliFiyat>517,90</IndirimliFiyat>
+          <AlisFiyati>312,90</AlisFiyati>
+          <SatisFiyati>699,90</SatisFiyati>
+          <IndirimliFiyat>539,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -49281,9 +49281,9 @@
           <StokKodu>15910.59.S</StokKodu>
           <Barkod>89724114078520</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>175,90</AlisFiyati>
-          <SatisFiyati>309,90</SatisFiyati>
-          <IndirimliFiyat>309,90</IndirimliFiyat>
+          <AlisFiyati>209,90</AlisFiyati>
+          <SatisFiyati>529,90</SatisFiyati>
+          <IndirimliFiyat>407,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -49299,9 +49299,9 @@
           <StokKodu>15910.59.M</StokKodu>
           <Barkod>89724114078521</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>175,90</AlisFiyati>
-          <SatisFiyati>309,90</SatisFiyati>
-          <IndirimliFiyat>309,90</IndirimliFiyat>
+          <AlisFiyati>209,90</AlisFiyati>
+          <SatisFiyati>529,90</SatisFiyati>
+          <IndirimliFiyat>407,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -49317,9 +49317,9 @@
           <StokKodu>15910.59.L</StokKodu>
           <Barkod>89724114078522</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>175,90</AlisFiyati>
-          <SatisFiyati>309,90</SatisFiyati>
-          <IndirimliFiyat>309,90</IndirimliFiyat>
+          <AlisFiyati>209,90</AlisFiyati>
+          <SatisFiyati>529,90</SatisFiyati>
+          <IndirimliFiyat>407,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -49335,9 +49335,9 @@
           <StokKodu>15910.59.XL</StokKodu>
           <Barkod>89724114078523</Barkod>
           <StokAdedi>771</StokAdedi>
-          <AlisFiyati>175,90</AlisFiyati>
-          <SatisFiyati>309,90</SatisFiyati>
-          <IndirimliFiyat>309,90</IndirimliFiyat>
+          <AlisFiyati>209,90</AlisFiyati>
+          <SatisFiyati>529,90</SatisFiyati>
+          <IndirimliFiyat>407,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -49353,9 +49353,9 @@
           <StokKodu>15910.59.2XL</StokKodu>
           <Barkod>89724114078524</Barkod>
           <StokAdedi>896</StokAdedi>
-          <AlisFiyati>175,90</AlisFiyati>
-          <SatisFiyati>309,90</SatisFiyati>
-          <IndirimliFiyat>309,90</IndirimliFiyat>
+          <AlisFiyati>209,90</AlisFiyati>
+          <SatisFiyati>529,90</SatisFiyati>
+          <IndirimliFiyat>407,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -49371,9 +49371,9 @@
           <StokKodu>15910.59.3XL</StokKodu>
           <Barkod>89724114078525</Barkod>
           <StokAdedi>896</StokAdedi>
-          <AlisFiyati>175,90</AlisFiyati>
-          <SatisFiyati>309,90</SatisFiyati>
-          <IndirimliFiyat>309,90</IndirimliFiyat>
+          <AlisFiyati>209,90</AlisFiyati>
+          <SatisFiyati>529,90</SatisFiyati>
+          <IndirimliFiyat>407,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -49508,9 +49508,9 @@
           <StokKodu>7067.19.S</StokKodu>
           <Barkod>04565428432450</Barkod>
           <StokAdedi>953</StokAdedi>
-          <AlisFiyati>235,90</AlisFiyati>
-          <SatisFiyati>389,90</SatisFiyati>
-          <IndirimliFiyat>389,90</IndirimliFiyat>
+          <AlisFiyati>253,90</AlisFiyati>
+          <SatisFiyati>603,90</SatisFiyati>
+          <IndirimliFiyat>464,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -49526,9 +49526,9 @@
           <StokKodu>7067.19.M</StokKodu>
           <Barkod>04565428432451</Barkod>
           <StokAdedi>927</StokAdedi>
-          <AlisFiyati>235,90</AlisFiyati>
-          <SatisFiyati>389,90</SatisFiyati>
-          <IndirimliFiyat>389,90</IndirimliFiyat>
+          <AlisFiyati>253,90</AlisFiyati>
+          <SatisFiyati>603,90</SatisFiyati>
+          <IndirimliFiyat>464,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -49544,9 +49544,9 @@
           <StokKodu>7067.19.L</StokKodu>
           <Barkod>04565428432452</Barkod>
           <StokAdedi>917</StokAdedi>
-          <AlisFiyati>235,90</AlisFiyati>
-          <SatisFiyati>389,90</SatisFiyati>
-          <IndirimliFiyat>389,90</IndirimliFiyat>
+          <AlisFiyati>253,90</AlisFiyati>
+          <SatisFiyati>603,90</SatisFiyati>
+          <IndirimliFiyat>464,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -49562,9 +49562,9 @@
           <StokKodu>7067.19.XL</StokKodu>
           <Barkod>04565428432453</Barkod>
           <StokAdedi>917</StokAdedi>
-          <AlisFiyati>235,90</AlisFiyati>
-          <SatisFiyati>389,90</SatisFiyati>
-          <IndirimliFiyat>389,90</IndirimliFiyat>
+          <AlisFiyati>253,90</AlisFiyati>
+          <SatisFiyati>603,90</SatisFiyati>
+          <IndirimliFiyat>464,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -49699,9 +49699,9 @@
           <StokKodu>7071.53.S</StokKodu>
           <Barkod>5962504014545602</Barkod>
           <StokAdedi>950</StokAdedi>
-          <AlisFiyati>260,90</AlisFiyati>
-          <SatisFiyati>419,90</SatisFiyati>
-          <IndirimliFiyat>419,90</IndirimliFiyat>
+          <AlisFiyati>302,90</AlisFiyati>
+          <SatisFiyati>683,90</SatisFiyati>
+          <IndirimliFiyat>525,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -49717,9 +49717,9 @@
           <StokKodu>7071.53.M</StokKodu>
           <Barkod>5962504014545603</Barkod>
           <StokAdedi>930</StokAdedi>
-          <AlisFiyati>260,90</AlisFiyati>
-          <SatisFiyati>419,90</SatisFiyati>
-          <IndirimliFiyat>419,90</IndirimliFiyat>
+          <AlisFiyati>302,90</AlisFiyati>
+          <SatisFiyati>683,90</SatisFiyati>
+          <IndirimliFiyat>525,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -49735,9 +49735,9 @@
           <StokKodu>7071.53.L</StokKodu>
           <Barkod>5962504014545604</Barkod>
           <StokAdedi>936</StokAdedi>
-          <AlisFiyati>260,90</AlisFiyati>
-          <SatisFiyati>419,90</SatisFiyati>
-          <IndirimliFiyat>419,90</IndirimliFiyat>
+          <AlisFiyati>302,90</AlisFiyati>
+          <SatisFiyati>683,90</SatisFiyati>
+          <IndirimliFiyat>525,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -49753,9 +49753,9 @@
           <StokKodu>7071.53.XL</StokKodu>
           <Barkod>5962504014545605</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>260,90</AlisFiyati>
-          <SatisFiyati>419,90</SatisFiyati>
-          <IndirimliFiyat>419,90</IndirimliFiyat>
+          <AlisFiyati>302,90</AlisFiyati>
+          <SatisFiyati>683,90</SatisFiyati>
+          <IndirimliFiyat>525,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -49794,9 +49794,9 @@
           <StokKodu>7073.62.S</StokKodu>
           <Barkod>97878780554020</Barkod>
           <StokAdedi>987</StokAdedi>
-          <AlisFiyati>586,90</AlisFiyati>
-          <SatisFiyati>839,90</SatisFiyati>
-          <IndirimliFiyat>839,90</IndirimliFiyat>
+          <AlisFiyati>616,90</AlisFiyati>
+          <SatisFiyati>1206,90</SatisFiyati>
+          <IndirimliFiyat>928,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -49812,9 +49812,9 @@
           <StokKodu>7073.62.M</StokKodu>
           <Barkod>97878780554021</Barkod>
           <StokAdedi>986</StokAdedi>
-          <AlisFiyati>586,90</AlisFiyati>
-          <SatisFiyati>839,90</SatisFiyati>
-          <IndirimliFiyat>839,90</IndirimliFiyat>
+          <AlisFiyati>616,90</AlisFiyati>
+          <SatisFiyati>1206,90</SatisFiyati>
+          <IndirimliFiyat>928,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -49830,9 +49830,9 @@
           <StokKodu>7073.62.L</StokKodu>
           <Barkod>97878780554022</Barkod>
           <StokAdedi>992</StokAdedi>
-          <AlisFiyati>586,90</AlisFiyati>
-          <SatisFiyati>839,90</SatisFiyati>
-          <IndirimliFiyat>839,90</IndirimliFiyat>
+          <AlisFiyati>616,90</AlisFiyati>
+          <SatisFiyati>1206,90</SatisFiyati>
+          <IndirimliFiyat>928,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -49848,9 +49848,9 @@
           <StokKodu>7073.62.XL</StokKodu>
           <Barkod>97878780554023</Barkod>
           <StokAdedi>987</StokAdedi>
-          <AlisFiyati>586,90</AlisFiyati>
-          <SatisFiyati>839,90</SatisFiyati>
-          <IndirimliFiyat>839,90</IndirimliFiyat>
+          <AlisFiyati>616,90</AlisFiyati>
+          <SatisFiyati>1206,90</SatisFiyati>
+          <IndirimliFiyat>928,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -49983,9 +49983,9 @@
           <StokKodu>7079.55.S</StokKodu>
           <Barkod>9801504454505654</Barkod>
           <StokAdedi>996</StokAdedi>
-          <AlisFiyati>260,90</AlisFiyati>
-          <SatisFiyati>419,90</SatisFiyati>
-          <IndirimliFiyat>419,90</IndirimliFiyat>
+          <AlisFiyati>307,90</AlisFiyati>
+          <SatisFiyati>692,90</SatisFiyati>
+          <IndirimliFiyat>532,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -50001,9 +50001,9 @@
           <StokKodu>7079.55.M</StokKodu>
           <Barkod>9801504454505655</Barkod>
           <StokAdedi>992</StokAdedi>
-          <AlisFiyati>260,90</AlisFiyati>
-          <SatisFiyati>419,90</SatisFiyati>
-          <IndirimliFiyat>419,90</IndirimliFiyat>
+          <AlisFiyati>307,90</AlisFiyati>
+          <SatisFiyati>692,90</SatisFiyati>
+          <IndirimliFiyat>532,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -50019,9 +50019,9 @@
           <StokKodu>7079.55.L</StokKodu>
           <Barkod>9801504454505656</Barkod>
           <StokAdedi>996</StokAdedi>
-          <AlisFiyati>260,90</AlisFiyati>
-          <SatisFiyati>419,90</SatisFiyati>
-          <IndirimliFiyat>419,90</IndirimliFiyat>
+          <AlisFiyati>307,90</AlisFiyati>
+          <SatisFiyati>692,90</SatisFiyati>
+          <IndirimliFiyat>532,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -50037,9 +50037,9 @@
           <StokKodu>7079.55.XL</StokKodu>
           <Barkod>9801504454505657</Barkod>
           <StokAdedi>995</StokAdedi>
-          <AlisFiyati>260,90</AlisFiyati>
-          <SatisFiyati>419,90</SatisFiyati>
-          <IndirimliFiyat>419,90</IndirimliFiyat>
+          <AlisFiyati>307,90</AlisFiyati>
+          <SatisFiyati>692,90</SatisFiyati>
+          <IndirimliFiyat>532,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -50649,8 +50649,8 @@
           <StokKodu>7081.51.S</StokKodu>
           <Barkod>87011040012021305</Barkod>
           <StokAdedi>969</StokAdedi>
-          <AlisFiyati>320,90</AlisFiyati>
-          <SatisFiyati>499,90</SatisFiyati>
+          <AlisFiyati>379,90</AlisFiyati>
+          <SatisFiyati>815,90</SatisFiyati>
           <IndirimliFiyat>0,00</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
@@ -50667,8 +50667,8 @@
           <StokKodu>7081.51.M</StokKodu>
           <Barkod>87011040012021306</Barkod>
           <StokAdedi>941</StokAdedi>
-          <AlisFiyati>320,90</AlisFiyati>
-          <SatisFiyati>499,90</SatisFiyati>
+          <AlisFiyati>379,90</AlisFiyati>
+          <SatisFiyati>815,90</SatisFiyati>
           <IndirimliFiyat>0,00</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
@@ -50685,8 +50685,8 @@
           <StokKodu>7081.51.L</StokKodu>
           <Barkod>87011040012021307</Barkod>
           <StokAdedi>962</StokAdedi>
-          <AlisFiyati>320,90</AlisFiyati>
-          <SatisFiyati>499,90</SatisFiyati>
+          <AlisFiyati>379,90</AlisFiyati>
+          <SatisFiyati>815,90</SatisFiyati>
           <IndirimliFiyat>0,00</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
@@ -50703,8 +50703,8 @@
           <StokKodu>7081.51.XL</StokKodu>
           <Barkod>87011040012021308</Barkod>
           <StokAdedi>926</StokAdedi>
-          <AlisFiyati>320,90</AlisFiyati>
-          <SatisFiyati>499,90</SatisFiyati>
+          <AlisFiyati>379,90</AlisFiyati>
+          <SatisFiyati>815,90</SatisFiyati>
           <IndirimliFiyat>0,00</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
@@ -50839,9 +50839,9 @@
           <StokKodu>15901.1.S/M</StokKodu>
           <Barkod>05650612650555</Barkod>
           <StokAdedi>867</StokAdedi>
-          <AlisFiyati>214,90</AlisFiyati>
-          <SatisFiyati>359,90</SatisFiyati>
-          <IndirimliFiyat>359,90</IndirimliFiyat>
+          <AlisFiyati>243,90</AlisFiyati>
+          <SatisFiyati>586,90</SatisFiyati>
+          <IndirimliFiyat>451,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -50857,9 +50857,9 @@
           <StokKodu>15901.1.L/XL</StokKodu>
           <Barkod>05650612650556</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>214,90</AlisFiyati>
-          <SatisFiyati>359,90</SatisFiyati>
-          <IndirimliFiyat>359,90</IndirimliFiyat>
+          <AlisFiyati>243,90</AlisFiyati>
+          <SatisFiyati>586,90</SatisFiyati>
+          <IndirimliFiyat>451,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -50875,9 +50875,9 @@
           <StokKodu>15901.1.BIG</StokKodu>
           <Barkod>05650612650557</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>214,90</AlisFiyati>
-          <SatisFiyati>359,90</SatisFiyati>
-          <IndirimliFiyat>359,90</IndirimliFiyat>
+          <AlisFiyati>243,90</AlisFiyati>
+          <SatisFiyati>586,90</SatisFiyati>
+          <IndirimliFiyat>451,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -51012,9 +51012,9 @@
           <StokKodu>7097.56.S</StokKodu>
           <Barkod>904565345354</Barkod>
           <StokAdedi>782</StokAdedi>
-          <AlisFiyati>235,90</AlisFiyati>
-          <SatisFiyati>389,90</SatisFiyati>
-          <IndirimliFiyat>389,90</IndirimliFiyat>
+          <AlisFiyati>253,90</AlisFiyati>
+          <SatisFiyati>603,90</SatisFiyati>
+          <IndirimliFiyat>464,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -51030,9 +51030,9 @@
           <StokKodu>7097.56.M</StokKodu>
           <Barkod>904565345355</Barkod>
           <StokAdedi>749</StokAdedi>
-          <AlisFiyati>235,90</AlisFiyati>
-          <SatisFiyati>389,90</SatisFiyati>
-          <IndirimliFiyat>389,90</IndirimliFiyat>
+          <AlisFiyati>253,90</AlisFiyati>
+          <SatisFiyati>603,90</SatisFiyati>
+          <IndirimliFiyat>464,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -51048,9 +51048,9 @@
           <StokKodu>7097.56.L</StokKodu>
           <Barkod>904565345356</Barkod>
           <StokAdedi>837</StokAdedi>
-          <AlisFiyati>235,90</AlisFiyati>
-          <SatisFiyati>389,90</SatisFiyati>
-          <IndirimliFiyat>389,90</IndirimliFiyat>
+          <AlisFiyati>253,90</AlisFiyati>
+          <SatisFiyati>603,90</SatisFiyati>
+          <IndirimliFiyat>464,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -51066,9 +51066,9 @@
           <StokKodu>7097.56.XL</StokKodu>
           <Barkod>904565345357</Barkod>
           <StokAdedi>859</StokAdedi>
-          <AlisFiyati>235,90</AlisFiyati>
-          <SatisFiyati>389,90</SatisFiyati>
-          <IndirimliFiyat>389,90</IndirimliFiyat>
+          <AlisFiyati>253,90</AlisFiyati>
+          <SatisFiyati>603,90</SatisFiyati>
+          <IndirimliFiyat>464,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -51109,9 +51109,9 @@
           <StokKodu>7093.67.S</StokKodu>
           <Barkod>0322305405401450</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>235,90</AlisFiyati>
-          <SatisFiyati>389,90</SatisFiyati>
-          <IndirimliFiyat>389,90</IndirimliFiyat>
+          <AlisFiyati>253,90</AlisFiyati>
+          <SatisFiyati>603,90</SatisFiyati>
+          <IndirimliFiyat>464,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -51127,9 +51127,9 @@
           <StokKodu>7093.67.M</StokKodu>
           <Barkod>0322305405401451</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>235,90</AlisFiyati>
-          <SatisFiyati>389,90</SatisFiyati>
-          <IndirimliFiyat>389,90</IndirimliFiyat>
+          <AlisFiyati>253,90</AlisFiyati>
+          <SatisFiyati>603,90</SatisFiyati>
+          <IndirimliFiyat>464,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -51145,9 +51145,9 @@
           <StokKodu>7093.67.L</StokKodu>
           <Barkod>0322305405401452</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>235,90</AlisFiyati>
-          <SatisFiyati>389,90</SatisFiyati>
-          <IndirimliFiyat>389,90</IndirimliFiyat>
+          <AlisFiyati>253,90</AlisFiyati>
+          <SatisFiyati>603,90</SatisFiyati>
+          <IndirimliFiyat>464,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -51163,9 +51163,9 @@
           <StokKodu>7093.67.XL</StokKodu>
           <Barkod>0322305405401453</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>235,90</AlisFiyati>
-          <SatisFiyati>389,90</SatisFiyati>
-          <IndirimliFiyat>389,90</IndirimliFiyat>
+          <AlisFiyati>253,90</AlisFiyati>
+          <SatisFiyati>603,90</SatisFiyati>
+          <IndirimliFiyat>464,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -51205,9 +51205,9 @@
           <StokKodu>7095.53.S</StokKodu>
           <Barkod>9894504501452300</Barkod>
           <StokAdedi>955</StokAdedi>
-          <AlisFiyati>243,90</AlisFiyati>
-          <SatisFiyati>399,90</SatisFiyati>
-          <IndirimliFiyat>399,90</IndirimliFiyat>
+          <AlisFiyati>269,90</AlisFiyati>
+          <SatisFiyati>629,90</SatisFiyati>
+          <IndirimliFiyat>484,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -51223,9 +51223,9 @@
           <StokKodu>7095.53.M</StokKodu>
           <Barkod>9894504501452301</Barkod>
           <StokAdedi>924</StokAdedi>
-          <AlisFiyati>243,90</AlisFiyati>
-          <SatisFiyati>399,90</SatisFiyati>
-          <IndirimliFiyat>399,90</IndirimliFiyat>
+          <AlisFiyati>269,90</AlisFiyati>
+          <SatisFiyati>629,90</SatisFiyati>
+          <IndirimliFiyat>484,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -51241,9 +51241,9 @@
           <StokKodu>7095.53.L</StokKodu>
           <Barkod>9894504501452302</Barkod>
           <StokAdedi>951</StokAdedi>
-          <AlisFiyati>243,90</AlisFiyati>
-          <SatisFiyati>399,90</SatisFiyati>
-          <IndirimliFiyat>399,90</IndirimliFiyat>
+          <AlisFiyati>269,90</AlisFiyati>
+          <SatisFiyati>629,90</SatisFiyati>
+          <IndirimliFiyat>484,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -51259,9 +51259,9 @@
           <StokKodu>7095.53.XL</StokKodu>
           <Barkod>9894504501452303</Barkod>
           <StokAdedi>927</StokAdedi>
-          <AlisFiyati>243,90</AlisFiyati>
-          <SatisFiyati>399,90</SatisFiyati>
-          <IndirimliFiyat>399,90</IndirimliFiyat>
+          <AlisFiyati>269,90</AlisFiyati>
+          <SatisFiyati>629,90</SatisFiyati>
+          <IndirimliFiyat>484,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -51378,9 +51378,9 @@
           <StokKodu>7087.44.S</StokKodu>
           <Barkod>503434534575</Barkod>
           <StokAdedi>997</StokAdedi>
-          <AlisFiyati>355,90</AlisFiyati>
-          <SatisFiyati>539,90</SatisFiyati>
-          <IndirimliFiyat>539,90</IndirimliFiyat>
+          <AlisFiyati>374,90</AlisFiyati>
+          <SatisFiyati>803,90</SatisFiyati>
+          <IndirimliFiyat>618,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -51396,9 +51396,9 @@
           <StokKodu>7087.44.M</StokKodu>
           <Barkod>503434534576</Barkod>
           <StokAdedi>992</StokAdedi>
-          <AlisFiyati>355,90</AlisFiyati>
-          <SatisFiyati>539,90</SatisFiyati>
-          <IndirimliFiyat>539,90</IndirimliFiyat>
+          <AlisFiyati>374,90</AlisFiyati>
+          <SatisFiyati>803,90</SatisFiyati>
+          <IndirimliFiyat>618,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -51414,9 +51414,9 @@
           <StokKodu>7087.44.L</StokKodu>
           <Barkod>503434534577</Barkod>
           <StokAdedi>978</StokAdedi>
-          <AlisFiyati>355,90</AlisFiyati>
-          <SatisFiyati>539,90</SatisFiyati>
-          <IndirimliFiyat>539,90</IndirimliFiyat>
+          <AlisFiyati>374,90</AlisFiyati>
+          <SatisFiyati>803,90</SatisFiyati>
+          <IndirimliFiyat>618,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -51432,9 +51432,9 @@
           <StokKodu>7087.44.XL</StokKodu>
           <Barkod>503434534578</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>355,90</AlisFiyati>
-          <SatisFiyati>539,90</SatisFiyati>
-          <IndirimliFiyat>539,90</IndirimliFiyat>
+          <AlisFiyati>374,90</AlisFiyati>
+          <SatisFiyati>803,90</SatisFiyati>
+          <IndirimliFiyat>618,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -51474,9 +51474,9 @@
           <StokKodu>7089.73.S</StokKodu>
           <Barkod>68344105220320</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>269,90</AlisFiyati>
-          <SatisFiyati>449,90</SatisFiyati>
-          <IndirimliFiyat>449,90</IndirimliFiyat>
+          <AlisFiyati>307,90</AlisFiyati>
+          <SatisFiyati>692,90</SatisFiyati>
+          <IndirimliFiyat>532,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -51492,9 +51492,9 @@
           <StokKodu>7089.73.M</StokKodu>
           <Barkod>68344105220321</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>269,90</AlisFiyati>
-          <SatisFiyati>449,90</SatisFiyati>
-          <IndirimliFiyat>449,90</IndirimliFiyat>
+          <AlisFiyati>307,90</AlisFiyati>
+          <SatisFiyati>692,90</SatisFiyati>
+          <IndirimliFiyat>532,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -51510,9 +51510,9 @@
           <StokKodu>7089.73.L</StokKodu>
           <Barkod>68344105220322</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>269,90</AlisFiyati>
-          <SatisFiyati>449,90</SatisFiyati>
-          <IndirimliFiyat>449,90</IndirimliFiyat>
+          <AlisFiyati>307,90</AlisFiyati>
+          <SatisFiyati>692,90</SatisFiyati>
+          <IndirimliFiyat>532,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -51528,9 +51528,9 @@
           <StokKodu>7089.73.XL</StokKodu>
           <Barkod>68344105220323</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>269,90</AlisFiyati>
-          <SatisFiyati>449,90</SatisFiyati>
-          <IndirimliFiyat>449,90</IndirimliFiyat>
+          <AlisFiyati>307,90</AlisFiyati>
+          <SatisFiyati>692,90</SatisFiyati>
+          <IndirimliFiyat>532,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -51646,9 +51646,9 @@
           <StokKodu>7099.19.S</StokKodu>
           <Barkod>68101400212534</Barkod>
           <StokAdedi>986</StokAdedi>
-          <AlisFiyati>235,90</AlisFiyati>
-          <SatisFiyati>389,90</SatisFiyati>
-          <IndirimliFiyat>389,90</IndirimliFiyat>
+          <AlisFiyati>274,90</AlisFiyati>
+          <SatisFiyati>637,90</SatisFiyati>
+          <IndirimliFiyat>489,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -51664,9 +51664,9 @@
           <StokKodu>7099.19.M</StokKodu>
           <Barkod>68101400212535</Barkod>
           <StokAdedi>981</StokAdedi>
-          <AlisFiyati>235,90</AlisFiyati>
-          <SatisFiyati>389,90</SatisFiyati>
-          <IndirimliFiyat>389,90</IndirimliFiyat>
+          <AlisFiyati>274,90</AlisFiyati>
+          <SatisFiyati>637,90</SatisFiyati>
+          <IndirimliFiyat>489,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -51682,9 +51682,9 @@
           <StokKodu>7099.19.L</StokKodu>
           <Barkod>68101400212536</Barkod>
           <StokAdedi>984</StokAdedi>
-          <AlisFiyati>235,90</AlisFiyati>
-          <SatisFiyati>389,90</SatisFiyati>
-          <IndirimliFiyat>389,90</IndirimliFiyat>
+          <AlisFiyati>274,90</AlisFiyati>
+          <SatisFiyati>637,90</SatisFiyati>
+          <IndirimliFiyat>489,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -51700,9 +51700,9 @@
           <StokKodu>7099.19.XL</StokKodu>
           <Barkod>68101400212537</Barkod>
           <StokAdedi>980</StokAdedi>
-          <AlisFiyati>235,90</AlisFiyati>
-          <SatisFiyati>389,90</SatisFiyati>
-          <IndirimliFiyat>389,90</IndirimliFiyat>
+          <AlisFiyati>274,90</AlisFiyati>
+          <SatisFiyati>637,90</SatisFiyati>
+          <IndirimliFiyat>489,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -51742,9 +51742,9 @@
           <StokKodu>7091.67.S</StokKodu>
           <Barkod>98989896214145020</Barkod>
           <StokAdedi>983</StokAdedi>
-          <AlisFiyati>260,90</AlisFiyati>
-          <SatisFiyati>449,90</SatisFiyati>
-          <IndirimliFiyat>449,90</IndirimliFiyat>
+          <AlisFiyati>275,90</AlisFiyati>
+          <SatisFiyati>639,90</SatisFiyati>
+          <IndirimliFiyat>492,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -51760,9 +51760,9 @@
           <StokKodu>7091.67.M</StokKodu>
           <Barkod>98989896214145021</Barkod>
           <StokAdedi>967</StokAdedi>
-          <AlisFiyati>260,90</AlisFiyati>
-          <SatisFiyati>449,90</SatisFiyati>
-          <IndirimliFiyat>449,90</IndirimliFiyat>
+          <AlisFiyati>275,90</AlisFiyati>
+          <SatisFiyati>639,90</SatisFiyati>
+          <IndirimliFiyat>492,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -51778,9 +51778,9 @@
           <StokKodu>7091.67.L</StokKodu>
           <Barkod>98989896214145022</Barkod>
           <StokAdedi>970</StokAdedi>
-          <AlisFiyati>260,90</AlisFiyati>
-          <SatisFiyati>449,90</SatisFiyati>
-          <IndirimliFiyat>449,90</IndirimliFiyat>
+          <AlisFiyati>275,90</AlisFiyati>
+          <SatisFiyati>639,90</SatisFiyati>
+          <IndirimliFiyat>492,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -51796,9 +51796,9 @@
           <StokKodu>7091.67.XL</StokKodu>
           <Barkod>98989896214145023</Barkod>
           <StokAdedi>979</StokAdedi>
-          <AlisFiyati>260,90</AlisFiyati>
-          <SatisFiyati>449,90</SatisFiyati>
-          <IndirimliFiyat>449,90</IndirimliFiyat>
+          <AlisFiyati>275,90</AlisFiyati>
+          <SatisFiyati>639,90</SatisFiyati>
+          <IndirimliFiyat>492,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -52221,9 +52221,9 @@
           <StokKodu>7103.56.S</StokKodu>
           <Barkod>9856720320367245</Barkod>
           <StokAdedi>974</StokAdedi>
-          <AlisFiyati>243,90</AlisFiyati>
-          <SatisFiyati>399,90</SatisFiyati>
-          <IndirimliFiyat>399,90</IndirimliFiyat>
+          <AlisFiyati>269,90</AlisFiyati>
+          <SatisFiyati>629,90</SatisFiyati>
+          <IndirimliFiyat>484,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -52239,9 +52239,9 @@
           <StokKodu>7103.56.M</StokKodu>
           <Barkod>9856720320367246</Barkod>
           <StokAdedi>969</StokAdedi>
-          <AlisFiyati>243,90</AlisFiyati>
-          <SatisFiyati>399,90</SatisFiyati>
-          <IndirimliFiyat>399,90</IndirimliFiyat>
+          <AlisFiyati>269,90</AlisFiyati>
+          <SatisFiyati>629,90</SatisFiyati>
+          <IndirimliFiyat>484,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -52257,9 +52257,9 @@
           <StokKodu>7103.56.L</StokKodu>
           <Barkod>9856720320367247</Barkod>
           <StokAdedi>975</StokAdedi>
-          <AlisFiyati>243,90</AlisFiyati>
-          <SatisFiyati>399,90</SatisFiyati>
-          <IndirimliFiyat>399,90</IndirimliFiyat>
+          <AlisFiyati>269,90</AlisFiyati>
+          <SatisFiyati>629,90</SatisFiyati>
+          <IndirimliFiyat>484,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -52275,9 +52275,9 @@
           <StokKodu>7103.56.XL</StokKodu>
           <Barkod>9856720320367248</Barkod>
           <StokAdedi>975</StokAdedi>
-          <AlisFiyati>243,90</AlisFiyati>
-          <SatisFiyati>399,90</SatisFiyati>
-          <IndirimliFiyat>399,90</IndirimliFiyat>
+          <AlisFiyati>269,90</AlisFiyati>
+          <SatisFiyati>629,90</SatisFiyati>
+          <IndirimliFiyat>484,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -52312,9 +52312,9 @@
           <StokKodu>7075.56.S</StokKodu>
           <Barkod>8744404554100012</Barkod>
           <StokAdedi>984</StokAdedi>
-          <AlisFiyati>235,90</AlisFiyati>
-          <SatisFiyati>379,90</SatisFiyati>
-          <IndirimliFiyat>379,90</IndirimliFiyat>
+          <AlisFiyati>253,90</AlisFiyati>
+          <SatisFiyati>603,90</SatisFiyati>
+          <IndirimliFiyat>464,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -52330,9 +52330,9 @@
           <StokKodu>7075.56.M</StokKodu>
           <Barkod>8744404554100013</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>235,90</AlisFiyati>
-          <SatisFiyati>379,90</SatisFiyati>
-          <IndirimliFiyat>379,90</IndirimliFiyat>
+          <AlisFiyati>253,90</AlisFiyati>
+          <SatisFiyati>603,90</SatisFiyati>
+          <IndirimliFiyat>464,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -52348,9 +52348,9 @@
           <StokKodu>7075.56.L</StokKodu>
           <Barkod>8744404554100013</Barkod>
           <StokAdedi>981</StokAdedi>
-          <AlisFiyati>235,90</AlisFiyati>
-          <SatisFiyati>379,90</SatisFiyati>
-          <IndirimliFiyat>379,90</IndirimliFiyat>
+          <AlisFiyati>253,90</AlisFiyati>
+          <SatisFiyati>603,90</SatisFiyati>
+          <IndirimliFiyat>464,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -52366,9 +52366,9 @@
           <StokKodu>7075.56.XL</StokKodu>
           <Barkod>8744404554100014</Barkod>
           <StokAdedi>978</StokAdedi>
-          <AlisFiyati>235,90</AlisFiyati>
-          <SatisFiyati>379,90</SatisFiyati>
-          <IndirimliFiyat>379,90</IndirimliFiyat>
+          <AlisFiyati>253,90</AlisFiyati>
+          <SatisFiyati>603,90</SatisFiyati>
+          <IndirimliFiyat>464,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -52502,9 +52502,9 @@
           <StokKodu>7111.53.S</StokKodu>
           <Barkod>03123232325645</Barkod>
           <StokAdedi>1</StokAdedi>
-          <AlisFiyati>235,90</AlisFiyati>
-          <SatisFiyati>379,90</SatisFiyati>
-          <IndirimliFiyat>379,90</IndirimliFiyat>
+          <AlisFiyati>253,90</AlisFiyati>
+          <SatisFiyati>603,90</SatisFiyati>
+          <IndirimliFiyat>464,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -52520,9 +52520,9 @@
           <StokKodu>7111.53.M</StokKodu>
           <Barkod>03123232325646</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>235,90</AlisFiyati>
-          <SatisFiyati>379,90</SatisFiyati>
-          <IndirimliFiyat>379,90</IndirimliFiyat>
+          <AlisFiyati>253,90</AlisFiyati>
+          <SatisFiyati>603,90</SatisFiyati>
+          <IndirimliFiyat>464,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -52538,9 +52538,9 @@
           <StokKodu>7111.53.L</StokKodu>
           <Barkod>03123232325647</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>235,90</AlisFiyati>
-          <SatisFiyati>379,90</SatisFiyati>
-          <IndirimliFiyat>379,90</IndirimliFiyat>
+          <AlisFiyati>253,90</AlisFiyati>
+          <SatisFiyati>603,90</SatisFiyati>
+          <IndirimliFiyat>464,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -52556,9 +52556,9 @@
           <StokKodu>7111.53.XL</StokKodu>
           <Barkod>03123232325648</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>235,90</AlisFiyati>
-          <SatisFiyati>379,90</SatisFiyati>
-          <IndirimliFiyat>379,90</IndirimliFiyat>
+          <AlisFiyati>253,90</AlisFiyati>
+          <SatisFiyati>603,90</SatisFiyati>
+          <IndirimliFiyat>464,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -52596,9 +52596,9 @@
           <StokKodu>7107.6.S</StokKodu>
           <Barkod>788889752462653</Barkod>
           <StokAdedi>983</StokAdedi>
-          <AlisFiyati>269,90</AlisFiyati>
-          <SatisFiyati>449,90</SatisFiyati>
-          <IndirimliFiyat>339,90</IndirimliFiyat>
+          <AlisFiyati>307,90</AlisFiyati>
+          <SatisFiyati>692,90</SatisFiyati>
+          <IndirimliFiyat>532,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -52614,9 +52614,9 @@
           <StokKodu>7107.6.M</StokKodu>
           <Barkod>788889752462654</Barkod>
           <StokAdedi>971</StokAdedi>
-          <AlisFiyati>269,90</AlisFiyati>
-          <SatisFiyati>449,90</SatisFiyati>
-          <IndirimliFiyat>339,90</IndirimliFiyat>
+          <AlisFiyati>307,90</AlisFiyati>
+          <SatisFiyati>692,90</SatisFiyati>
+          <IndirimliFiyat>532,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -52632,9 +52632,9 @@
           <StokKodu>7107.6.L</StokKodu>
           <Barkod>788889752462655</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>269,90</AlisFiyati>
-          <SatisFiyati>449,90</SatisFiyati>
-          <IndirimliFiyat>339,90</IndirimliFiyat>
+          <AlisFiyati>307,90</AlisFiyati>
+          <SatisFiyati>692,90</SatisFiyati>
+          <IndirimliFiyat>532,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -52650,9 +52650,9 @@
           <StokKodu>7107.6.XL</StokKodu>
           <Barkod>788889752462656</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>269,90</AlisFiyati>
-          <SatisFiyati>449,90</SatisFiyati>
-          <IndirimliFiyat>339,90</IndirimliFiyat>
+          <AlisFiyati>307,90</AlisFiyati>
+          <SatisFiyati>692,90</SatisFiyati>
+          <IndirimliFiyat>532,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -52690,9 +52690,9 @@
           <StokKodu>15915.52.S</StokKodu>
           <Barkod>650012124545454</Barkod>
           <StokAdedi>966</StokAdedi>
-          <AlisFiyati>175,90</AlisFiyati>
-          <SatisFiyati>299,90</SatisFiyati>
-          <IndirimliFiyat>299,90</IndirimliFiyat>
+          <AlisFiyati>183,90</AlisFiyati>
+          <SatisFiyati>485,90</SatisFiyati>
+          <IndirimliFiyat>374,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -52708,9 +52708,9 @@
           <StokKodu>15915.52.M</StokKodu>
           <Barkod>650012124545455</Barkod>
           <StokAdedi>937</StokAdedi>
-          <AlisFiyati>175,90</AlisFiyati>
-          <SatisFiyati>299,90</SatisFiyati>
-          <IndirimliFiyat>299,90</IndirimliFiyat>
+          <AlisFiyati>183,90</AlisFiyati>
+          <SatisFiyati>485,90</SatisFiyati>
+          <IndirimliFiyat>374,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -52725,10 +52725,10 @@
           <VaryasyonID>2104</VaryasyonID>
           <StokKodu>15915.52.L</StokKodu>
           <Barkod>650012124545456</Barkod>
-          <StokAdedi>938</StokAdedi>
-          <AlisFiyati>175,90</AlisFiyati>
-          <SatisFiyati>299,90</SatisFiyati>
-          <IndirimliFiyat>299,90</IndirimliFiyat>
+          <StokAdedi>937</StokAdedi>
+          <AlisFiyati>183,90</AlisFiyati>
+          <SatisFiyati>485,90</SatisFiyati>
+          <IndirimliFiyat>374,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -52744,9 +52744,9 @@
           <StokKodu>15915.52.XL</StokKodu>
           <Barkod>650012124545457</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>175,90</AlisFiyati>
-          <SatisFiyati>299,90</SatisFiyati>
-          <IndirimliFiyat>299,90</IndirimliFiyat>
+          <AlisFiyati>183,90</AlisFiyati>
+          <SatisFiyati>485,90</SatisFiyati>
+          <IndirimliFiyat>374,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -52786,9 +52786,9 @@
           <StokKodu>7105.1.S</StokKodu>
           <Barkod>214145411401233</Barkod>
           <StokAdedi>808</StokAdedi>
-          <AlisFiyati>192,90</AlisFiyati>
-          <SatisFiyati>500,90</SatisFiyati>
-          <IndirimliFiyat>500,90</IndirimliFiyat>
+          <AlisFiyati>202,90</AlisFiyati>
+          <SatisFiyati>517,90</SatisFiyati>
+          <IndirimliFiyat>398,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -52804,9 +52804,9 @@
           <StokKodu>7105.1.M</StokKodu>
           <Barkod>214145411401234</Barkod>
           <StokAdedi>788</StokAdedi>
-          <AlisFiyati>192,90</AlisFiyati>
-          <SatisFiyati>500,90</SatisFiyati>
-          <IndirimliFiyat>500,90</IndirimliFiyat>
+          <AlisFiyati>202,90</AlisFiyati>
+          <SatisFiyati>517,90</SatisFiyati>
+          <IndirimliFiyat>398,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -52822,9 +52822,9 @@
           <StokKodu>7105.1.L</StokKodu>
           <Barkod>214145411401235</Barkod>
           <StokAdedi>804</StokAdedi>
-          <AlisFiyati>192,90</AlisFiyati>
-          <SatisFiyati>500,90</SatisFiyati>
-          <IndirimliFiyat>500,90</IndirimliFiyat>
+          <AlisFiyati>202,90</AlisFiyati>
+          <SatisFiyati>517,90</SatisFiyati>
+          <IndirimliFiyat>398,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -52840,9 +52840,9 @@
           <StokKodu>7105.1.XL</StokKodu>
           <Barkod>214145411401236</Barkod>
           <StokAdedi>772</StokAdedi>
-          <AlisFiyati>192,90</AlisFiyati>
-          <SatisFiyati>500,90</SatisFiyati>
-          <IndirimliFiyat>500,90</IndirimliFiyat>
+          <AlisFiyati>202,90</AlisFiyati>
+          <SatisFiyati>517,90</SatisFiyati>
+          <IndirimliFiyat>398,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -52858,9 +52858,9 @@
           <StokKodu>7105.1.2XL</StokKodu>
           <Barkod>5352254255</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>192,90</AlisFiyati>
-          <SatisFiyati>500,90</SatisFiyati>
-          <IndirimliFiyat>500,90</IndirimliFiyat>
+          <AlisFiyati>202,90</AlisFiyati>
+          <SatisFiyati>517,90</SatisFiyati>
+          <IndirimliFiyat>398,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -52876,9 +52876,9 @@
           <StokKodu>7105.1.3XL</StokKodu>
           <Barkod>53455225</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>192,90</AlisFiyati>
-          <SatisFiyati>500,90</SatisFiyati>
-          <IndirimliFiyat>500,90</IndirimliFiyat>
+          <AlisFiyati>202,90</AlisFiyati>
+          <SatisFiyati>517,90</SatisFiyati>
+          <IndirimliFiyat>398,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -53586,9 +53586,9 @@
           <StokKodu>7131.56.S</StokKodu>
           <Barkod>89879254056410</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>243,90</AlisFiyati>
-          <SatisFiyati>399,90</SatisFiyati>
-          <IndirimliFiyat>399,90</IndirimliFiyat>
+          <AlisFiyati>253,90</AlisFiyati>
+          <SatisFiyati>603,90</SatisFiyati>
+          <IndirimliFiyat>464,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -53604,9 +53604,9 @@
           <StokKodu>7131.56.M</StokKodu>
           <Barkod>89879254056411</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>243,90</AlisFiyati>
-          <SatisFiyati>399,90</SatisFiyati>
-          <IndirimliFiyat>399,90</IndirimliFiyat>
+          <AlisFiyati>253,90</AlisFiyati>
+          <SatisFiyati>603,90</SatisFiyati>
+          <IndirimliFiyat>464,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -53622,9 +53622,9 @@
           <StokKodu>7131.56.L</StokKodu>
           <Barkod>89879254056412</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>243,90</AlisFiyati>
-          <SatisFiyati>399,90</SatisFiyati>
-          <IndirimliFiyat>399,90</IndirimliFiyat>
+          <AlisFiyati>253,90</AlisFiyati>
+          <SatisFiyati>603,90</SatisFiyati>
+          <IndirimliFiyat>464,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -53640,9 +53640,9 @@
           <StokKodu>7131.56.XL</StokKodu>
           <Barkod>89879254056413</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>243,90</AlisFiyati>
-          <SatisFiyati>399,90</SatisFiyati>
-          <IndirimliFiyat>399,90</IndirimliFiyat>
+          <AlisFiyati>253,90</AlisFiyati>
+          <SatisFiyati>603,90</SatisFiyati>
+          <IndirimliFiyat>464,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -53948,9 +53948,9 @@
           <StokKodu>15925.1.S</StokKodu>
           <Barkod>646217077624340</Barkod>
           <StokAdedi>920</StokAdedi>
-          <AlisFiyati>192,90</AlisFiyati>
-          <SatisFiyati>385,90</SatisFiyati>
-          <IndirimliFiyat>385,90</IndirimliFiyat>
+          <AlisFiyati>209,90</AlisFiyati>
+          <SatisFiyati>529,90</SatisFiyati>
+          <IndirimliFiyat>407,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -53966,9 +53966,9 @@
           <StokKodu>15925.1.M</StokKodu>
           <Barkod>646217077624341</Barkod>
           <StokAdedi>875</StokAdedi>
-          <AlisFiyati>192,90</AlisFiyati>
-          <SatisFiyati>385,90</SatisFiyati>
-          <IndirimliFiyat>385,90</IndirimliFiyat>
+          <AlisFiyati>209,90</AlisFiyati>
+          <SatisFiyati>529,90</SatisFiyati>
+          <IndirimliFiyat>407,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -53984,9 +53984,9 @@
           <StokKodu>15925.1.L</StokKodu>
           <Barkod>646217077624342</Barkod>
           <StokAdedi>901</StokAdedi>
-          <AlisFiyati>192,90</AlisFiyati>
-          <SatisFiyati>385,90</SatisFiyati>
-          <IndirimliFiyat>385,90</IndirimliFiyat>
+          <AlisFiyati>209,90</AlisFiyati>
+          <SatisFiyati>529,90</SatisFiyati>
+          <IndirimliFiyat>407,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -54002,9 +54002,9 @@
           <StokKodu>15925.1.XL</StokKodu>
           <Barkod>646217077624343</Barkod>
           <StokAdedi>917</StokAdedi>
-          <AlisFiyati>192,90</AlisFiyati>
-          <SatisFiyati>385,90</SatisFiyati>
-          <IndirimliFiyat>385,90</IndirimliFiyat>
+          <AlisFiyati>209,90</AlisFiyati>
+          <SatisFiyati>529,90</SatisFiyati>
+          <IndirimliFiyat>407,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -54020,9 +54020,9 @@
           <StokKodu>15925.1.2XL</StokKodu>
           <Barkod>646217077624344</Barkod>
           <StokAdedi>946</StokAdedi>
-          <AlisFiyati>192,90</AlisFiyati>
-          <SatisFiyati>385,90</SatisFiyati>
-          <IndirimliFiyat>385,90</IndirimliFiyat>
+          <AlisFiyati>209,90</AlisFiyati>
+          <SatisFiyati>529,90</SatisFiyati>
+          <IndirimliFiyat>407,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -54038,9 +54038,9 @@
           <StokKodu>15925.1.3XL</StokKodu>
           <Barkod>646217077624345</Barkod>
           <StokAdedi>946</StokAdedi>
-          <AlisFiyati>192,90</AlisFiyati>
-          <SatisFiyati>385,90</SatisFiyati>
-          <IndirimliFiyat>385,90</IndirimliFiyat>
+          <AlisFiyati>209,90</AlisFiyati>
+          <SatisFiyati>529,90</SatisFiyati>
+          <IndirimliFiyat>407,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -56027,9 +56027,9 @@
           <StokKodu>15935.62.S</StokKodu>
           <Barkod>53453534534534</Barkod>
           <StokAdedi>951</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>363,90</SatisFiyati>
-          <IndirimliFiyat>363,90</IndirimliFiyat>
+          <AlisFiyati>183,90</AlisFiyati>
+          <SatisFiyati>485,90</SatisFiyati>
+          <IndirimliFiyat>374,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -56045,9 +56045,9 @@
           <StokKodu>15935.62.M</StokKodu>
           <Barkod>4352543535345</Barkod>
           <StokAdedi>940</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>363,90</SatisFiyati>
-          <IndirimliFiyat>363,90</IndirimliFiyat>
+          <AlisFiyati>183,90</AlisFiyati>
+          <SatisFiyati>485,90</SatisFiyati>
+          <IndirimliFiyat>374,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -56063,9 +56063,9 @@
           <StokKodu>15935.62.L</StokKodu>
           <Barkod>5235425235345</Barkod>
           <StokAdedi>951</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>363,90</SatisFiyati>
-          <IndirimliFiyat>363,90</IndirimliFiyat>
+          <AlisFiyati>183,90</AlisFiyati>
+          <SatisFiyati>485,90</SatisFiyati>
+          <IndirimliFiyat>374,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -56081,9 +56081,9 @@
           <StokKodu>15935.62.XL</StokKodu>
           <Barkod>55322525325</Barkod>
           <StokAdedi>937</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>363,90</SatisFiyati>
-          <IndirimliFiyat>363,90</IndirimliFiyat>
+          <AlisFiyati>183,90</AlisFiyati>
+          <SatisFiyati>485,90</SatisFiyati>
+          <IndirimliFiyat>374,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -56600,9 +56600,9 @@
           <StokKodu>7709.34.S</StokKodu>
           <Barkod>4352352455</Barkod>
           <StokAdedi>971</StokAdedi>
-          <AlisFiyati>466,90</AlisFiyati>
-          <SatisFiyati>737,90</SatisFiyati>
-          <IndirimliFiyat>737,90</IndirimliFiyat>
+          <AlisFiyati>518,90</AlisFiyati>
+          <SatisFiyati>1043,90</SatisFiyati>
+          <IndirimliFiyat>803,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -56618,9 +56618,9 @@
           <StokKodu>7709.34.M</StokKodu>
           <Barkod>254534534534</Barkod>
           <StokAdedi>966</StokAdedi>
-          <AlisFiyati>466,90</AlisFiyati>
-          <SatisFiyati>737,90</SatisFiyati>
-          <IndirimliFiyat>737,90</IndirimliFiyat>
+          <AlisFiyati>518,90</AlisFiyati>
+          <SatisFiyati>1043,90</SatisFiyati>
+          <IndirimliFiyat>803,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -56636,9 +56636,9 @@
           <StokKodu>7709.34.L</StokKodu>
           <Barkod>24523525235</Barkod>
           <StokAdedi>975</StokAdedi>
-          <AlisFiyati>466,90</AlisFiyati>
-          <SatisFiyati>737,90</SatisFiyati>
-          <IndirimliFiyat>737,90</IndirimliFiyat>
+          <AlisFiyati>518,90</AlisFiyati>
+          <SatisFiyati>1043,90</SatisFiyati>
+          <IndirimliFiyat>803,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -56654,9 +56654,9 @@
           <StokKodu>7709.34.XL</StokKodu>
           <Barkod>34522523525</Barkod>
           <StokAdedi>973</StokAdedi>
-          <AlisFiyati>466,90</AlisFiyati>
-          <SatisFiyati>737,90</SatisFiyati>
-          <IndirimliFiyat>737,90</IndirimliFiyat>
+          <AlisFiyati>518,90</AlisFiyati>
+          <SatisFiyati>1043,90</SatisFiyati>
+          <IndirimliFiyat>803,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -56966,9 +56966,9 @@
           <StokKodu>15931.63.S</StokKodu>
           <Barkod>5463465463653634</Barkod>
           <StokAdedi>993</StokAdedi>
-          <AlisFiyati>175,90</AlisFiyati>
-          <SatisFiyati>363,90</SatisFiyati>
-          <IndirimliFiyat>363,90</IndirimliFiyat>
+          <AlisFiyati>183,90</AlisFiyati>
+          <SatisFiyati>485,90</SatisFiyati>
+          <IndirimliFiyat>374,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -56984,9 +56984,9 @@
           <StokKodu>15931.63.M</StokKodu>
           <Barkod>45235</Barkod>
           <StokAdedi>989</StokAdedi>
-          <AlisFiyati>175,90</AlisFiyati>
-          <SatisFiyati>363,90</SatisFiyati>
-          <IndirimliFiyat>363,90</IndirimliFiyat>
+          <AlisFiyati>183,90</AlisFiyati>
+          <SatisFiyati>485,90</SatisFiyati>
+          <IndirimliFiyat>374,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -57002,9 +57002,9 @@
           <StokKodu>15931.63.L</StokKodu>
           <Barkod>636346346</Barkod>
           <StokAdedi>990</StokAdedi>
-          <AlisFiyati>175,90</AlisFiyati>
-          <SatisFiyati>363,90</SatisFiyati>
-          <IndirimliFiyat>363,90</IndirimliFiyat>
+          <AlisFiyati>183,90</AlisFiyati>
+          <SatisFiyati>485,90</SatisFiyati>
+          <IndirimliFiyat>374,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -57020,9 +57020,9 @@
           <StokKodu>15931.63.XL</StokKodu>
           <Barkod>5463465463356636653634</Barkod>
           <StokAdedi>984</StokAdedi>
-          <AlisFiyati>175,90</AlisFiyati>
-          <SatisFiyati>363,90</SatisFiyati>
-          <IndirimliFiyat>363,90</IndirimliFiyat>
+          <AlisFiyati>183,90</AlisFiyati>
+          <SatisFiyati>485,90</SatisFiyati>
+          <IndirimliFiyat>374,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -57444,9 +57444,9 @@
           <StokKodu>7157.1.S</StokKodu>
           <Barkod>8708043203</Barkod>
           <StokAdedi>998</StokAdedi>
-          <AlisFiyati>269,90</AlisFiyati>
-          <SatisFiyati>449,90</SatisFiyati>
-          <IndirimliFiyat>449,90</IndirimliFiyat>
+          <AlisFiyati>307,90</AlisFiyati>
+          <SatisFiyati>692,90</SatisFiyati>
+          <IndirimliFiyat>532,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -57462,9 +57462,9 @@
           <StokKodu>7157.1.M</StokKodu>
           <Barkod>8708043204</Barkod>
           <StokAdedi>998</StokAdedi>
-          <AlisFiyati>269,90</AlisFiyati>
-          <SatisFiyati>449,90</SatisFiyati>
-          <IndirimliFiyat>449,90</IndirimliFiyat>
+          <AlisFiyati>307,90</AlisFiyati>
+          <SatisFiyati>692,90</SatisFiyati>
+          <IndirimliFiyat>532,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -57480,9 +57480,9 @@
           <StokKodu>7157.1.L</StokKodu>
           <Barkod>8708043202</Barkod>
           <StokAdedi>998</StokAdedi>
-          <AlisFiyati>269,90</AlisFiyati>
-          <SatisFiyati>449,90</SatisFiyati>
-          <IndirimliFiyat>449,90</IndirimliFiyat>
+          <AlisFiyati>307,90</AlisFiyati>
+          <SatisFiyati>692,90</SatisFiyati>
+          <IndirimliFiyat>532,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -57498,9 +57498,9 @@
           <StokKodu>7157.1.XL</StokKodu>
           <Barkod>8708043205</Barkod>
           <StokAdedi>996</StokAdedi>
-          <AlisFiyati>269,90</AlisFiyati>
-          <SatisFiyati>449,90</SatisFiyati>
-          <IndirimliFiyat>449,90</IndirimliFiyat>
+          <AlisFiyati>307,90</AlisFiyati>
+          <SatisFiyati>692,90</SatisFiyati>
+          <IndirimliFiyat>532,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -58510,9 +58510,9 @@
           <StokKodu>7193.67.S</StokKodu>
           <Barkod>79875672255303</Barkod>
           <StokAdedi>997</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>500,90</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>202,90</AlisFiyati>
+          <SatisFiyati>517,90</SatisFiyati>
+          <IndirimliFiyat>398,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -58528,9 +58528,9 @@
           <StokKodu>7193.67.M</StokKodu>
           <Barkod>79875672255304</Barkod>
           <StokAdedi>999</StokAdedi>
-          <AlisFiyati>192,90</AlisFiyati>
-          <SatisFiyati>500,90</SatisFiyati>
-          <IndirimliFiyat>385,90</IndirimliFiyat>
+          <AlisFiyati>202,90</AlisFiyati>
+          <SatisFiyati>517,90</SatisFiyati>
+          <IndirimliFiyat>398,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -58546,9 +58546,9 @@
           <StokKodu>7193.67.L</StokKodu>
           <Barkod>79875672255305</Barkod>
           <StokAdedi>996</StokAdedi>
-          <AlisFiyati>192,90</AlisFiyati>
-          <SatisFiyati>500,90</SatisFiyati>
-          <IndirimliFiyat>385,90</IndirimliFiyat>
+          <AlisFiyati>202,90</AlisFiyati>
+          <SatisFiyati>517,90</SatisFiyati>
+          <IndirimliFiyat>398,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -58564,9 +58564,9 @@
           <StokKodu>7193.67.XL</StokKodu>
           <Barkod>79875672255306</Barkod>
           <StokAdedi>993</StokAdedi>
-          <AlisFiyati>192,90</AlisFiyati>
-          <SatisFiyati>500,90</SatisFiyati>
-          <IndirimliFiyat>385,90</IndirimliFiyat>
+          <AlisFiyati>202,90</AlisFiyati>
+          <SatisFiyati>517,90</SatisFiyati>
+          <IndirimliFiyat>398,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -58813,7 +58813,7 @@
           <VaryasyonID>2362</VaryasyonID>
           <StokKodu>15955.63.M</StokKodu>
           <Barkod>6579467457034268</Barkod>
-          <StokAdedi>903</StokAdedi>
+          <StokAdedi>902</StokAdedi>
           <AlisFiyati>235,90</AlisFiyati>
           <SatisFiyati>440,90</SatisFiyati>
           <IndirimliFiyat>440,90</IndirimliFiyat>
@@ -58831,7 +58831,7 @@
           <VaryasyonID>2363</VaryasyonID>
           <StokKodu>15955.63.L</StokKodu>
           <Barkod>6579467457034269</Barkod>
-          <StokAdedi>861</StokAdedi>
+          <StokAdedi>859</StokAdedi>
           <AlisFiyati>235,90</AlisFiyati>
           <SatisFiyati>440,90</SatisFiyati>
           <IndirimliFiyat>440,90</IndirimliFiyat>
@@ -59117,9 +59117,9 @@
           <StokKodu>7161.6.S</StokKodu>
           <Barkod>6540840880154</Barkod>
           <StokAdedi>996</StokAdedi>
-          <AlisFiyati>192,90</AlisFiyati>
-          <SatisFiyati>499,90</SatisFiyati>
-          <IndirimliFiyat>384,90</IndirimliFiyat>
+          <AlisFiyati>202,90</AlisFiyati>
+          <SatisFiyati>517,90</SatisFiyati>
+          <IndirimliFiyat>398,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -59135,9 +59135,9 @@
           <StokKodu>7161.6.M</StokKodu>
           <Barkod>6540840880155</Barkod>
           <StokAdedi>993</StokAdedi>
-          <AlisFiyati>192,90</AlisFiyati>
-          <SatisFiyati>499,90</SatisFiyati>
-          <IndirimliFiyat>384,90</IndirimliFiyat>
+          <AlisFiyati>202,90</AlisFiyati>
+          <SatisFiyati>517,90</SatisFiyati>
+          <IndirimliFiyat>398,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -59153,9 +59153,9 @@
           <StokKodu>7161.6.L</StokKodu>
           <Barkod>6540840880156</Barkod>
           <StokAdedi>994</StokAdedi>
-          <AlisFiyati>192,90</AlisFiyati>
-          <SatisFiyati>499,90</SatisFiyati>
-          <IndirimliFiyat>384,90</IndirimliFiyat>
+          <AlisFiyati>202,90</AlisFiyati>
+          <SatisFiyati>517,90</SatisFiyati>
+          <IndirimliFiyat>398,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -59171,9 +59171,9 @@
           <StokKodu>7161.6.XL</StokKodu>
           <Barkod>6540840880157</Barkod>
           <StokAdedi>992</StokAdedi>
-          <AlisFiyati>192,90</AlisFiyati>
-          <SatisFiyati>499,90</SatisFiyati>
-          <IndirimliFiyat>384,90</IndirimliFiyat>
+          <AlisFiyati>202,90</AlisFiyati>
+          <SatisFiyati>517,90</SatisFiyati>
+          <IndirimliFiyat>398,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -59533,7 +59533,7 @@
           <VaryasyonID>2405</VaryasyonID>
           <StokKodu>15957.48.L</StokKodu>
           <Barkod>75408645328</Barkod>
-          <StokAdedi>988</StokAdedi>
+          <StokAdedi>987</StokAdedi>
           <AlisFiyati>226,90</AlisFiyati>
           <SatisFiyati>557,90</SatisFiyati>
           <IndirimliFiyat>557,90</IndirimliFiyat>
@@ -60069,9 +60069,9 @@
           <StokKodu>15961.56.S</StokKodu>
           <Barkod>07587054465123</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>245,90</AlisFiyati>
+          <SatisFiyati>589,90</SatisFiyati>
+          <IndirimliFiyat>453,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -60087,9 +60087,9 @@
           <StokKodu>15961.56.M</StokKodu>
           <Barkod>07587054465124</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>245,90</AlisFiyati>
+          <SatisFiyati>589,90</SatisFiyati>
+          <IndirimliFiyat>453,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -60105,9 +60105,9 @@
           <StokKodu>15961.56.L</StokKodu>
           <Barkod>07587054465125</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>245,90</AlisFiyati>
+          <SatisFiyati>589,90</SatisFiyati>
+          <IndirimliFiyat>453,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -60123,9 +60123,9 @@
           <StokKodu>15961.56.XL</StokKodu>
           <Barkod>07587054465126</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>245,90</AlisFiyati>
+          <SatisFiyati>589,90</SatisFiyati>
+          <IndirimliFiyat>453,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -60251,9 +60251,9 @@
           <StokKodu>7307.19.S</StokKodu>
           <Barkod>897100564012</Barkod>
           <StokAdedi>998</StokAdedi>
-          <AlisFiyati>192,90</AlisFiyati>
-          <SatisFiyati>500,90</SatisFiyati>
-          <IndirimliFiyat>500,00</IndirimliFiyat>
+          <AlisFiyati>202,90</AlisFiyati>
+          <SatisFiyati>517,90</SatisFiyati>
+          <IndirimliFiyat>398,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -60269,9 +60269,9 @@
           <StokKodu>7307.19.M</StokKodu>
           <Barkod>897100564013</Barkod>
           <StokAdedi>997</StokAdedi>
-          <AlisFiyati>192,90</AlisFiyati>
-          <SatisFiyati>500,90</SatisFiyati>
-          <IndirimliFiyat>269,90</IndirimliFiyat>
+          <AlisFiyati>202,90</AlisFiyati>
+          <SatisFiyati>517,90</SatisFiyati>
+          <IndirimliFiyat>398,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -60287,9 +60287,9 @@
           <StokKodu>7307.19.L</StokKodu>
           <Barkod>897100564014</Barkod>
           <StokAdedi>998</StokAdedi>
-          <AlisFiyati>192,90</AlisFiyati>
-          <SatisFiyati>500,90</SatisFiyati>
-          <IndirimliFiyat>269,90</IndirimliFiyat>
+          <AlisFiyati>202,90</AlisFiyati>
+          <SatisFiyati>517,90</SatisFiyati>
+          <IndirimliFiyat>398,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -60305,9 +60305,9 @@
           <StokKodu>7307.19.XL</StokKodu>
           <Barkod>897100564015</Barkod>
           <StokAdedi>994</StokAdedi>
-          <AlisFiyati>192,90</AlisFiyati>
-          <SatisFiyati>500,90</SatisFiyati>
-          <IndirimliFiyat>269,90</IndirimliFiyat>
+          <AlisFiyati>202,90</AlisFiyati>
+          <SatisFiyati>517,90</SatisFiyati>
+          <IndirimliFiyat>398,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -61069,9 +61069,9 @@
           <StokKodu>M-9017.52.36</StokKodu>
           <Barkod>05454123340131</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>432,90</AlisFiyati>
+          <SatisFiyati>899,90</SatisFiyati>
+          <IndirimliFiyat>692,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -61087,9 +61087,9 @@
           <StokKodu>M-9017.52.38</StokKodu>
           <Barkod>05454123340132</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>432,90</AlisFiyati>
+          <SatisFiyati>899,90</SatisFiyati>
+          <IndirimliFiyat>692,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -61105,9 +61105,9 @@
           <StokKodu>M-9017.52.40</StokKodu>
           <Barkod>05454123340133</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>432,90</AlisFiyati>
+          <SatisFiyati>899,90</SatisFiyati>
+          <IndirimliFiyat>692,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -61123,9 +61123,9 @@
           <StokKodu>M-9017.52.42</StokKodu>
           <Barkod>05454123340134</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>432,90</AlisFiyati>
+          <SatisFiyati>899,90</SatisFiyati>
+          <IndirimliFiyat>692,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -61543,9 +61543,9 @@
           <StokKodu>15969.56.S</StokKodu>
           <Barkod>60455640464106</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>265,90</AlisFiyati>
+          <SatisFiyati>623,90</SatisFiyati>
+          <IndirimliFiyat>479,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -61561,9 +61561,9 @@
           <StokKodu>15969.56.M</StokKodu>
           <Barkod>60455640464107</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>265,90</AlisFiyati>
+          <SatisFiyati>623,90</SatisFiyati>
+          <IndirimliFiyat>479,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -61579,9 +61579,9 @@
           <StokKodu>15969.56.L</StokKodu>
           <Barkod>60455640464108</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>265,90</AlisFiyati>
+          <SatisFiyati>623,90</SatisFiyati>
+          <IndirimliFiyat>479,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -61597,9 +61597,9 @@
           <StokKodu>15969.56.XL</StokKodu>
           <Barkod>60455640464109</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>265,90</AlisFiyati>
+          <SatisFiyati>623,90</SatisFiyati>
+          <IndirimliFiyat>479,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -62319,9 +62319,9 @@
           <StokKodu>15995.44.S</StokKodu>
           <Barkod>5678123016523521</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>207,90</AlisFiyati>
+          <SatisFiyati>525,90</SatisFiyati>
+          <IndirimliFiyat>404,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -62337,9 +62337,9 @@
           <StokKodu>15995.44.M</StokKodu>
           <Barkod>5678123016523522</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>207,90</AlisFiyati>
+          <SatisFiyati>525,90</SatisFiyati>
+          <IndirimliFiyat>404,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -62355,9 +62355,9 @@
           <StokKodu>15995.44.L</StokKodu>
           <Barkod>5678123016523523</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>207,90</AlisFiyati>
+          <SatisFiyati>525,90</SatisFiyati>
+          <IndirimliFiyat>404,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -62373,9 +62373,9 @@
           <StokKodu>15995.44.XL</StokKodu>
           <Barkod>5678123016523524</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>207,90</AlisFiyati>
+          <SatisFiyati>525,90</SatisFiyati>
+          <IndirimliFiyat>404,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -62604,9 +62604,9 @@
           <StokKodu>7717.47.S</StokKodu>
           <Barkod>504864053006</Barkod>
           <StokAdedi>1000</StokAdedi>
-          <AlisFiyati>217,90</AlisFiyati>
-          <SatisFiyati>543,90</SatisFiyati>
-          <IndirimliFiyat>418,90</IndirimliFiyat>
+          <AlisFiyati>209,90</AlisFiyati>
+          <SatisFiyati>529,90</SatisFiyati>
+          <IndirimliFiyat>407,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -62622,9 +62622,9 @@
           <StokKodu>7717.47.M</StokKodu>
           <Barkod>504864053007</Barkod>
           <StokAdedi>994</StokAdedi>
-          <AlisFiyati>217,90</AlisFiyati>
-          <SatisFiyati>543,90</SatisFiyati>
-          <IndirimliFiyat>418,90</IndirimliFiyat>
+          <AlisFiyati>209,90</AlisFiyati>
+          <SatisFiyati>529,90</SatisFiyati>
+          <IndirimliFiyat>407,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -62640,9 +62640,9 @@
           <StokKodu>7717.47.L</StokKodu>
           <Barkod>504864053008</Barkod>
           <StokAdedi>998</StokAdedi>
-          <AlisFiyati>217,90</AlisFiyati>
-          <SatisFiyati>543,90</SatisFiyati>
-          <IndirimliFiyat>418,90</IndirimliFiyat>
+          <AlisFiyati>209,90</AlisFiyati>
+          <SatisFiyati>529,90</SatisFiyati>
+          <IndirimliFiyat>407,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -62658,9 +62658,9 @@
           <StokKodu>7717.47.XL</StokKodu>
           <Barkod>504864053009</Barkod>
           <StokAdedi>999</StokAdedi>
-          <AlisFiyati>217,90</AlisFiyati>
-          <SatisFiyati>543,90</SatisFiyati>
-          <IndirimliFiyat>418,90</IndirimliFiyat>
+          <AlisFiyati>209,90</AlisFiyati>
+          <SatisFiyati>529,90</SatisFiyati>
+          <IndirimliFiyat>407,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -62701,9 +62701,9 @@
           <StokKodu>7719.56.S</StokKodu>
           <Barkod>54354320352345</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>279,90</AlisFiyati>
+          <SatisFiyati>646,90</SatisFiyati>
+          <IndirimliFiyat>497,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -62719,9 +62719,9 @@
           <StokKodu>7719.56.M</StokKodu>
           <Barkod>54354320352346</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>279,90</AlisFiyati>
+          <SatisFiyati>646,90</SatisFiyati>
+          <IndirimliFiyat>497,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -62737,9 +62737,9 @@
           <StokKodu>7719.56.L</StokKodu>
           <Barkod>54354320352347</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>279,90</AlisFiyati>
+          <SatisFiyati>646,90</SatisFiyati>
+          <IndirimliFiyat>497,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -62755,9 +62755,9 @@
           <StokKodu>7719.56.XL</StokKodu>
           <Barkod>54354320352348</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>279,90</AlisFiyati>
+          <SatisFiyati>646,90</SatisFiyati>
+          <IndirimliFiyat>497,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -63087,9 +63087,9 @@
           <StokKodu>7727.44.S</StokKodu>
           <Barkod>356085046300302</Barkod>
           <StokAdedi>999</StokAdedi>
-          <AlisFiyati>231,90</AlisFiyati>
-          <SatisFiyati>565,90</SatisFiyati>
-          <IndirimliFiyat>434,90</IndirimliFiyat>
+          <AlisFiyati>243,90</AlisFiyati>
+          <SatisFiyati>586,90</SatisFiyati>
+          <IndirimliFiyat>451,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -63105,9 +63105,9 @@
           <StokKodu>7727.44.M</StokKodu>
           <Barkod>356085046300303</Barkod>
           <StokAdedi>999</StokAdedi>
-          <AlisFiyati>231,90</AlisFiyati>
-          <SatisFiyati>565,90</SatisFiyati>
-          <IndirimliFiyat>434,90</IndirimliFiyat>
+          <AlisFiyati>243,90</AlisFiyati>
+          <SatisFiyati>586,90</SatisFiyati>
+          <IndirimliFiyat>451,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -63123,9 +63123,9 @@
           <StokKodu>7727.44.L</StokKodu>
           <Barkod>356085046300304</Barkod>
           <StokAdedi>999</StokAdedi>
-          <AlisFiyati>231,90</AlisFiyati>
-          <SatisFiyati>565,90</SatisFiyati>
-          <IndirimliFiyat>434,90</IndirimliFiyat>
+          <AlisFiyati>243,90</AlisFiyati>
+          <SatisFiyati>586,90</SatisFiyati>
+          <IndirimliFiyat>451,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -63141,9 +63141,9 @@
           <StokKodu>7727.44.XL</StokKodu>
           <Barkod>356085046300305</Barkod>
           <StokAdedi>997</StokAdedi>
-          <AlisFiyati>231,90</AlisFiyati>
-          <SatisFiyati>565,90</SatisFiyati>
-          <IndirimliFiyat>434,90</IndirimliFiyat>
+          <AlisFiyati>243,90</AlisFiyati>
+          <SatisFiyati>586,90</SatisFiyati>
+          <IndirimliFiyat>451,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -63563,9 +63563,9 @@
           <StokKodu>7317.55.S</StokKodu>
           <Barkod>0535043204654056</Barkod>
           <StokAdedi>995</StokAdedi>
-          <AlisFiyati>355,90</AlisFiyati>
-          <SatisFiyati>772,90</SatisFiyati>
-          <IndirimliFiyat>594,90</IndirimliFiyat>
+          <AlisFiyati>372,90</AlisFiyati>
+          <SatisFiyati>799,90</SatisFiyati>
+          <IndirimliFiyat>616,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -63581,9 +63581,9 @@
           <StokKodu>7317.55.M</StokKodu>
           <Barkod>0535043204654057</Barkod>
           <StokAdedi>995</StokAdedi>
-          <AlisFiyati>355,90</AlisFiyati>
-          <SatisFiyati>772,90</SatisFiyati>
-          <IndirimliFiyat>594,90</IndirimliFiyat>
+          <AlisFiyati>372,90</AlisFiyati>
+          <SatisFiyati>799,90</SatisFiyati>
+          <IndirimliFiyat>616,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -63599,9 +63599,9 @@
           <StokKodu>7317.55.L</StokKodu>
           <Barkod>0535043204654058</Barkod>
           <StokAdedi>999</StokAdedi>
-          <AlisFiyati>355,90</AlisFiyati>
-          <SatisFiyati>772,90</SatisFiyati>
-          <IndirimliFiyat>594,90</IndirimliFiyat>
+          <AlisFiyati>372,90</AlisFiyati>
+          <SatisFiyati>799,90</SatisFiyati>
+          <IndirimliFiyat>616,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -63617,9 +63617,9 @@
           <StokKodu>7317.55.XL</StokKodu>
           <Barkod>0535043204654059</Barkod>
           <StokAdedi>997</StokAdedi>
-          <AlisFiyati>355,90</AlisFiyati>
-          <SatisFiyati>772,90</SatisFiyati>
-          <IndirimliFiyat>594,90</IndirimliFiyat>
+          <AlisFiyati>372,90</AlisFiyati>
+          <SatisFiyati>799,90</SatisFiyati>
+          <IndirimliFiyat>616,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -63852,9 +63852,9 @@
           <StokKodu>7323.5.S</StokKodu>
           <Barkod>6806406346403</Barkod>
           <StokAdedi>998</StokAdedi>
-          <AlisFiyati>269,90</AlisFiyati>
-          <SatisFiyati>629,90</SatisFiyati>
-          <IndirimliFiyat>484,90</IndirimliFiyat>
+          <AlisFiyati>283,90</AlisFiyati>
+          <SatisFiyati>652,90</SatisFiyati>
+          <IndirimliFiyat>501,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -63870,9 +63870,9 @@
           <StokKodu>7323.5.M</StokKodu>
           <Barkod>6806406346404</Barkod>
           <StokAdedi>999</StokAdedi>
-          <AlisFiyati>269,90</AlisFiyati>
-          <SatisFiyati>629,90</SatisFiyati>
-          <IndirimliFiyat>484,90</IndirimliFiyat>
+          <AlisFiyati>283,90</AlisFiyati>
+          <SatisFiyati>652,90</SatisFiyati>
+          <IndirimliFiyat>501,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -63888,9 +63888,9 @@
           <StokKodu>7323.5.L</StokKodu>
           <Barkod>6806406346405</Barkod>
           <StokAdedi>1000</StokAdedi>
-          <AlisFiyati>269,90</AlisFiyati>
-          <SatisFiyati>629,90</SatisFiyati>
-          <IndirimliFiyat>484,90</IndirimliFiyat>
+          <AlisFiyati>283,90</AlisFiyati>
+          <SatisFiyati>652,90</SatisFiyati>
+          <IndirimliFiyat>501,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -63906,9 +63906,9 @@
           <StokKodu>7323.5.XL</StokKodu>
           <Barkod>6806406346406</Barkod>
           <StokAdedi>999</StokAdedi>
-          <AlisFiyati>269,90</AlisFiyati>
-          <SatisFiyati>629,90</SatisFiyati>
-          <IndirimliFiyat>484,90</IndirimliFiyat>
+          <AlisFiyati>283,90</AlisFiyati>
+          <SatisFiyati>652,90</SatisFiyati>
+          <IndirimliFiyat>501,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -63949,9 +63949,9 @@
           <StokKodu>7325.34.S</StokKodu>
           <Barkod>98076506320343</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>392,90</AlisFiyati>
+          <SatisFiyati>835,90</SatisFiyati>
+          <IndirimliFiyat>642,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -63967,9 +63967,9 @@
           <StokKodu>7325.34.M</StokKodu>
           <Barkod>98076506320344</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>392,90</AlisFiyati>
+          <SatisFiyati>835,90</SatisFiyati>
+          <IndirimliFiyat>642,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -63985,9 +63985,9 @@
           <StokKodu>7325.34.L</StokKodu>
           <Barkod>98076506320345</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>392,90</AlisFiyati>
+          <SatisFiyati>835,90</SatisFiyati>
+          <IndirimliFiyat>642,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -64003,9 +64003,9 @@
           <StokKodu>7325.34.XL</StokKodu>
           <Barkod>98076506320346</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>392,90</AlisFiyati>
+          <SatisFiyati>835,90</SatisFiyati>
+          <IndirimliFiyat>642,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -64554,9 +64554,9 @@
           <StokKodu>7343.1.S</StokKodu>
           <Barkod>681607533203</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>199,90</AlisFiyati>
+          <SatisFiyati>514,90</SatisFiyati>
+          <IndirimliFiyat>395,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -64572,9 +64572,9 @@
           <StokKodu>7343.1.M</StokKodu>
           <Barkod>681607533204</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>199,90</AlisFiyati>
+          <SatisFiyati>514,90</SatisFiyati>
+          <IndirimliFiyat>395,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -64590,9 +64590,9 @@
           <StokKodu>7343.1.L</StokKodu>
           <Barkod>681607533205</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>199,90</AlisFiyati>
+          <SatisFiyati>514,90</SatisFiyati>
+          <IndirimliFiyat>395,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -64608,9 +64608,9 @@
           <StokKodu>7343.1.XL</StokKodu>
           <Barkod>681607533206</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>199,90</AlisFiyati>
+          <SatisFiyati>514,90</SatisFiyati>
+          <IndirimliFiyat>395,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -64746,9 +64746,9 @@
           <StokKodu>15997.73.S</StokKodu>
           <Barkod>56065645013125</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>255,90</AlisFiyati>
+          <SatisFiyati>606,90</SatisFiyati>
+          <IndirimliFiyat>466,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -64764,9 +64764,9 @@
           <StokKodu>15997.73.M</StokKodu>
           <Barkod>56065645013126</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>255,90</AlisFiyati>
+          <SatisFiyati>606,90</SatisFiyati>
+          <IndirimliFiyat>466,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -64782,9 +64782,9 @@
           <StokKodu>15997.73.L</StokKodu>
           <Barkod>56065645013127</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>255,90</AlisFiyati>
+          <SatisFiyati>606,90</SatisFiyati>
+          <IndirimliFiyat>466,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -64800,9 +64800,9 @@
           <StokKodu>15997.73.XL</StokKodu>
           <Barkod>56065645013128</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>255,90</AlisFiyati>
+          <SatisFiyati>606,90</SatisFiyati>
+          <IndirimliFiyat>466,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -64842,9 +64842,9 @@
           <StokKodu>7347.53.S</StokKodu>
           <Barkod>650135014650761</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>392,90</AlisFiyati>
+          <SatisFiyati>835,90</SatisFiyati>
+          <IndirimliFiyat>642,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -64860,9 +64860,9 @@
           <StokKodu>7347.53.M</StokKodu>
           <Barkod>650135014650762</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>392,90</AlisFiyati>
+          <SatisFiyati>835,90</SatisFiyati>
+          <IndirimliFiyat>642,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -64878,9 +64878,9 @@
           <StokKodu>7347.53.L</StokKodu>
           <Barkod>650135014650763</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>392,90</AlisFiyati>
+          <SatisFiyati>835,90</SatisFiyati>
+          <IndirimliFiyat>642,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -64896,9 +64896,9 @@
           <StokKodu>7347.53.XL</StokKodu>
           <Barkod>650135014650764</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>392,90</AlisFiyati>
+          <SatisFiyati>835,90</SatisFiyati>
+          <IndirimliFiyat>642,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -65024,9 +65024,9 @@
           <StokKodu>7349.6.S</StokKodu>
           <Barkod>1523202121235</Barkod>
           <StokAdedi>999</StokAdedi>
-          <AlisFiyati>192,90</AlisFiyati>
-          <SatisFiyati>500,90</SatisFiyati>
-          <IndirimliFiyat>269,90</IndirimliFiyat>
+          <AlisFiyati>202,90</AlisFiyati>
+          <SatisFiyati>517,90</SatisFiyati>
+          <IndirimliFiyat>398,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -65042,9 +65042,9 @@
           <StokKodu>7349.6.M</StokKodu>
           <Barkod>1523202121236</Barkod>
           <StokAdedi>1000</StokAdedi>
-          <AlisFiyati>192,90</AlisFiyati>
-          <SatisFiyati>500,90</SatisFiyati>
-          <IndirimliFiyat>269,90</IndirimliFiyat>
+          <AlisFiyati>202,90</AlisFiyati>
+          <SatisFiyati>517,90</SatisFiyati>
+          <IndirimliFiyat>398,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -65060,9 +65060,9 @@
           <StokKodu>7349.6.L</StokKodu>
           <Barkod>1523202121237</Barkod>
           <StokAdedi>1000</StokAdedi>
-          <AlisFiyati>192,90</AlisFiyati>
-          <SatisFiyati>500,90</SatisFiyati>
-          <IndirimliFiyat>269,90</IndirimliFiyat>
+          <AlisFiyati>202,90</AlisFiyati>
+          <SatisFiyati>517,90</SatisFiyati>
+          <IndirimliFiyat>398,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -65078,9 +65078,9 @@
           <StokKodu>7349.6.XL</StokKodu>
           <Barkod>1523202121238</Barkod>
           <StokAdedi>1000</StokAdedi>
-          <AlisFiyati>192,90</AlisFiyati>
-          <SatisFiyati>500,90</SatisFiyati>
-          <IndirimliFiyat>269,90</IndirimliFiyat>
+          <AlisFiyati>202,90</AlisFiyati>
+          <SatisFiyati>517,90</SatisFiyati>
+          <IndirimliFiyat>398,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -65119,9 +65119,9 @@
           <StokKodu>M-9025.34.36</StokKodu>
           <Barkod>65650645645648</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>483,90</AlisFiyati>
+          <SatisFiyati>986,90</SatisFiyati>
+          <IndirimliFiyat>759,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -65137,9 +65137,9 @@
           <StokKodu>M-9025.34.38</StokKodu>
           <Barkod>65650645645649</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>483,90</AlisFiyati>
+          <SatisFiyati>986,90</SatisFiyati>
+          <IndirimliFiyat>759,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -65155,9 +65155,9 @@
           <StokKodu>M-9025.34.40</StokKodu>
           <Barkod>65650645645650</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>483,90</AlisFiyati>
+          <SatisFiyati>986,90</SatisFiyati>
+          <IndirimliFiyat>759,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -65574,9 +65574,9 @@
           <StokKodu>7735.5.S</StokKodu>
           <Barkod>578797970302</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>223,90</AlisFiyati>
+          <SatisFiyati>551,90</SatisFiyati>
+          <IndirimliFiyat>424,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -65592,9 +65592,9 @@
           <StokKodu>7735.5.M</StokKodu>
           <Barkod>578797970303</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>223,90</AlisFiyati>
+          <SatisFiyati>551,90</SatisFiyati>
+          <IndirimliFiyat>424,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -65610,9 +65610,9 @@
           <StokKodu>7735.5.L</StokKodu>
           <Barkod>578797970304</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>223,90</AlisFiyati>
+          <SatisFiyati>551,90</SatisFiyati>
+          <IndirimliFiyat>424,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -65628,9 +65628,9 @@
           <StokKodu>7735.5.XL</StokKodu>
           <Barkod>578797970305</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>223,90</AlisFiyati>
+          <SatisFiyati>551,90</SatisFiyati>
+          <IndirimliFiyat>424,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -65764,9 +65764,9 @@
           <StokKodu>M-9033.52.36</StokKodu>
           <Barkod>064560540640654</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>432,90</AlisFiyati>
+          <SatisFiyati>899,90</SatisFiyati>
+          <IndirimliFiyat>692,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -65782,9 +65782,9 @@
           <StokKodu>M-9033.52.38</StokKodu>
           <Barkod>064560540640655</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>432,90</AlisFiyati>
+          <SatisFiyati>899,90</SatisFiyati>
+          <IndirimliFiyat>692,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -65800,9 +65800,9 @@
           <StokKodu>M-9033.52.40</StokKodu>
           <Barkod>064560540640656</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>432,90</AlisFiyati>
+          <SatisFiyati>899,90</SatisFiyati>
+          <IndirimliFiyat>692,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -65818,9 +65818,9 @@
           <StokKodu>M-9033.52.42</StokKodu>
           <Barkod>064560540640657</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>432,90</AlisFiyati>
+          <SatisFiyati>899,90</SatisFiyati>
+          <IndirimliFiyat>692,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -65860,9 +65860,9 @@
           <StokKodu>M-9035.52.36</StokKodu>
           <Barkod>064560540640700</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>483,90</AlisFiyati>
+          <SatisFiyati>986,90</SatisFiyati>
+          <IndirimliFiyat>759,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -65878,9 +65878,9 @@
           <StokKodu>M-9035.52.38</StokKodu>
           <Barkod>064560540640701</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>483,90</AlisFiyati>
+          <SatisFiyati>986,90</SatisFiyati>
+          <IndirimliFiyat>759,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -65896,9 +65896,9 @@
           <StokKodu>M-9035.52.40</StokKodu>
           <Barkod>064560540640702</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>483,90</AlisFiyati>
+          <SatisFiyati>986,90</SatisFiyati>
+          <IndirimliFiyat>759,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -65914,9 +65914,9 @@
           <StokKodu>M-9035.52.42</StokKodu>
           <Barkod>064560540640703</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>483,90</AlisFiyati>
+          <SatisFiyati>986,90</SatisFiyati>
+          <IndirimliFiyat>759,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -66815,9 +66815,9 @@
           <StokKodu>7361.44.S</StokKodu>
           <Barkod>976476441431</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>403,90</AlisFiyati>
+          <SatisFiyati>852,90</SatisFiyati>
+          <IndirimliFiyat>655,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -66833,9 +66833,9 @@
           <StokKodu>7361.44.M</StokKodu>
           <Barkod>976476441432</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>403,90</AlisFiyati>
+          <SatisFiyati>852,90</SatisFiyati>
+          <IndirimliFiyat>655,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -66851,9 +66851,9 @@
           <StokKodu>7361.44.L</StokKodu>
           <Barkod>976476441433</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>403,90</AlisFiyati>
+          <SatisFiyati>852,90</SatisFiyati>
+          <IndirimliFiyat>655,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -66869,9 +66869,9 @@
           <StokKodu>7361.44.XL</StokKodu>
           <Barkod>976476441434</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>403,90</AlisFiyati>
+          <SatisFiyati>852,90</SatisFiyati>
+          <IndirimliFiyat>655,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -66912,9 +66912,9 @@
           <StokKodu>7359.5.S</StokKodu>
           <Barkod>980807486656</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>295,90</AlisFiyati>
+          <SatisFiyati>672,90</SatisFiyati>
+          <IndirimliFiyat>517,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -66930,9 +66930,9 @@
           <StokKodu>7359.5.M</StokKodu>
           <Barkod>980807486657</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>295,90</AlisFiyati>
+          <SatisFiyati>672,90</SatisFiyati>
+          <IndirimliFiyat>517,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -66948,9 +66948,9 @@
           <StokKodu>7359.5.L</StokKodu>
           <Barkod>980807486658</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>295,90</AlisFiyati>
+          <SatisFiyati>672,90</SatisFiyati>
+          <IndirimliFiyat>517,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>
@@ -66966,9 +66966,9 @@
           <StokKodu>7359.5.XL</StokKodu>
           <Barkod>980807486659</Barkod>
           <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <AlisFiyati>295,90</AlisFiyati>
+          <SatisFiyati>672,90</SatisFiyati>
+          <IndirimliFiyat>517,90</IndirimliFiyat>
           <KDVDahil>true</KDVDahil>
           <KdvOrani>10</KdvOrani>
           <ParaBirimi>TL</ParaBirimi>

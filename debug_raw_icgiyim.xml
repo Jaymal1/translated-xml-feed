@@ -5021,7 +5021,7 @@
           <VaryasyonID>193</VaryasyonID>
           <StokKodu>15029-L/XL</StokKodu>
           <Barkod>845626555625588</Barkod>
-          <StokAdedi>192</StokAdedi>
+          <StokAdedi>191</StokAdedi>
           <AlisFiyati>145,90</AlisFiyati>
           <SatisFiyati>269,90</SatisFiyati>
           <IndirimliFiyat>269,90</IndirimliFiyat>
@@ -55606,24 +55606,6 @@
         <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/bella-notte-siyah-kisa-kollu-kurdale-d-6-4491.jpeg</Resim>
       </Resimler>
       <UrunSecenek>
-        <Secenek>
-          <VaryasyonID>2224</VaryasyonID>
-          <StokKodu>7153.19.S</StokKodu>
-          <Barkod>5413254123421342134</Barkod>
-          <StokAdedi>993</StokAdedi>
-          <AlisFiyati>252,90</AlisFiyati>
-          <SatisFiyati>600,90</SatisFiyati>
-          <IndirimliFiyat>462,90</IndirimliFiyat>
-          <KDVDahil>true</KDVDahil>
-          <KdvOrani>10</KdvOrani>
-          <ParaBirimi>TL</ParaBirimi>
-          <ParaBirimiKodu>TRY</ParaBirimiKodu>
-          <Desi>1</Desi>
-          <EkSecenekOzellik>
-            <Ozellik Tanim="Renk" Deger="GÜL KURUSU">GÜL KURUSU</Ozellik>
-            <Ozellik Tanim="Beden" Deger="S">S</Ozellik>
-          </EkSecenekOzellik>
-        </Secenek>
         <Secenek>
           <VaryasyonID>2371</VaryasyonID>
           <StokKodu>7153.19.S</StokKodu>

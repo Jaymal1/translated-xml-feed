@@ -44995,7 +44995,7 @@
           <VaryasyonID>1782</VaryasyonID>
           <StokKodu>7036/EKRU/L</StokKodu>
           <Barkod>5156556423053</Barkod>
-          <StokAdedi>950</StokAdedi>
+          <StokAdedi>949</StokAdedi>
           <AlisFiyati>441,90</AlisFiyati>
           <SatisFiyati>649,90</SatisFiyati>
           <IndirimliFiyat>0,00</IndirimliFiyat>
@@ -45321,7 +45321,7 @@
           <VaryasyonID>1795</VaryasyonID>
           <StokKodu>7023.73.M</StokKodu>
           <Barkod>98542084154102</Barkod>
-          <StokAdedi>913</StokAdedi>
+          <StokAdedi>912</StokAdedi>
           <AlisFiyati>396,90</AlisFiyati>
           <SatisFiyati>840,90</SatisFiyati>
           <IndirimliFiyat>646,90</IndirimliFiyat>
@@ -49734,7 +49734,7 @@
           <VaryasyonID>1960</VaryasyonID>
           <StokKodu>7071.53.L</StokKodu>
           <Barkod>5962504014545604</Barkod>
-          <StokAdedi>935</StokAdedi>
+          <StokAdedi>934</StokAdedi>
           <AlisFiyati>302,90</AlisFiyati>
           <SatisFiyati>683,90</SatisFiyati>
           <IndirimliFiyat>525,90</IndirimliFiyat>
@@ -54305,7 +54305,7 @@
           <VaryasyonID>2170</VaryasyonID>
           <StokKodu>7121.1.L</StokKodu>
           <Barkod>02324878994522</Barkod>
-          <StokAdedi>967</StokAdedi>
+          <StokAdedi>966</StokAdedi>
           <AlisFiyati>0,00</AlisFiyati>
           <SatisFiyati>399,90</SatisFiyati>
           <IndirimliFiyat>399,90</IndirimliFiyat>
@@ -57749,7 +57749,7 @@
           <VaryasyonID>2317</VaryasyonID>
           <StokKodu>7167.81.M</StokKodu>
           <Barkod>00245456545655</Barkod>
-          <StokAdedi>999</StokAdedi>
+          <StokAdedi>998</StokAdedi>
           <AlisFiyati>401,90</AlisFiyati>
           <SatisFiyati>653,90</SatisFiyati>
           <IndirimliFiyat>653,90</IndirimliFiyat>
@@ -61873,7 +61873,7 @@
           <VaryasyonID>2501</VaryasyonID>
           <StokKodu>15975.56.M</StokKodu>
           <Barkod>905565550663</Barkod>
-          <StokAdedi>994</StokAdedi>
+          <StokAdedi>993</StokAdedi>
           <AlisFiyati>149,90</AlisFiyati>
           <SatisFiyati>429,90</SatisFiyati>
           <IndirimliFiyat>329,90</IndirimliFiyat>
@@ -63201,7 +63201,7 @@
           <VaryasyonID>2556</VaryasyonID>
           <StokKodu>7327.53.M</StokKodu>
           <Barkod>0560454545788</Barkod>
-          <StokAdedi>994</StokAdedi>
+          <StokAdedi>993</StokAdedi>
           <AlisFiyati>410,90</AlisFiyati>
           <SatisFiyati>863,90</SatisFiyati>
           <IndirimliFiyat>664,90</IndirimliFiyat>
@@ -63984,7 +63984,7 @@
           <VaryasyonID>2591</VaryasyonID>
           <StokKodu>7325.34.L</StokKodu>
           <Barkod>98076506320345</Barkod>
-          <StokAdedi>998</StokAdedi>
+          <StokAdedi>997</StokAdedi>
           <AlisFiyati>392,90</AlisFiyati>
           <SatisFiyati>835,90</SatisFiyati>
           <IndirimliFiyat>642,90</IndirimliFiyat>
@@ -70817,6 +70817,188 @@
           <Desi>1</Desi>
           <EkSecenekOzellik>
             <Ozellik Tanim="Renk" Deger="PEMBE">PEMBE</Ozellik>
+            <Ozellik Tanim="Beden" Deger="XL">XL</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+      </UrunSecenek>
+      <TeknikDetaylar />
+    </Urun>
+    <Urun>
+      <UrunKartiID>897</UrunKartiID>
+      <UrunAdi>Bella Notte Pembe Fiyonk Desenli Süs Düğmeli Kısa Kollu Pijama Takımı 77009/PEMBE/S</UrunAdi>
+      <OnYazi><![CDATA[]]></OnYazi>
+      <Aciklama><![CDATA[<p>Bella Notte Pembe Fiyonk Desenli Süs Düğmeli Kısa Kollu Pijama Takımı 77009/PEMBE/S </p><p>Beden: S-M-L-XL</p><p>Materyal: %100 pamuk</p><p>Yıkama talimatı: 30 derece sıcklıkta hassas ve ters çevirip yıkama yapınız. Kurutma makinası önerilmez.</p>]]></Aciklama>
+      <Marka>BELLA NOTTE</Marka>
+      <SatisBirimi>ADET</SatisBirimi>
+      <KategoriID>12</KategoriID>
+      <Kategori>Kadın Giyim</Kategori>
+      <KategoriTree>Kadın Giyim</KategoriTree>
+      <UrunUrl>https://gecelikmagazasi.com/bella-notte-pembe-fiyonk-desenli-sus-dugmeli-kisa-kollu-pijama-takimi-77009-pembe-s-897</UrunUrl>
+      <OzelAlan2>77009-Serisi</OzelAlan2>
+      <Resimler>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Pembe-Fiyonk-Desenli-Sus-Dug-2175.jpg</Resim>
+      </Resimler>
+      <UrunSecenek>
+        <Secenek>
+          <VaryasyonID>2886</VaryasyonID>
+          <StokKodu>77009.56.S</StokKodu>
+          <Barkod>fkjfkhfkahkahrh</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="PEMBE">PEMBE</Ozellik>
+            <Ozellik Tanim="Beden" Deger="S">S</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2887</VaryasyonID>
+          <StokKodu>77009.56.M</StokKodu>
+          <Barkod>fkjfkhfkahkahrh1</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="PEMBE">PEMBE</Ozellik>
+            <Ozellik Tanim="Beden" Deger="M">M</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2888</VaryasyonID>
+          <StokKodu>77009.56.L</StokKodu>
+          <Barkod>fkjfkhfkahkahrhUE</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="PEMBE">PEMBE</Ozellik>
+            <Ozellik Tanim="Beden" Deger="L">L</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2889</VaryasyonID>
+          <StokKodu>77009.56.XL</StokKodu>
+          <Barkod>fkjfkhfkahkahrhFDHJKH</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="PEMBE">PEMBE</Ozellik>
+            <Ozellik Tanim="Beden" Deger="XL">XL</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+      </UrunSecenek>
+      <TeknikDetaylar />
+    </Urun>
+    <Urun>
+      <UrunKartiID>898</UrunKartiID>
+      <UrunAdi>Bella Notte Uzun Kollu Yeşil Kruvaze Yaka Fırfır Detaylı Pijama Takımı 77007/YEŞİL/S</UrunAdi>
+      <OnYazi><![CDATA[]]></OnYazi>
+      <Aciklama><![CDATA[<p>Bella Notte Uzun Kollu Yeşil Kruvaze Yaka Fırfır Detaylı Pijama Takımı 77007</p><p>Bedenler: S-M-L-XL</p><p>Materyal:Spandex</p><p>Yıkama Talimatı:30 derece sıcaklıkta hassas ve ters çevirip yıkayınız. Kurutma makinası önerilmez.</p>]]></Aciklama>
+      <Marka>BELLA NOTTE</Marka>
+      <SatisBirimi>ADET</SatisBirimi>
+      <KategoriID>14</KategoriID>
+      <Kategori>Pijama Takım</Kategori>
+      <KategoriTree>Kadın Giyim/Pijama Takım</KategoriTree>
+      <UrunUrl>https://gecelikmagazasi.com/bella-notte-uzun-kollu-yesil-kruvaze-yaka-firfir-detayli-pijama-takimi-77007-yesil-s-898</UrunUrl>
+      <OzelAlan2>77007-Serisi</OzelAlan2>
+      <Resimler>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Uzun-Kollu-Yesil-Kruvaze-Yak-4e77.jpg</Resim>
+      </Resimler>
+      <UrunSecenek>
+        <Secenek>
+          <VaryasyonID>2890</VaryasyonID>
+          <StokKodu>77007.73.S</StokKodu>
+          <Barkod>RIYQRYQRYQREY</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="YEŞİL">YEŞİL</Ozellik>
+            <Ozellik Tanim="Beden" Deger="S">S</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2891</VaryasyonID>
+          <StokKodu>77007.73.M</StokKodu>
+          <Barkod>RIYQRYQRYQREYDHG</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="YEŞİL">YEŞİL</Ozellik>
+            <Ozellik Tanim="Beden" Deger="M">M</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2892</VaryasyonID>
+          <StokKodu>77007.73.L</StokKodu>
+          <Barkod>RIYQRYQRYQREYLIOU</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="YEŞİL">YEŞİL</Ozellik>
+            <Ozellik Tanim="Beden" Deger="L">L</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2893</VaryasyonID>
+          <StokKodu>77007.73.XL</StokKodu>
+          <Barkod>RIYQRYQRYQREYYDYJ</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="YEŞİL">YEŞİL</Ozellik>
             <Ozellik Tanim="Beden" Deger="XL">XL</Ozellik>
           </EkSecenekOzellik>
         </Secenek>

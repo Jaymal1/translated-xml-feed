@@ -36870,7 +36870,7 @@
           <VaryasyonID>1986</VaryasyonID>
           <StokKodu>7539.59.XS</StokKodu>
           <Barkod>57844980124</Barkod>
-          <StokAdedi>994</StokAdedi>
+          <StokAdedi>993</StokAdedi>
           <AlisFiyati>243,90</AlisFiyati>
           <SatisFiyati>586,90</SatisFiyati>
           <IndirimliFiyat>451,90</IndirimliFiyat>
@@ -42963,7 +42963,7 @@
           <VaryasyonID>1698</VaryasyonID>
           <StokKodu>A-7500.1.S</StokKodu>
           <Barkod>322020025241666350</Barkod>
-          <StokAdedi>996</StokAdedi>
+          <StokAdedi>995</StokAdedi>
           <AlisFiyati>157,90</AlisFiyati>
           <SatisFiyati>289,90</SatisFiyati>
           <IndirimliFiyat>289,90</IndirimliFiyat>
@@ -45243,7 +45243,7 @@
           <VaryasyonID>1792</VaryasyonID>
           <StokKodu>15771.59.L/XL</StokKodu>
           <Barkod>8524196341204</Barkod>
-          <StokAdedi>780</StokAdedi>
+          <StokAdedi>779</StokAdedi>
           <AlisFiyati>229,90</AlisFiyati>
           <SatisFiyati>563,90</SatisFiyati>
           <IndirimliFiyat>433,90</IndirimliFiyat>
@@ -48651,7 +48651,7 @@
           <VaryasyonID>1908</VaryasyonID>
           <StokKodu>7037.59.L</StokKodu>
           <Barkod>89465650501058</Barkod>
-          <StokAdedi>961</StokAdedi>
+          <StokAdedi>960</StokAdedi>
           <AlisFiyati>449,90</AlisFiyati>
           <SatisFiyati>664,90</SatisFiyati>
           <IndirimliFiyat>664,90</IndirimliFiyat>
@@ -50684,7 +50684,7 @@
           <VaryasyonID>2001</VaryasyonID>
           <StokKodu>7081.51.L</StokKodu>
           <Barkod>87011040012021307</Barkod>
-          <StokAdedi>962</StokAdedi>
+          <StokAdedi>961</StokAdedi>
           <AlisFiyati>379,90</AlisFiyati>
           <SatisFiyati>815,90</SatisFiyati>
           <IndirimliFiyat>0,00</IndirimliFiyat>
@@ -55607,24 +55607,6 @@
       </Resimler>
       <UrunSecenek>
         <Secenek>
-          <VaryasyonID>2225</VaryasyonID>
-          <StokKodu>7153.19.M</StokKodu>
-          <Barkod>636646354</Barkod>
-          <StokAdedi>991</StokAdedi>
-          <AlisFiyati>252,90</AlisFiyati>
-          <SatisFiyati>600,90</SatisFiyati>
-          <IndirimliFiyat>462,90</IndirimliFiyat>
-          <KDVDahil>true</KDVDahil>
-          <KdvOrani>10</KdvOrani>
-          <ParaBirimi>TL</ParaBirimi>
-          <ParaBirimiKodu>TRY</ParaBirimiKodu>
-          <Desi>1</Desi>
-          <EkSecenekOzellik>
-            <Ozellik Tanim="Renk" Deger="GÜL KURUSU">GÜL KURUSU</Ozellik>
-            <Ozellik Tanim="Beden" Deger="M">M</Ozellik>
-          </EkSecenekOzellik>
-        </Secenek>
-        <Secenek>
           <VaryasyonID>2371</VaryasyonID>
           <StokKodu>7153.19.S</StokKodu>
           <Barkod>5413254123421342134</Barkod>
@@ -56671,7 +56653,7 @@
           <VaryasyonID>2272</VaryasyonID>
           <StokKodu>7709.34.XL</StokKodu>
           <Barkod>34522523525</Barkod>
-          <StokAdedi>967</StokAdedi>
+          <StokAdedi>966</StokAdedi>
           <AlisFiyati>518,90</AlisFiyati>
           <SatisFiyati>1043,90</SatisFiyati>
           <IndirimliFiyat>803,90</IndirimliFiyat>
@@ -58963,7 +58945,7 @@
           <VaryasyonID>2368</VaryasyonID>
           <StokKodu>7169.56.M</StokKodu>
           <Barkod>810780102310325</Barkod>
-          <StokAdedi>956</StokAdedi>
+          <StokAdedi>955</StokAdedi>
           <AlisFiyati>217,90</AlisFiyati>
           <SatisFiyati>418,90</SatisFiyati>
           <IndirimliFiyat>418,90</IndirimliFiyat>
@@ -59456,7 +59438,7 @@
           <VaryasyonID>2401</VaryasyonID>
           <StokKodu>15959.59.L</StokKodu>
           <Barkod>3436574040352</Barkod>
-          <StokAdedi>989</StokAdedi>
+          <StokAdedi>988</StokAdedi>
           <AlisFiyati>217,90</AlisFiyati>
           <SatisFiyati>543,90</SatisFiyati>
           <IndirimliFiyat>418,90</IndirimliFiyat>
@@ -71018,6 +71000,1296 @@
           <EkSecenekOzellik>
             <Ozellik Tanim="Renk" Deger="YEŞİL">YEŞİL</Ozellik>
             <Ozellik Tanim="Beden" Deger="XL">XL</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+      </UrunSecenek>
+      <TeknikDetaylar />
+    </Urun>
+    <Urun>
+      <UrunKartiID>899</UrunKartiID>
+      <UrunAdi>Bella Notte Kırmızı Sütyen Takımı 19024</UrunAdi>
+      <OnYazi><![CDATA[]]></OnYazi>
+      <Aciklama><![CDATA[<p>Bella Notte Kırmızı Sütyen Takımı 19024</p><p>Bedenler: 75B-80B-85B-90B</p><p>Materyal: %100 Orlon</p><p>Yıkama Talimatı: 30 derece sıcaklıkta elde yıkamaya uygun, kurutmaya uygun değildir.</p>]]></Aciklama>
+      <Marka>BELLA NOTTE</Marka>
+      <SatisBirimi>ADET</SatisBirimi>
+      <KategoriID>26</KategoriID>
+      <Kategori>İç Çamaşır Takımı</Kategori>
+      <KategoriTree>Kadın İç Giyim/İç Çamaşır Takımı</KategoriTree>
+      <UrunUrl>https://gecelikmagazasi.com/bella-notte-kirmizi-sutyen-takimi-19024-899</UrunUrl>
+      <OzelAlan2>19024-Serisi</OzelAlan2>
+      <Resimler>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Kirmizi-Sutyen-Takimi-19024-aa76.jpg</Resim>
+      </Resimler>
+      <UrunSecenek>
+        <Secenek>
+          <VaryasyonID>2894</VaryasyonID>
+          <StokKodu>19024/KIRIZI/75B</StokKodu>
+          <Barkod>KUHRFHSDJFHSFFGHFGH</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="KIRMIZI">KIRMIZI</Ozellik>
+            <Ozellik Tanim="Beden" Deger="75">75</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2895</VaryasyonID>
+          <StokKodu>19024/KIRIZI/80B</StokKodu>
+          <Barkod>KUHRFHSDJFHSFFGHFGHFGSG</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="KIRMIZI">KIRMIZI</Ozellik>
+            <Ozellik Tanim="Beden" Deger="80">80</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2896</VaryasyonID>
+          <StokKodu>19024/KIRIZI/85B</StokKodu>
+          <Barkod>KUHRFHSDJFHSFFGHFFGHFGGF</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="KIRMIZI">KIRMIZI</Ozellik>
+            <Ozellik Tanim="Beden" Deger="85">85</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2897</VaryasyonID>
+          <StokKodu>19024/KIRIZI/90B</StokKodu>
+          <Barkod>KUHRFHSDJFHSFFGHFGHFSSF</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="KIRMIZI">KIRMIZI</Ozellik>
+            <Ozellik Tanim="Beden" Deger="90">90</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+      </UrunSecenek>
+      <TeknikDetaylar />
+    </Urun>
+    <Urun>
+      <UrunKartiID>900</UrunKartiID>
+      <UrunAdi>Bella Notte Gri Sütyen Takımı 19021</UrunAdi>
+      <OnYazi><![CDATA[]]></OnYazi>
+      <Aciklama><![CDATA[]]></Aciklama>
+      <Marka>BELLA NOTTE</Marka>
+      <SatisBirimi>ADET</SatisBirimi>
+      <KategoriID>8</KategoriID>
+      <Kategori>Kadın İç Giyim</Kategori>
+      <KategoriTree>Kadın İç Giyim</KategoriTree>
+      <UrunUrl>https://gecelikmagazasi.com/bella-notte-gri-sutyen-takimi-19021-900</UrunUrl>
+      <OzelAlan2>19021-Serisi</OzelAlan2>
+      <Resimler>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Gri-Sutyen-Takimi-19021-e904.jpg</Resim>
+      </Resimler>
+      <UrunSecenek>
+        <Secenek>
+          <VaryasyonID>2898</VaryasyonID>
+          <StokKodu>19021.67.75B</StokKodu>
+          <Barkod>KHDFJKSHFGJSHFGSJHF</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="GRİ">GRİ</Ozellik>
+            <Ozellik Tanim="Beden" Deger="75">75</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2899</VaryasyonID>
+          <StokKodu>19021.67.80B</StokKodu>
+          <Barkod>KHDFJKSHFGJSHFGSJHFFG</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="GRİ">GRİ</Ozellik>
+            <Ozellik Tanim="Beden" Deger="80">80</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2900</VaryasyonID>
+          <StokKodu>19021.67.85B</StokKodu>
+          <Barkod>KHDFJKSHFGJSHFGSJHFDF</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="GRİ">GRİ</Ozellik>
+            <Ozellik Tanim="Beden" Deger="85">85</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2901</VaryasyonID>
+          <StokKodu>19021.67.90B</StokKodu>
+          <Barkod>KHDFJKSHFGJSHFGSJHFGFDFG</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="GRİ">GRİ</Ozellik>
+            <Ozellik Tanim="Beden" Deger="90">90</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2902</VaryasyonID>
+          <StokKodu>19021.67.95B</StokKodu>
+          <Barkod>KHDFJKSHFGJSHFGSJHFFGFG</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="GRİ">GRİ</Ozellik>
+            <Ozellik Tanim="Beden" Deger="95">95</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+      </UrunSecenek>
+      <TeknikDetaylar />
+    </Urun>
+    <Urun>
+      <UrunKartiID>901</UrunKartiID>
+      <UrunAdi>Bella Notte Beyaz Renkli Çiçekli Sütyen Takımı 19023</UrunAdi>
+      <OnYazi><![CDATA[]]></OnYazi>
+      <Aciklama><![CDATA[<p>Bella Notte Beyaz Renkli Çiçekli Sütyen Takımı 19023</p><p>Bedenler: 75B-80B-85B-90B-95B<br />Materyal: %90 polyester %10 Elastan<br />Yıkama Talimatı: Sadece elde yıkama için uygundur, kurutma makinası ve ütü önerilmez.</p>]]></Aciklama>
+      <Marka>BELLA NOTTE</Marka>
+      <SatisBirimi>ADET</SatisBirimi>
+      <KategoriID>26</KategoriID>
+      <Kategori>İç Çamaşır Takımı</Kategori>
+      <KategoriTree>Kadın İç Giyim/İç Çamaşır Takımı</KategoriTree>
+      <UrunUrl>https://gecelikmagazasi.com/bella-notte-beyaz-renkli-cicekli-sutyen-takimi-19023-901</UrunUrl>
+      <OzelAlan2>19023-Serisi</OzelAlan2>
+      <Resimler>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Beyaz-Renkli-Cicekli-Sutyen--c7f1.jpg</Resim>
+      </Resimler>
+      <UrunSecenek>
+        <Secenek>
+          <VaryasyonID>2903</VaryasyonID>
+          <StokKodu>19023.59.75.B</StokKodu>
+          <Barkod>DJKFHKLUHFGJHFG</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="Beyaz">Beyaz</Ozellik>
+            <Ozellik Tanim="Beden" Deger="75">75</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2904</VaryasyonID>
+          <StokKodu>19023.59.80B</StokKodu>
+          <Barkod>DJKFHKLUHFGJHFGFG</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="Beyaz">Beyaz</Ozellik>
+            <Ozellik Tanim="Beden" Deger="80">80</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2905</VaryasyonID>
+          <StokKodu>19023.59.85B</StokKodu>
+          <Barkod>DJKFHKLUHFGJHFGGH</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="Beyaz">Beyaz</Ozellik>
+            <Ozellik Tanim="Beden" Deger="85">85</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2906</VaryasyonID>
+          <StokKodu>19023.59.90B</StokKodu>
+          <Barkod>DJKFHKLUHFGJHFGGGDYDT</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="Beyaz">Beyaz</Ozellik>
+            <Ozellik Tanim="Beden" Deger="90">90</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2907</VaryasyonID>
+          <StokKodu>19023.59.95B</StokKodu>
+          <Barkod>DJKFHKLUHFGJHFGTRY</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="Beyaz">Beyaz</Ozellik>
+            <Ozellik Tanim="Beden" Deger="95">95</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+      </UrunSecenek>
+      <TeknikDetaylar />
+    </Urun>
+    <Urun>
+      <UrunKartiID>902</UrunKartiID>
+      <UrunAdi>Bella Notte Saks Mavisi Dantel Detaylı Sütyen Takımı 19026</UrunAdi>
+      <OnYazi><![CDATA[]]></OnYazi>
+      <Aciklama><![CDATA[<p>Bella Notte Saks Mavisi Dantel Detaylı Sütyen Takımı 19026</p><p>Bedenler: 75B-80B-85B-90B-95B<br />Materyal: %90 polyester %10 Elastan<br />Yıkama Talimatı: Sadece elde yıkama için uygundur, kurutma makinası ve ütü önerilmez.</p>]]></Aciklama>
+      <Marka>BELLA NOTTE</Marka>
+      <SatisBirimi>ADET</SatisBirimi>
+      <KategoriID>26</KategoriID>
+      <Kategori>İç Çamaşır Takımı</Kategori>
+      <KategoriTree>Kadın İç Giyim/İç Çamaşır Takımı</KategoriTree>
+      <UrunUrl>https://gecelikmagazasi.com/bella-notte-saks-mavisi-dantel-detayli-sutyen-takimi-19026-902</UrunUrl>
+      <OzelAlan2>19026-Serisi</OzelAlan2>
+      <Resimler>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Saks-Mavisi-Dantel-Detayli-S-7151.jpg</Resim>
+      </Resimler>
+      <UrunSecenek>
+        <Secenek>
+          <VaryasyonID>2908</VaryasyonID>
+          <StokKodu>19026.22.75B</StokKodu>
+          <Barkod>SJDFGHJKDFGJFGDVJ</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="SAKS">SAKS</Ozellik>
+            <Ozellik Tanim="Beden" Deger="75">75</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2909</VaryasyonID>
+          <StokKodu>19026.22.80B</StokKodu>
+          <Barkod>SJDFGHJKDFGJFGDVJGSF</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="SAKS">SAKS</Ozellik>
+            <Ozellik Tanim="Beden" Deger="80">80</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2910</VaryasyonID>
+          <StokKodu>19026.22.85B</StokKodu>
+          <Barkod>SJDFGHJKDFGJFGDVJDASDADA</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="SAKS">SAKS</Ozellik>
+            <Ozellik Tanim="Beden" Deger="85">85</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2911</VaryasyonID>
+          <StokKodu>19026.22.90B</StokKodu>
+          <Barkod>SJDFGHJKDFGJFGDVJVXVBB</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="SAKS">SAKS</Ozellik>
+            <Ozellik Tanim="Beden" Deger="90">90</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2912</VaryasyonID>
+          <StokKodu>19026.22.95B</StokKodu>
+          <Barkod>SJDFGHJKDFGJFGDVJÖNMÖNMÖ</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="SAKS">SAKS</Ozellik>
+            <Ozellik Tanim="Beden" Deger="95">95</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+      </UrunSecenek>
+      <TeknikDetaylar />
+    </Urun>
+    <Urun>
+      <UrunKartiID>903</UrunKartiID>
+      <UrunAdi>Bella Notte Kırmızı Altın Sarısı Gül Detaylı Hoş Sütyen Takımı 19027</UrunAdi>
+      <OnYazi><![CDATA[]]></OnYazi>
+      <Aciklama><![CDATA[<p>Bella Notte Kırmızı Altın Sarısı Gül Detaylı Hoş Sütyen Takımı 19027</p><p>Bedenler: 75B-80B-85B-90B-95B<br />Materyal: %90 polyester %10 Elastan<br />Yıkama Talimatı: Sadece elde yıkama için uygundur, kurutma makinası ve ütü önerilmez.</p>]]></Aciklama>
+      <Marka>BELLA NOTTE</Marka>
+      <SatisBirimi>ADET</SatisBirimi>
+      <KategoriID>26</KategoriID>
+      <Kategori>İç Çamaşır Takımı</Kategori>
+      <KategoriTree>Kadın İç Giyim/İç Çamaşır Takımı</KategoriTree>
+      <UrunUrl>https://gecelikmagazasi.com/bella-notte-kirmizi-altin-sarisi-gul-detayli-hos-sutyen-takimi-19027-903</UrunUrl>
+      <OzelAlan2>19027-Serisi</OzelAlan2>
+      <Resimler>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Kirmizi-Altin-Sarisi-Gul-Det-8a18.jpg</Resim>
+      </Resimler>
+      <UrunSecenek>
+        <Secenek>
+          <VaryasyonID>2913</VaryasyonID>
+          <StokKodu>19027.63.75B</StokKodu>
+          <Barkod>KJDFHKLADHFSKHFS</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="KIRMIZI">KIRMIZI</Ozellik>
+            <Ozellik Tanim="Beden" Deger="75">75</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2914</VaryasyonID>
+          <StokKodu>19027.63.80B</StokKodu>
+          <Barkod>KJDFHKLADHFSKHFSYTTREYR</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="KIRMIZI">KIRMIZI</Ozellik>
+            <Ozellik Tanim="Beden" Deger="80">80</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2915</VaryasyonID>
+          <StokKodu>19027.63.85B</StokKodu>
+          <Barkod>KJDFHKLADHFSKHFSFGFDGDFG</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="KIRMIZI">KIRMIZI</Ozellik>
+            <Ozellik Tanim="Beden" Deger="85">85</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2916</VaryasyonID>
+          <StokKodu>19027.63.90B</StokKodu>
+          <Barkod>KJDFHKLADHFSKHFSGSDFASDAFAFSDF</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="KIRMIZI">KIRMIZI</Ozellik>
+            <Ozellik Tanim="Beden" Deger="90">90</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2917</VaryasyonID>
+          <StokKodu>19027.63.95B</StokKodu>
+          <Barkod>KJDFHKLADHFSKHFSEWERWERWR</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="KIRMIZI">KIRMIZI</Ozellik>
+            <Ozellik Tanim="Beden" Deger="95">95</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+      </UrunSecenek>
+      <TeknikDetaylar />
+    </Urun>
+    <Urun>
+      <UrunKartiID>904</UrunKartiID>
+      <UrunAdi>Bella Notte Siyah Sim Detaylı Sütyen Takımı 19028</UrunAdi>
+      <OnYazi><![CDATA[]]></OnYazi>
+      <Aciklama><![CDATA[<p>Bella Notte Siyah Sim Detaylı Sütyen Takımı 19028</p><p>Bedenler: 75B-80B-85B-90B-95B<br />Materyal: %90 polyester %10 Elastan<br />Yıkama Talimatı: Sadece elde yıkama için uygundur, kurutma makinası ve ütü önerilmez.</p>]]></Aciklama>
+      <Marka>BELLA NOTTE</Marka>
+      <SatisBirimi>ADET</SatisBirimi>
+      <KategoriID>26</KategoriID>
+      <Kategori>İç Çamaşır Takımı</Kategori>
+      <KategoriTree>Kadın İç Giyim/İç Çamaşır Takımı</KategoriTree>
+      <UrunUrl>https://gecelikmagazasi.com/bella-notte-siyah-sim-detayli-sutyen-takimi-19028-904</UrunUrl>
+      <OzelAlan2></OzelAlan2>
+      <Resimler>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Siyah-Sim-Detayli-Sutyen-Tak-2a23.jpg</Resim>
+      </Resimler>
+      <UrunSecenek>
+        <Secenek>
+          <VaryasyonID>2918</VaryasyonID>
+          <StokKodu>19028.1.75B</StokKodu>
+          <Barkod>KJDSıueryweıuykjadsh</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="SİYAH">SİYAH</Ozellik>
+            <Ozellik Tanim="Beden" Deger="75">75</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2919</VaryasyonID>
+          <StokKodu>19028.1.80B</StokKodu>
+          <Barkod>KJDSıueryweıuykjadshFGF</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="SİYAH">SİYAH</Ozellik>
+            <Ozellik Tanim="Beden" Deger="80">80</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2920</VaryasyonID>
+          <StokKodu>19028.1.85B</StokKodu>
+          <Barkod>KJDSıueryweıuykjadshCVCVV</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="SİYAH">SİYAH</Ozellik>
+            <Ozellik Tanim="Beden" Deger="85">85</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2921</VaryasyonID>
+          <StokKodu>19028.1.90B</StokKodu>
+          <Barkod>KJDSıueryweıuykjadshEWRQER</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="SİYAH">SİYAH</Ozellik>
+            <Ozellik Tanim="Beden" Deger="90">90</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2922</VaryasyonID>
+          <StokKodu>19028.1.95B</StokKodu>
+          <Barkod>KJDSıueryweıuykjadsh</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="SİYAH">SİYAH</Ozellik>
+            <Ozellik Tanim="Beden" Deger="95">95</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+      </UrunSecenek>
+      <TeknikDetaylar />
+    </Urun>
+    <Urun>
+      <UrunKartiID>905</UrunKartiID>
+      <UrunAdi>Bella Notte Kırmızı Kaplı Güpürlü Sütyen Takımı 19029</UrunAdi>
+      <OnYazi><![CDATA[]]></OnYazi>
+      <Aciklama><![CDATA[<p>Bella Notte Kırmızı Kaplı Güpürlü Sütyen Takımı 19029</p><p>Bedenler: 75B-80B-85B-90B-95B<br />Materyal: %85 polyester %15 Elastan<br />Yıkama Talimatı: Sadece elde yıkama için uygundur, kurutma makinası ve ütü önerilmez.</p><p> </p>]]></Aciklama>
+      <Marka>BELLA NOTTE</Marka>
+      <SatisBirimi>ADET</SatisBirimi>
+      <KategoriID>26</KategoriID>
+      <Kategori>İç Çamaşır Takımı</Kategori>
+      <KategoriTree>Kadın İç Giyim/İç Çamaşır Takımı</KategoriTree>
+      <UrunUrl>https://gecelikmagazasi.com/bella-notte-kirmizi-kapli-gupurlu-sutyen-takimi-19029-905</UrunUrl>
+      <OzelAlan2>19029-Serisi</OzelAlan2>
+      <Resimler>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Kirmizi-Kapli-Gupurlu-Sutyen-1618.jpg</Resim>
+      </Resimler>
+      <UrunSecenek>
+        <Secenek>
+          <VaryasyonID>2923</VaryasyonID>
+          <StokKodu>19029.63.75B</StokKodu>
+          <Barkod>eıroıwuokdlodsoıjfoldsjf</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="KIRMIZI">KIRMIZI</Ozellik>
+            <Ozellik Tanim="Beden" Deger="75">75</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2924</VaryasyonID>
+          <StokKodu>19029.63.80B</StokKodu>
+          <Barkod>eıroıwuokdlodsoıjfoldsjfXVVCDFGDFG</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="KIRMIZI">KIRMIZI</Ozellik>
+            <Ozellik Tanim="Beden" Deger="80">80</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2925</VaryasyonID>
+          <StokKodu>19029.63.85B</StokKodu>
+          <Barkod>eıroıwuokdlodsoıjfoldsjfEWRTERTRT</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="KIRMIZI">KIRMIZI</Ozellik>
+            <Ozellik Tanim="Beden" Deger="85">85</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2926</VaryasyonID>
+          <StokKodu>19029.63.90B</StokKodu>
+          <Barkod>eıroıwuokdlodsoıjfoldsjfVXZCVFGF</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="KIRMIZI">KIRMIZI</Ozellik>
+            <Ozellik Tanim="Beden" Deger="90">90</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2927</VaryasyonID>
+          <StokKodu>19029.63.95B</StokKodu>
+          <Barkod>eıroıwuokdlodsoıjfoldsjfRTRTWR</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="KIRMIZI">KIRMIZI</Ozellik>
+            <Ozellik Tanim="Beden" Deger="95">95</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+      </UrunSecenek>
+      <TeknikDetaylar />
+    </Urun>
+    <Urun>
+      <UrunKartiID>906</UrunKartiID>
+      <UrunAdi>Bella Notte Kırmızı Sim Detaylı Sütyen Takımı 19030</UrunAdi>
+      <OnYazi><![CDATA[]]></OnYazi>
+      <Aciklama><![CDATA[<p>Bella Notte Kırmızı Sim Detaylı Sütyen Takımı 19030</p><p>Bedenler: 75B-80B-85B-90B-95B<br />Materyal: %90 polyester %10 Elastan<br />Yıkama Talimatı: Sadece elde yıkama için uygundur, kurutma makinası ve ütü önerilmez.</p>]]></Aciklama>
+      <Marka>BELLA NOTTE</Marka>
+      <SatisBirimi>ADET</SatisBirimi>
+      <KategoriID>26</KategoriID>
+      <Kategori>İç Çamaşır Takımı</Kategori>
+      <KategoriTree>Kadın İç Giyim/İç Çamaşır Takımı</KategoriTree>
+      <UrunUrl>https://gecelikmagazasi.com/bella-notte-kirmizi-sim-detayli-sutyen-takimi-19030-906</UrunUrl>
+      <OzelAlan2>19030-Serisi</OzelAlan2>
+      <Resimler>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Kirmizi-Sim-Detayli-Sutyen-T-8a50.jpg</Resim>
+      </Resimler>
+      <UrunSecenek>
+        <Secenek>
+          <VaryasyonID>2928</VaryasyonID>
+          <StokKodu>19030.63.75B</StokKodu>
+          <Barkod>oıweuoryıuyr</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Beden" Deger="75">75</Ozellik>
+            <Ozellik Tanim="Renk" Deger="KIRMIZI">KIRMIZI</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2929</VaryasyonID>
+          <StokKodu>19030.63.80B</StokKodu>
+          <Barkod>oıweuoryıuyrRTRT</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Beden" Deger="80">80</Ozellik>
+            <Ozellik Tanim="Renk" Deger="KIRMIZI">KIRMIZI</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2930</VaryasyonID>
+          <StokKodu>19030.63.85B</StokKodu>
+          <Barkod>oıweuoryıuyrY5ETRTT</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Beden" Deger="85">85</Ozellik>
+            <Ozellik Tanim="Renk" Deger="KIRMIZI">KIRMIZI</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2931</VaryasyonID>
+          <StokKodu>19030.63.90B</StokKodu>
+          <Barkod>oıweuoryıuyrRGTTWRTRWT</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Beden" Deger="90">90</Ozellik>
+            <Ozellik Tanim="Renk" Deger="KIRMIZI">KIRMIZI</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2932</VaryasyonID>
+          <StokKodu>19030.63.95B</StokKodu>
+          <Barkod>oıweuoryıuyrFGSSJHDKJAHD</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Beden" Deger="95">95</Ozellik>
+            <Ozellik Tanim="Renk" Deger="KIRMIZI">KIRMIZI</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+      </UrunSecenek>
+      <TeknikDetaylar />
+    </Urun>
+    <Urun>
+      <UrunKartiID>907</UrunKartiID>
+      <UrunAdi>Bella Notte Siyah Kırmızı Gül Detaylı Romantik Sütyen Takımı 19031</UrunAdi>
+      <OnYazi><![CDATA[]]></OnYazi>
+      <Aciklama><![CDATA[<p>Bella Notte Siyah Kırmızı Gül Detaylı Romantik Sütyen Takımı 19031</p><p>Bedenler: 75B-80B-85B-90B-95B<br />Materyal: %90 polyester %10 Elastan<br />Yıkama Talimatı: Sadece elde yıkama için uygundur, kurutma makinası ve ütü önerilmez.</p>]]></Aciklama>
+      <Marka>BELLA NOTTE</Marka>
+      <SatisBirimi>ADET</SatisBirimi>
+      <KategoriID>26</KategoriID>
+      <Kategori>İç Çamaşır Takımı</Kategori>
+      <KategoriTree>Kadın İç Giyim/İç Çamaşır Takımı</KategoriTree>
+      <UrunUrl>https://gecelikmagazasi.com/bella-notte-siyah-kirmizi-gul-detayli-romantik-sutyen-takimi-19031-907</UrunUrl>
+      <OzelAlan2>19031-Serisi</OzelAlan2>
+      <Resimler>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Siyah-Kirmizi-Gul-Detayli-Ro-48ef.jpg</Resim>
+      </Resimler>
+      <UrunSecenek>
+        <Secenek>
+          <VaryasyonID>2933</VaryasyonID>
+          <StokKodu>19031.75.75B</StokKodu>
+          <Barkod>rştglkdşflkgçfgmçkmfgd</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Beden" Deger="75">75</Ozellik>
+            <Ozellik Tanim="Renk" Deger="KIRMIZI - SİYAH">KIRMIZI - SİYAH</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2934</VaryasyonID>
+          <StokKodu>19031.75.80B</StokKodu>
+          <Barkod>rştglkdşflkgçfgmçkmfgdDSFADF</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Beden" Deger="80">80</Ozellik>
+            <Ozellik Tanim="Renk" Deger="KIRMIZI - SİYAH">KIRMIZI - SİYAH</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2935</VaryasyonID>
+          <StokKodu>19031.75.85B</StokKodu>
+          <Barkod>rştglkdşflkgçfgmçkmfgdWRTART</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Beden" Deger="85">85</Ozellik>
+            <Ozellik Tanim="Renk" Deger="KIRMIZI - SİYAH">KIRMIZI - SİYAH</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2936</VaryasyonID>
+          <StokKodu>19031.75.90B</StokKodu>
+          <Barkod>rştglkdşflkgçfgmçkmfgdDFGDFSSFD</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Beden" Deger="90">90</Ozellik>
+            <Ozellik Tanim="Renk" Deger="KIRMIZI - SİYAH">KIRMIZI - SİYAH</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2937</VaryasyonID>
+          <StokKodu>19031.75.95B</StokKodu>
+          <Barkod>rştglkdşflkgçfgmçkmfgdERQWERWERWER</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Beden" Deger="95">95</Ozellik>
+            <Ozellik Tanim="Renk" Deger="KIRMIZI - SİYAH">KIRMIZI - SİYAH</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+      </UrunSecenek>
+      <TeknikDetaylar />
+    </Urun>
+    <Urun>
+      <UrunKartiID>908</UrunKartiID>
+      <UrunAdi>Bella Notte Siyah Kaplı Güpürlü Sütyen Takımı 19032</UrunAdi>
+      <OnYazi><![CDATA[]]></OnYazi>
+      <Aciklama><![CDATA[<p>Bella Notte Siyah Kaplı Güpürlü Sütyen Takımı 19032</p><p>Bedenler: 75B-80B-85B-90B-95B<br />Materyal: %90 polyester %10 Elastan<br />Yıkama Talimatı: Sadece elde yıkama için uygundur, kurutma makinası ve ütü önerilmez.</p>]]></Aciklama>
+      <Marka>BELLA NOTTE</Marka>
+      <SatisBirimi>ADET</SatisBirimi>
+      <KategoriID>26</KategoriID>
+      <Kategori>İç Çamaşır Takımı</Kategori>
+      <KategoriTree>Kadın İç Giyim/İç Çamaşır Takımı</KategoriTree>
+      <UrunUrl>https://gecelikmagazasi.com/bella-notte-siyah-kapli-gupurlu-sutyen-takimi-19032-908</UrunUrl>
+      <OzelAlan2>19032-Serisi</OzelAlan2>
+      <Resimler>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Siyah-Kapli-Gupurlu-Sutyen-T-2d56.jpg</Resim>
+      </Resimler>
+      <UrunSecenek>
+        <Secenek>
+          <VaryasyonID>2938</VaryasyonID>
+          <StokKodu>19032.1.75B</StokKodu>
+          <Barkod>dsçköjaöndsönömsand</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Beden" Deger="75">75</Ozellik>
+            <Ozellik Tanim="Renk" Deger="SİYAH">SİYAH</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2939</VaryasyonID>
+          <StokKodu>19032.1.80B</StokKodu>
+          <Barkod>dsçköjaöndsönömsandASDASD</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Beden" Deger="80">80</Ozellik>
+            <Ozellik Tanim="Renk" Deger="SİYAH">SİYAH</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2940</VaryasyonID>
+          <StokKodu>19032.1.85B</StokKodu>
+          <Barkod>dsçköjaöndsönömsandFFDSFDTY</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Beden" Deger="85">85</Ozellik>
+            <Ozellik Tanim="Renk" Deger="SİYAH">SİYAH</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2941</VaryasyonID>
+          <StokKodu>19032.1.90B</StokKodu>
+          <Barkod>dsçköjaöndsönömsandJFDBKJHFD</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Beden" Deger="90">90</Ozellik>
+            <Ozellik Tanim="Renk" Deger="SİYAH">SİYAH</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2942</VaryasyonID>
+          <StokKodu>19032.1.95B</StokKodu>
+          <Barkod>dsçköjaöndsönömsandRHTKRHTKHTKH</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Beden" Deger="95">95</Ozellik>
+            <Ozellik Tanim="Renk" Deger="SİYAH">SİYAH</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+      </UrunSecenek>
+      <TeknikDetaylar />
+    </Urun>
+    <Urun>
+      <UrunKartiID>909</UrunKartiID>
+      <UrunAdi>Bella Notte Mor Çiçek Esintili Sütyen Takımı 19033</UrunAdi>
+      <OnYazi><![CDATA[]]></OnYazi>
+      <Aciklama><![CDATA[<p>Bella Notte Mor Çiçek Esintili Sütyen Takımı 19033</p><p>Bedenler: 75B-80B-85B-90B-95B<br />Materyal: %90 polyester %10 Elastan<br />Yıkama Talimatı: Sadece elde yıkama için uygundur, kurutma makinası ve ütü önerilmez</p>]]></Aciklama>
+      <Marka>BELLA NOTTE</Marka>
+      <SatisBirimi>ADET</SatisBirimi>
+      <KategoriID>26</KategoriID>
+      <Kategori>İç Çamaşır Takımı</Kategori>
+      <KategoriTree>Kadın İç Giyim/İç Çamaşır Takımı</KategoriTree>
+      <UrunUrl>https://gecelikmagazasi.com/bella-notte-mor-cicek-esintili-sutyen-takimi-19033-909</UrunUrl>
+      <OzelAlan2>19033-Serisi</OzelAlan2>
+      <Resimler>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Mor-Cicek-Esintili-Sutyen-Ta-228a.jpg</Resim>
+      </Resimler>
+      <UrunSecenek>
+        <Secenek>
+          <VaryasyonID>2943</VaryasyonID>
+          <StokKodu>19033.70.75B</StokKodu>
+          <Barkod>senohanlşwkeşeklkd</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Beden" Deger="75">75</Ozellik>
+            <Ozellik Tanim="Renk" Deger="MOR">MOR</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2944</VaryasyonID>
+          <StokKodu>19033.70.80B</StokKodu>
+          <Barkod>senohanlşwkeşeklkdWERWR</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Beden" Deger="80">80</Ozellik>
+            <Ozellik Tanim="Renk" Deger="MOR">MOR</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2945</VaryasyonID>
+          <StokKodu>19033.70.85B</StokKodu>
+          <Barkod>senohanlşwkeşeklkdWEQEWqer</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Beden" Deger="85">85</Ozellik>
+            <Ozellik Tanim="Renk" Deger="MOR">MOR</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2946</VaryasyonID>
+          <StokKodu>19033.70.90B</StokKodu>
+          <Barkod>senohanlşwkeşeklkderwerqrqrqweq</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Beden" Deger="90">90</Ozellik>
+            <Ozellik Tanim="Renk" Deger="MOR">MOR</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2947</VaryasyonID>
+          <StokKodu>19033.70.95B</StokKodu>
+          <Barkod>senohanlşwkeşeklkddfafdaddadd</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Beden" Deger="95">95</Ozellik>
+            <Ozellik Tanim="Renk" Deger="MOR">MOR</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+      </UrunSecenek>
+      <TeknikDetaylar />
+    </Urun>
+    <Urun>
+      <UrunKartiID>910</UrunKartiID>
+      <UrunAdi>Bella Notte Lila İşlemeli Romantik Sütyen Takımı 19034</UrunAdi>
+      <OnYazi><![CDATA[]]></OnYazi>
+      <Aciklama><![CDATA[<p>Bella Notte Lila İşlemeli Romantik Sütyen Takımı 19034</p><p>Bedenler: 75B-80B-85B-90B-95B<br />Materyal: %90 polyester %10 Elastan<br />Yıkama Talimatı: Sadece elde yıkama için uygundur, kurutma makinası ve ütü önerilmez.</p>]]></Aciklama>
+      <Marka>BELLA NOTTE</Marka>
+      <SatisBirimi>ADET</SatisBirimi>
+      <KategoriID>26</KategoriID>
+      <Kategori>İç Çamaşır Takımı</Kategori>
+      <KategoriTree>Kadın İç Giyim/İç Çamaşır Takımı</KategoriTree>
+      <UrunUrl>https://gecelikmagazasi.com/bella-notte-lila-islemeli-romantik-sutyen-takimi-19034-910</UrunUrl>
+      <OzelAlan2>19034-Serisi</OzelAlan2>
+      <Resimler>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Lila-Islemeli-Romantik-Sutye-0370.jpg</Resim>
+      </Resimler>
+      <UrunSecenek>
+        <Secenek>
+          <VaryasyonID>2948</VaryasyonID>
+          <StokKodu>19034.4.75B</StokKodu>
+          <Barkod>senoşosıdoıdpoıdıado</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Beden" Deger="75">75</Ozellik>
+            <Ozellik Tanim="Renk" Deger="Lila">Lila</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2949</VaryasyonID>
+          <StokKodu>19034.4.80B</StokKodu>
+          <Barkod>senoşosıdoıdpoıdıadoERFERFERF</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Beden" Deger="80">80</Ozellik>
+            <Ozellik Tanim="Renk" Deger="Lila">Lila</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2950</VaryasyonID>
+          <StokKodu>19034.4.85B</StokKodu>
+          <Barkod>senoşosıdoıdpoıdıadoEREWRRWR</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Beden" Deger="85">85</Ozellik>
+            <Ozellik Tanim="Renk" Deger="Lila">Lila</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2951</VaryasyonID>
+          <StokKodu>19034.4.90B</StokKodu>
+          <Barkod>senoşosıdoıdpoıdıadoWTRTATR</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Beden" Deger="90">90</Ozellik>
+            <Ozellik Tanim="Renk" Deger="Lila">Lila</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>2952</VaryasyonID>
+          <StokKodu>19034.4.95B</StokKodu>
+          <Barkod>senoşosıdoıdpoıdıadoRTARETARTAT</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Beden" Deger="95">95</Ozellik>
+            <Ozellik Tanim="Renk" Deger="Lila">Lila</Ozellik>
           </EkSecenekOzellik>
         </Secenek>
       </UrunSecenek>

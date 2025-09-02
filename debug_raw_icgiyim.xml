@@ -71023,7 +71023,7 @@
       <UrunSecenek>
         <Secenek>
           <VaryasyonID>2894</VaryasyonID>
-          <StokKodu>19024/KIRIZI/75B</StokKodu>
+          <StokKodu>19024.63.75B</StokKodu>
           <Barkod>KUHRFHSDJFHSFFGHFGH</Barkod>
           <StokAdedi>0</StokAdedi>
           <AlisFiyati>0,00</AlisFiyati>
@@ -71041,7 +71041,7 @@
         </Secenek>
         <Secenek>
           <VaryasyonID>2895</VaryasyonID>
-          <StokKodu>19024/KIRIZI/80B</StokKodu>
+          <StokKodu>19024.63.80B</StokKodu>
           <Barkod>KUHRFHSDJFHSFFGHFGHFGSG</Barkod>
           <StokAdedi>0</StokAdedi>
           <AlisFiyati>0,00</AlisFiyati>
@@ -71059,7 +71059,7 @@
         </Secenek>
         <Secenek>
           <VaryasyonID>2896</VaryasyonID>
-          <StokKodu>19024/KIRIZI/85B</StokKodu>
+          <StokKodu>19024.63.85B</StokKodu>
           <Barkod>KUHRFHSDJFHSFFGHFFGHFGGF</Barkod>
           <StokAdedi>0</StokAdedi>
           <AlisFiyati>0,00</AlisFiyati>
@@ -71077,7 +71077,7 @@
         </Secenek>
         <Secenek>
           <VaryasyonID>2897</VaryasyonID>
-          <StokKodu>19024/KIRIZI/90B</StokKodu>
+          <StokKodu>19024.63.90B</StokKodu>
           <Barkod>KUHRFHSDJFHSFFGHFGHFSSF</Barkod>
           <StokAdedi>0</StokAdedi>
           <AlisFiyati>0,00</AlisFiyati>
@@ -71095,8 +71095,8 @@
         </Secenek>
         <Secenek>
           <VaryasyonID>2957</VaryasyonID>
-          <StokKodu>19024/KIRIZI/95B</StokKodu>
-          <Barkod>KUHRFHSDJFHSFFGHFGsdafafdsasfdafH</Barkod>
+          <StokKodu>19024.63.95B</StokKodu>
+          <Barkod>KUHRFHSDJFHSFFGHF</Barkod>
           <StokAdedi>0</StokAdedi>
           <AlisFiyati>0,00</AlisFiyati>
           <SatisFiyati>0,00</SatisFiyati>

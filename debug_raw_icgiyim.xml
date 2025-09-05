@@ -44995,7 +44995,7 @@
           <VaryasyonID>1782</VaryasyonID>
           <StokKodu>7036/EKRU/L</StokKodu>
           <Barkod>5156556423053</Barkod>
-          <StokAdedi>938</StokAdedi>
+          <StokAdedi>937</StokAdedi>
           <AlisFiyati>441,90</AlisFiyati>
           <SatisFiyati>649,90</SatisFiyati>
           <IndirimliFiyat>0,00</IndirimliFiyat>
@@ -51047,7 +51047,7 @@
           <VaryasyonID>2020</VaryasyonID>
           <StokKodu>7097.56.L</StokKodu>
           <Barkod>904565345356</Barkod>
-          <StokAdedi>830</StokAdedi>
+          <StokAdedi>829</StokAdedi>
           <AlisFiyati>253,90</AlisFiyati>
           <SatisFiyati>603,90</SatisFiyati>
           <IndirimliFiyat>464,90</IndirimliFiyat>
@@ -55606,24 +55606,6 @@
         <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/bella-notte-siyah-kisa-kollu-kurdale-d-6-4491.jpeg</Resim>
       </Resimler>
       <UrunSecenek>
-        <Secenek>
-          <VaryasyonID>2226</VaryasyonID>
-          <StokKodu>7153.19.L</StokKodu>
-          <Barkod>645634645</Barkod>
-          <StokAdedi>995</StokAdedi>
-          <AlisFiyati>252,90</AlisFiyati>
-          <SatisFiyati>600,90</SatisFiyati>
-          <IndirimliFiyat>462,90</IndirimliFiyat>
-          <KDVDahil>true</KDVDahil>
-          <KdvOrani>10</KdvOrani>
-          <ParaBirimi>TL</ParaBirimi>
-          <ParaBirimiKodu>TRY</ParaBirimiKodu>
-          <Desi>1</Desi>
-          <EkSecenekOzellik>
-            <Ozellik Tanim="Renk" Deger="GÜL KURUSU">GÜL KURUSU</Ozellik>
-            <Ozellik Tanim="Beden" Deger="L">L</Ozellik>
-          </EkSecenekOzellik>
-        </Secenek>
         <Secenek>
           <VaryasyonID>2371</VaryasyonID>
           <StokKodu>7153.19.S</StokKodu>
@@ -63237,7 +63219,7 @@
           <VaryasyonID>2557</VaryasyonID>
           <StokKodu>7327.53.L</StokKodu>
           <Barkod>0560454545789</Barkod>
-          <StokAdedi>990</StokAdedi>
+          <StokAdedi>989</StokAdedi>
           <AlisFiyati>410,90</AlisFiyati>
           <SatisFiyati>863,90</SatisFiyati>
           <IndirimliFiyat>664,90</IndirimliFiyat>

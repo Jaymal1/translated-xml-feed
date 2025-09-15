@@ -290,7 +290,7 @@
           <VaryasyonID>11</VaryasyonID>
           <StokKodu>15500-S/M</StokKodu>
           <Barkod>845626555625244</Barkod>
-          <StokAdedi>476</StokAdedi>
+          <StokAdedi>474</StokAdedi>
           <AlisFiyati>128,90</AlisFiyati>
           <SatisFiyati>249,90</SatisFiyati>
           <IndirimliFiyat>249,90</IndirimliFiyat>
@@ -308,7 +308,7 @@
           <VaryasyonID>12</VaryasyonID>
           <StokKodu>15500-L/XL</StokKodu>
           <Barkod>845626555625246</Barkod>
-          <StokAdedi>789</StokAdedi>
+          <StokAdedi>787</StokAdedi>
           <AlisFiyati>128,90</AlisFiyati>
           <SatisFiyati>249,90</SatisFiyati>
           <IndirimliFiyat>249,90</IndirimliFiyat>
@@ -326,7 +326,7 @@
           <VaryasyonID>13</VaryasyonID>
           <StokKodu>15500-2XL/3XL</StokKodu>
           <Barkod>845626555625248</Barkod>
-          <StokAdedi>642</StokAdedi>
+          <StokAdedi>641</StokAdedi>
           <AlisFiyati>128,90</AlisFiyati>
           <SatisFiyati>249,90</SatisFiyati>
           <IndirimliFiyat>249,90</IndirimliFiyat>
@@ -3906,7 +3906,7 @@
           <VaryasyonID>149</VaryasyonID>
           <StokKodu>15514-2XL/3XL</StokKodu>
           <Barkod>845626555625500</Barkod>
-          <StokAdedi>178</StokAdedi>
+          <StokAdedi>177</StokAdedi>
           <AlisFiyati>149,90</AlisFiyati>
           <SatisFiyati>279,90</SatisFiyati>
           <IndirimliFiyat>279,90</IndirimliFiyat>
@@ -3945,7 +3945,7 @@
           <VaryasyonID>150</VaryasyonID>
           <StokKodu>15513-S/M</StokKodu>
           <Barkod>845626555625502</Barkod>
-          <StokAdedi>283</StokAdedi>
+          <StokAdedi>282</StokAdedi>
           <AlisFiyati>149,90</AlisFiyati>
           <SatisFiyati>279,90</SatisFiyati>
           <IndirimliFiyat>279,90</IndirimliFiyat>
@@ -3963,7 +3963,7 @@
           <VaryasyonID>151</VaryasyonID>
           <StokKodu>15513-L/XL</StokKodu>
           <Barkod>845626555625504</Barkod>
-          <StokAdedi>293</StokAdedi>
+          <StokAdedi>290</StokAdedi>
           <AlisFiyati>149,90</AlisFiyati>
           <SatisFiyati>279,90</SatisFiyati>
           <IndirimliFiyat>279,90</IndirimliFiyat>
@@ -4247,7 +4247,7 @@
           <VaryasyonID>162</VaryasyonID>
           <StokKodu>15026-S/M</StokKodu>
           <Barkod>845626555625526</Barkod>
-          <StokAdedi>75</StokAdedi>
+          <StokAdedi>72</StokAdedi>
           <AlisFiyati>163,90</AlisFiyati>
           <SatisFiyati>299,90</SatisFiyati>
           <IndirimliFiyat>299,90</IndirimliFiyat>
@@ -4265,7 +4265,7 @@
           <VaryasyonID>163</VaryasyonID>
           <StokKodu>15026-L/XL</StokKodu>
           <Barkod>845626555625528</Barkod>
-          <StokAdedi>13</StokAdedi>
+          <StokAdedi>8</StokAdedi>
           <AlisFiyati>163,90</AlisFiyati>
           <SatisFiyati>299,90</SatisFiyati>
           <IndirimliFiyat>299,90</IndirimliFiyat>
@@ -4323,7 +4323,7 @@
           <VaryasyonID>165</VaryasyonID>
           <StokKodu>15024-S/M</StokKodu>
           <Barkod>845626555625532</Barkod>
-          <StokAdedi>720</StokAdedi>
+          <StokAdedi>718</StokAdedi>
           <AlisFiyati>163,90</AlisFiyati>
           <SatisFiyati>299,90</SatisFiyati>
           <IndirimliFiyat>299,90</IndirimliFiyat>
@@ -4359,7 +4359,7 @@
           <VaryasyonID>167</VaryasyonID>
           <StokKodu>15024-2XL/3XL</StokKodu>
           <Barkod>845626555625536</Barkod>
-          <StokAdedi>294</StokAdedi>
+          <StokAdedi>289</StokAdedi>
           <AlisFiyati>163,90</AlisFiyati>
           <SatisFiyati>299,90</SatisFiyati>
           <IndirimliFiyat>299,90</IndirimliFiyat>
@@ -4438,7 +4438,7 @@
           <VaryasyonID>170</VaryasyonID>
           <StokKodu>15023-2XL/3XL</StokKodu>
           <Barkod>845626555625542</Barkod>
-          <StokAdedi>134</StokAdedi>
+          <StokAdedi>132</StokAdedi>
           <AlisFiyati>163,90</AlisFiyati>
           <SatisFiyati>299,90</SatisFiyati>
           <IndirimliFiyat>299,90</IndirimliFiyat>
@@ -5021,7 +5021,7 @@
           <VaryasyonID>193</VaryasyonID>
           <StokKodu>15029-L/XL</StokKodu>
           <Barkod>845626555625588</Barkod>
-          <StokAdedi>119</StokAdedi>
+          <StokAdedi>115</StokAdedi>
           <AlisFiyati>145,90</AlisFiyati>
           <SatisFiyati>269,90</SatisFiyati>
           <IndirimliFiyat>269,90</IndirimliFiyat>
@@ -5039,7 +5039,7 @@
           <VaryasyonID>194</VaryasyonID>
           <StokKodu>15029-2XL/3XL</StokKodu>
           <Barkod>845626555625590</Barkod>
-          <StokAdedi>246</StokAdedi>
+          <StokAdedi>243</StokAdedi>
           <AlisFiyati>145,90</AlisFiyati>
           <SatisFiyati>269,90</SatisFiyati>
           <IndirimliFiyat>269,90</IndirimliFiyat>
@@ -5079,7 +5079,7 @@
           <VaryasyonID>195</VaryasyonID>
           <StokKodu>15032-S/M</StokKodu>
           <Barkod>845626555625592</Barkod>
-          <StokAdedi>732</StokAdedi>
+          <StokAdedi>730</StokAdedi>
           <AlisFiyati>145,90</AlisFiyati>
           <SatisFiyati>269,90</SatisFiyati>
           <IndirimliFiyat>269,90</IndirimliFiyat>
@@ -5097,7 +5097,7 @@
           <VaryasyonID>196</VaryasyonID>
           <StokKodu>15032-L/XL</StokKodu>
           <Barkod>845626555625594</Barkod>
-          <StokAdedi>704</StokAdedi>
+          <StokAdedi>703</StokAdedi>
           <AlisFiyati>145,90</AlisFiyati>
           <SatisFiyati>269,90</SatisFiyati>
           <IndirimliFiyat>269,90</IndirimliFiyat>
@@ -5115,7 +5115,7 @@
           <VaryasyonID>197</VaryasyonID>
           <StokKodu>15032-2XL/3XL</StokKodu>
           <Barkod>845626555625596</Barkod>
-          <StokAdedi>226</StokAdedi>
+          <StokAdedi>225</StokAdedi>
           <AlisFiyati>145,90</AlisFiyati>
           <SatisFiyati>269,90</SatisFiyati>
           <IndirimliFiyat>269,90</IndirimliFiyat>
@@ -7296,7 +7296,7 @@
           <VaryasyonID>281</VaryasyonID>
           <StokKodu>15044-2XL/3XL</StokKodu>
           <Barkod>845626555625752</Barkod>
-          <StokAdedi>171</StokAdedi>
+          <StokAdedi>170</StokAdedi>
           <AlisFiyati>101,90</AlisFiyati>
           <SatisFiyati>239,90</SatisFiyati>
           <IndirimliFiyat>239,90</IndirimliFiyat>
@@ -7409,7 +7409,7 @@
           <VaryasyonID>285</VaryasyonID>
           <StokKodu>15040-S/M</StokKodu>
           <Barkod>845626555625760</Barkod>
-          <StokAdedi>929</StokAdedi>
+          <StokAdedi>919</StokAdedi>
           <AlisFiyati>144,90</AlisFiyati>
           <SatisFiyati>269,90</SatisFiyati>
           <IndirimliFiyat>269,90</IndirimliFiyat>
@@ -7427,7 +7427,7 @@
           <VaryasyonID>286</VaryasyonID>
           <StokKodu>15040-L/XL</StokKodu>
           <Barkod>845626555625762</Barkod>
-          <StokAdedi>438</StokAdedi>
+          <StokAdedi>428</StokAdedi>
           <AlisFiyati>144,90</AlisFiyati>
           <SatisFiyati>269,90</SatisFiyati>
           <IndirimliFiyat>269,90</IndirimliFiyat>
@@ -7445,7 +7445,7 @@
           <VaryasyonID>287</VaryasyonID>
           <StokKodu>15040-2XL/3XL</StokKodu>
           <Barkod>845626555625764</Barkod>
-          <StokAdedi>56</StokAdedi>
+          <StokAdedi>52</StokAdedi>
           <AlisFiyati>144,90</AlisFiyati>
           <SatisFiyati>269,90</SatisFiyati>
           <IndirimliFiyat>269,90</IndirimliFiyat>
@@ -10203,7 +10203,7 @@
           <VaryasyonID>397</VaryasyonID>
           <StokKodu>7013-L</StokKodu>
           <Barkod>845626555625970</Barkod>
-          <StokAdedi>35</StokAdedi>
+          <StokAdedi>34</StokAdedi>
           <AlisFiyati>235,90</AlisFiyati>
           <SatisFiyati>389,90</SatisFiyati>
           <IndirimliFiyat>389,90</IndirimliFiyat>
@@ -10221,7 +10221,7 @@
           <VaryasyonID>398</VaryasyonID>
           <StokKodu>7013-XL</StokKodu>
           <Barkod>845626555625972</Barkod>
-          <StokAdedi>32</StokAdedi>
+          <StokAdedi>31</StokAdedi>
           <AlisFiyati>235,90</AlisFiyati>
           <SatisFiyati>389,90</SatisFiyati>
           <IndirimliFiyat>389,90</IndirimliFiyat>
@@ -18099,7 +18099,7 @@
           <VaryasyonID>695</VaryasyonID>
           <StokKodu>PR15531-L/XL</StokKodu>
           <Barkod>845626555626560</Barkod>
-          <StokAdedi>614</StokAdedi>
+          <StokAdedi>613</StokAdedi>
           <AlisFiyati>175,90</AlisFiyati>
           <SatisFiyati>309,90</SatisFiyati>
           <IndirimliFiyat>309,90</IndirimliFiyat>
@@ -18117,7 +18117,7 @@
           <VaryasyonID>696</VaryasyonID>
           <StokKodu>PR15531-2XL/3XL</StokKodu>
           <Barkod>845626555626562</Barkod>
-          <StokAdedi>493</StokAdedi>
+          <StokAdedi>490</StokAdedi>
           <AlisFiyati>175,90</AlisFiyati>
           <SatisFiyati>309,90</SatisFiyati>
           <IndirimliFiyat>309,90</IndirimliFiyat>
@@ -21699,7 +21699,7 @@
           <VaryasyonID>846</VaryasyonID>
           <StokKodu>PR15535.KIRMIZI.L/XL</StokKodu>
           <Barkod>84562012222155800</Barkod>
-          <StokAdedi>376</StokAdedi>
+          <StokAdedi>373</StokAdedi>
           <AlisFiyati>175,90</AlisFiyati>
           <SatisFiyati>309,90</SatisFiyati>
           <IndirimliFiyat>309,90</IndirimliFiyat>
@@ -25433,7 +25433,7 @@
           <VaryasyonID>996</VaryasyonID>
           <StokKodu>16065.1.L/XL</StokKodu>
           <Barkod>25448845404</Barkod>
-          <StokAdedi>75</StokAdedi>
+          <StokAdedi>71</StokAdedi>
           <AlisFiyati>149,90</AlisFiyati>
           <SatisFiyati>279,90</SatisFiyati>
           <IndirimliFiyat>279,90</IndirimliFiyat>
@@ -27489,7 +27489,7 @@
           <VaryasyonID>1081</VaryasyonID>
           <StokKodu>15601.1.L/XL</StokKodu>
           <Barkod>25448845548</Barkod>
-          <StokAdedi>540</StokAdedi>
+          <StokAdedi>539</StokAdedi>
           <AlisFiyati>226,90</AlisFiyati>
           <SatisFiyati>557,90</SatisFiyati>
           <IndirimliFiyat>429,90</IndirimliFiyat>
@@ -27525,7 +27525,7 @@
           <VaryasyonID>1083</VaryasyonID>
           <StokKodu>15601.1.BIG</StokKodu>
           <Barkod>25448845552</Barkod>
-          <StokAdedi>752</StokAdedi>
+          <StokAdedi>751</StokAdedi>
           <AlisFiyati>226,90</AlisFiyati>
           <SatisFiyati>557,90</SatisFiyati>
           <IndirimliFiyat>429,90</IndirimliFiyat>
@@ -27603,7 +27603,7 @@
           <VaryasyonID>1086</VaryasyonID>
           <StokKodu>15564.56.BIG</StokKodu>
           <Barkod>25448845558</Barkod>
-          <StokAdedi>861</StokAdedi>
+          <StokAdedi>860</StokAdedi>
           <AlisFiyati>243,90</AlisFiyati>
           <SatisFiyati>586,90</SatisFiyati>
           <IndirimliFiyat>0,00</IndirimliFiyat>
@@ -27802,7 +27802,7 @@
           <VaryasyonID>1093</VaryasyonID>
           <StokKodu>17031.1.L/XL</StokKodu>
           <Barkod>25448845572</Barkod>
-          <StokAdedi>171</StokAdedi>
+          <StokAdedi>168</StokAdedi>
           <AlisFiyati>243,90</AlisFiyati>
           <SatisFiyati>586,90</SatisFiyati>
           <IndirimliFiyat>451,90</IndirimliFiyat>
@@ -27820,7 +27820,7 @@
           <VaryasyonID>1094</VaryasyonID>
           <StokKodu>17031.1.S/M</StokKodu>
           <Barkod>25448845574</Barkod>
-          <StokAdedi>532</StokAdedi>
+          <StokAdedi>531</StokAdedi>
           <AlisFiyati>243,90</AlisFiyati>
           <SatisFiyati>586,90</SatisFiyati>
           <IndirimliFiyat>451,90</IndirimliFiyat>
@@ -28898,7 +28898,7 @@
           <VaryasyonID>1140</VaryasyonID>
           <StokKodu>17038.63.L/XL</StokKodu>
           <Barkod>45651415236</Barkod>
-          <StokAdedi>733</StokAdedi>
+          <StokAdedi>732</StokAdedi>
           <AlisFiyati>245,90</AlisFiyati>
           <SatisFiyati>589,90</SatisFiyati>
           <IndirimliFiyat>453,90</IndirimliFiyat>
@@ -28916,7 +28916,7 @@
           <VaryasyonID>1141</VaryasyonID>
           <StokKodu>17038.63.S/M</StokKodu>
           <Barkod>45651415237</Barkod>
-          <StokAdedi>740</StokAdedi>
+          <StokAdedi>739</StokAdedi>
           <AlisFiyati>245,90</AlisFiyati>
           <SatisFiyati>589,90</SatisFiyati>
           <IndirimliFiyat>453,90</IndirimliFiyat>
@@ -28934,7 +28934,7 @@
           <VaryasyonID>1142</VaryasyonID>
           <StokKodu>17038.63.BIG</StokKodu>
           <Barkod>45651415238</Barkod>
-          <StokAdedi>774</StokAdedi>
+          <StokAdedi>773</StokAdedi>
           <AlisFiyati>245,90</AlisFiyati>
           <SatisFiyati>589,90</SatisFiyati>
           <IndirimliFiyat>453,90</IndirimliFiyat>
@@ -29879,7 +29879,7 @@
           <VaryasyonID>1178</VaryasyonID>
           <StokKodu>15621.63.2XL</StokKodu>
           <Barkod>45651415283</Barkod>
-          <StokAdedi>689</StokAdedi>
+          <StokAdedi>688</StokAdedi>
           <AlisFiyati>209,90</AlisFiyati>
           <SatisFiyati>529,90</SatisFiyati>
           <IndirimliFiyat>407,90</IndirimliFiyat>
@@ -29951,7 +29951,7 @@
           <VaryasyonID>1182</VaryasyonID>
           <StokKodu>15621.63.XL</StokKodu>
           <Barkod>45651415287</Barkod>
-          <StokAdedi>569</StokAdedi>
+          <StokAdedi>566</StokAdedi>
           <AlisFiyati>209,90</AlisFiyati>
           <SatisFiyati>529,90</SatisFiyati>
           <IndirimliFiyat>407,90</IndirimliFiyat>
@@ -29969,7 +29969,7 @@
           <VaryasyonID>1183</VaryasyonID>
           <StokKodu>15621.63.M</StokKodu>
           <Barkod>45651415288</Barkod>
-          <StokAdedi>435</StokAdedi>
+          <StokAdedi>434</StokAdedi>
           <AlisFiyati>209,90</AlisFiyati>
           <SatisFiyati>529,90</SatisFiyati>
           <IndirimliFiyat>407,90</IndirimliFiyat>
@@ -30855,7 +30855,7 @@
           <VaryasyonID>1220</VaryasyonID>
           <StokKodu>15622.4.BIG</StokKodu>
           <Barkod>18558325187</Barkod>
-          <StokAdedi>764</StokAdedi>
+          <StokAdedi>762</StokAdedi>
           <AlisFiyati>228,90</AlisFiyati>
           <SatisFiyati>560,90</SatisFiyati>
           <IndirimliFiyat>431,90</IndirimliFiyat>
@@ -33973,7 +33973,7 @@
           <VaryasyonID>1334</VaryasyonID>
           <StokKodu>15706.56.L/XL</StokKodu>
           <Barkod>18558325224</Barkod>
-          <StokAdedi>174</StokAdedi>
+          <StokAdedi>173</StokAdedi>
           <AlisFiyati>183,90</AlisFiyati>
           <SatisFiyati>319,90</SatisFiyati>
           <IndirimliFiyat>319,90</IndirimliFiyat>
@@ -33991,7 +33991,7 @@
           <VaryasyonID>1335</VaryasyonID>
           <StokKodu>15706.56.S/M</StokKodu>
           <Barkod>18558325225</Barkod>
-          <StokAdedi>213</StokAdedi>
+          <StokAdedi>212</StokAdedi>
           <AlisFiyati>183,90</AlisFiyati>
           <SatisFiyati>319,90</SatisFiyati>
           <IndirimliFiyat>319,90</IndirimliFiyat>
@@ -35660,7 +35660,7 @@
           <VaryasyonID>1391</VaryasyonID>
           <StokKodu>15620.62.2XL</StokKodu>
           <Barkod>7418526396520</Barkod>
-          <StokAdedi>643</StokAdedi>
+          <StokAdedi>642</StokAdedi>
           <AlisFiyati>209,90</AlisFiyati>
           <SatisFiyati>529,90</SatisFiyati>
           <IndirimliFiyat>407,90</IndirimliFiyat>
@@ -35714,7 +35714,7 @@
           <VaryasyonID>1394</VaryasyonID>
           <StokKodu>15620.62.L</StokKodu>
           <Barkod>7418526396523</Barkod>
-          <StokAdedi>283</StokAdedi>
+          <StokAdedi>282</StokAdedi>
           <AlisFiyati>209,90</AlisFiyati>
           <SatisFiyati>529,90</SatisFiyati>
           <IndirimliFiyat>407,90</IndirimliFiyat>
@@ -35732,7 +35732,7 @@
           <VaryasyonID>1395</VaryasyonID>
           <StokKodu>15620.62.XL</StokKodu>
           <Barkod>7418526396524</Barkod>
-          <StokAdedi>426</StokAdedi>
+          <StokAdedi>424</StokAdedi>
           <AlisFiyati>209,90</AlisFiyati>
           <SatisFiyati>529,90</SatisFiyati>
           <IndirimliFiyat>407,90</IndirimliFiyat>
@@ -35750,7 +35750,7 @@
           <VaryasyonID>1396</VaryasyonID>
           <StokKodu>15620.62.M</StokKodu>
           <Barkod>7418526396529</Barkod>
-          <StokAdedi>350</StokAdedi>
+          <StokAdedi>349</StokAdedi>
           <AlisFiyati>209,90</AlisFiyati>
           <SatisFiyati>529,90</SatisFiyati>
           <IndirimliFiyat>407,90</IndirimliFiyat>
@@ -37959,7 +37959,7 @@
           <VaryasyonID>1489</VaryasyonID>
           <StokKodu>7536.59.L</StokKodu>
           <Barkod>57844980183</Barkod>
-          <StokAdedi>959</StokAdedi>
+          <StokAdedi>958</StokAdedi>
           <AlisFiyati>260,90</AlisFiyati>
           <SatisFiyati>614,90</SatisFiyati>
           <IndirimliFiyat>473,90</IndirimliFiyat>
@@ -38013,7 +38013,7 @@
           <VaryasyonID>2618</VaryasyonID>
           <StokKodu>7536.59.2XL</StokKodu>
           <Barkod>57844980186</Barkod>
-          <StokAdedi>992</StokAdedi>
+          <StokAdedi>990</StokAdedi>
           <AlisFiyati>260,90</AlisFiyati>
           <SatisFiyati>614,90</SatisFiyati>
           <IndirimliFiyat>473,90</IndirimliFiyat>
@@ -38759,7 +38759,7 @@
           <VaryasyonID>1516</VaryasyonID>
           <StokKodu>E-5503.56.L</StokKodu>
           <Barkod>57844980228</Barkod>
-          <StokAdedi>980</StokAdedi>
+          <StokAdedi>979</StokAdedi>
           <AlisFiyati>209,90</AlisFiyati>
           <SatisFiyati>529,90</SatisFiyati>
           <IndirimliFiyat>407,90</IndirimliFiyat>
@@ -39647,7 +39647,7 @@
           <VaryasyonID>1558</VaryasyonID>
           <StokKodu>15626.59.BIG</StokKodu>
           <Barkod>57844980324</Barkod>
-          <StokAdedi>34</StokAdedi>
+          <StokAdedi>33</StokAdedi>
           <AlisFiyati>164,90</AlisFiyati>
           <SatisFiyati>329,90</SatisFiyati>
           <IndirimliFiyat>329,90</IndirimliFiyat>
@@ -43190,7 +43190,7 @@
           <VaryasyonID>1708</VaryasyonID>
           <StokKodu>7559.34.M</StokKodu>
           <Barkod>1862432414046438528</Barkod>
-          <StokAdedi>761</StokAdedi>
+          <StokAdedi>760</StokAdedi>
           <AlisFiyati>209,90</AlisFiyati>
           <SatisFiyati>529,90</SatisFiyati>
           <IndirimliFiyat>407,90</IndirimliFiyat>
@@ -43436,7 +43436,7 @@
           <VaryasyonID>1719</VaryasyonID>
           <StokKodu>7035.56.XL</StokKodu>
           <Barkod>8698798899455569</Barkod>
-          <StokAdedi>966</StokAdedi>
+          <StokAdedi>964</StokAdedi>
           <AlisFiyati>483,90</AlisFiyati>
           <SatisFiyati>709,90</SatisFiyati>
           <IndirimliFiyat>709,90</IndirimliFiyat>
@@ -44183,7 +44183,7 @@
           <VaryasyonID>1750</VaryasyonID>
           <StokKodu>A-7501.34.S</StokKodu>
           <Barkod>6550665581898989</Barkod>
-          <StokAdedi>992</StokAdedi>
+          <StokAdedi>991</StokAdedi>
           <AlisFiyati>120,90</AlisFiyati>
           <SatisFiyati>239,90</SatisFiyati>
           <IndirimliFiyat>239,90</IndirimliFiyat>
@@ -44995,7 +44995,7 @@
           <VaryasyonID>1782</VaryasyonID>
           <StokKodu>7036/EKRU/L</StokKodu>
           <Barkod>5156556423053</Barkod>
-          <StokAdedi>933</StokAdedi>
+          <StokAdedi>932</StokAdedi>
           <AlisFiyati>441,90</AlisFiyati>
           <SatisFiyati>649,90</SatisFiyati>
           <IndirimliFiyat>0,00</IndirimliFiyat>
@@ -45013,7 +45013,7 @@
           <VaryasyonID>1783</VaryasyonID>
           <StokKodu>7036/EKRU/XL</StokKodu>
           <Barkod>5156556423054</Barkod>
-          <StokAdedi>954</StokAdedi>
+          <StokAdedi>952</StokAdedi>
           <AlisFiyati>441,90</AlisFiyati>
           <SatisFiyati>649,90</SatisFiyati>
           <IndirimliFiyat>0,00</IndirimliFiyat>
@@ -45166,7 +45166,7 @@
           <VaryasyonID>1789</VaryasyonID>
           <StokKodu>7020.5.L</StokKodu>
           <Barkod>9456245646510504</Barkod>
-          <StokAdedi>367</StokAdedi>
+          <StokAdedi>365</StokAdedi>
           <AlisFiyati>398,90</AlisFiyati>
           <SatisFiyati>599,90</SatisFiyati>
           <IndirimliFiyat>599,90</IndirimliFiyat>
@@ -45184,7 +45184,7 @@
           <VaryasyonID>1790</VaryasyonID>
           <StokKodu>7020.5.XL</StokKodu>
           <Barkod>9456245646510505</Barkod>
-          <StokAdedi>850</StokAdedi>
+          <StokAdedi>849</StokAdedi>
           <AlisFiyati>398,90</AlisFiyati>
           <SatisFiyati>599,90</SatisFiyati>
           <IndirimliFiyat>599,90</IndirimliFiyat>
@@ -45243,7 +45243,7 @@
           <VaryasyonID>1792</VaryasyonID>
           <StokKodu>15771.59.L/XL</StokKodu>
           <Barkod>8524196341204</Barkod>
-          <StokAdedi>774</StokAdedi>
+          <StokAdedi>772</StokAdedi>
           <AlisFiyati>229,90</AlisFiyati>
           <SatisFiyati>563,90</SatisFiyati>
           <IndirimliFiyat>433,90</IndirimliFiyat>
@@ -45357,7 +45357,7 @@
           <VaryasyonID>1797</VaryasyonID>
           <StokKodu>7023.73.XL</StokKodu>
           <Barkod>98542084154105</Barkod>
-          <StokAdedi>889</StokAdedi>
+          <StokAdedi>888</StokAdedi>
           <AlisFiyati>396,90</AlisFiyati>
           <SatisFiyati>840,90</SatisFiyati>
           <IndirimliFiyat>646,90</IndirimliFiyat>
@@ -45530,7 +45530,7 @@
           <VaryasyonID>1804</VaryasyonID>
           <StokKodu>7053.67.L</StokKodu>
           <Barkod>8509894015502</Barkod>
-          <StokAdedi>975</StokAdedi>
+          <StokAdedi>974</StokAdedi>
           <AlisFiyati>386,90</AlisFiyati>
           <SatisFiyati>823,90</SatisFiyati>
           <IndirimliFiyat>633,90</IndirimliFiyat>
@@ -45625,7 +45625,7 @@
           <VaryasyonID>1808</VaryasyonID>
           <StokKodu>7050.81.L</StokKodu>
           <Barkod>704059805401410655</Barkod>
-          <StokAdedi>950</StokAdedi>
+          <StokAdedi>949</StokAdedi>
           <AlisFiyati>398,90</AlisFiyati>
           <SatisFiyati>649,90</SatisFiyati>
           <IndirimliFiyat>649,90</IndirimliFiyat>
@@ -46024,7 +46024,7 @@
           <VaryasyonID>1825</VaryasyonID>
           <StokKodu>15769.59.M</StokKodu>
           <Barkod>56828204050111</Barkod>
-          <StokAdedi>990</StokAdedi>
+          <StokAdedi>989</StokAdedi>
           <AlisFiyati>217,90</AlisFiyati>
           <SatisFiyati>543,90</SatisFiyati>
           <IndirimliFiyat>417,90</IndirimliFiyat>
@@ -48615,7 +48615,7 @@
           <VaryasyonID>1906</VaryasyonID>
           <StokKodu>7037.59.S</StokKodu>
           <Barkod>89465650501056</Barkod>
-          <StokAdedi>966</StokAdedi>
+          <StokAdedi>965</StokAdedi>
           <AlisFiyati>449,90</AlisFiyati>
           <SatisFiyati>664,90</SatisFiyati>
           <IndirimliFiyat>664,90</IndirimliFiyat>
@@ -48651,7 +48651,7 @@
           <VaryasyonID>1908</VaryasyonID>
           <StokKodu>7037.59.L</StokKodu>
           <Barkod>89465650501058</Barkod>
-          <StokAdedi>947</StokAdedi>
+          <StokAdedi>946</StokAdedi>
           <AlisFiyati>449,90</AlisFiyati>
           <SatisFiyati>664,90</SatisFiyati>
           <IndirimliFiyat>664,90</IndirimliFiyat>
@@ -48841,7 +48841,7 @@
           <VaryasyonID>1917</VaryasyonID>
           <StokKodu>15738.1.L</StokKodu>
           <Barkod>98748945645055637</Barkod>
-          <StokAdedi>91</StokAdedi>
+          <StokAdedi>90</StokAdedi>
           <AlisFiyati>132,90</AlisFiyati>
           <SatisFiyati>259,90</SatisFiyati>
           <IndirimliFiyat>259,90</IndirimliFiyat>
@@ -48859,7 +48859,7 @@
           <VaryasyonID>1918</VaryasyonID>
           <StokKodu>15738.1.XL</StokKodu>
           <Barkod>98748945645055638</Barkod>
-          <StokAdedi>91</StokAdedi>
+          <StokAdedi>89</StokAdedi>
           <AlisFiyati>132,90</AlisFiyati>
           <SatisFiyati>259,90</SatisFiyati>
           <IndirimliFiyat>259,90</IndirimliFiyat>
@@ -48901,7 +48901,7 @@
           <VaryasyonID>1919</VaryasyonID>
           <StokKodu>15732.1.S</StokKodu>
           <Barkod>877880025548225</Barkod>
-          <StokAdedi>121</StokAdedi>
+          <StokAdedi>120</StokAdedi>
           <AlisFiyati>144,90</AlisFiyati>
           <SatisFiyati>269,90</SatisFiyati>
           <IndirimliFiyat>269,90</IndirimliFiyat>
@@ -48919,7 +48919,7 @@
           <VaryasyonID>1920</VaryasyonID>
           <StokKodu>15732.1.M</StokKodu>
           <Barkod>877880025548226</Barkod>
-          <StokAdedi>55</StokAdedi>
+          <StokAdedi>53</StokAdedi>
           <AlisFiyati>144,90</AlisFiyati>
           <SatisFiyati>269,90</SatisFiyati>
           <IndirimliFiyat>269,90</IndirimliFiyat>
@@ -48955,7 +48955,7 @@
           <VaryasyonID>1922</VaryasyonID>
           <StokKodu>15732.1.XL</StokKodu>
           <Barkod>877880025548228</Barkod>
-          <StokAdedi>52</StokAdedi>
+          <StokAdedi>51</StokAdedi>
           <AlisFiyati>144,90</AlisFiyati>
           <SatisFiyati>269,90</SatisFiyati>
           <IndirimliFiyat>269,90</IndirimliFiyat>
@@ -49466,7 +49466,7 @@
           <VaryasyonID>1949</VaryasyonID>
           <StokKodu>7065.44.XL</StokKodu>
           <Barkod>98015646101603</Barkod>
-          <StokAdedi>993</StokAdedi>
+          <StokAdedi>992</StokAdedi>
           <AlisFiyati>586,90</AlisFiyati>
           <SatisFiyati>839,90</SatisFiyati>
           <IndirimliFiyat>839,90</IndirimliFiyat>
@@ -49734,7 +49734,7 @@
           <VaryasyonID>1960</VaryasyonID>
           <StokKodu>7071.53.L</StokKodu>
           <Barkod>5962504014545604</Barkod>
-          <StokAdedi>932</StokAdedi>
+          <StokAdedi>931</StokAdedi>
           <AlisFiyati>302,90</AlisFiyati>
           <SatisFiyati>683,90</SatisFiyati>
           <IndirimliFiyat>525,90</IndirimliFiyat>
@@ -49942,7 +49942,7 @@
           <VaryasyonID>1969</VaryasyonID>
           <StokKodu>7077.59.XL</StokKodu>
           <Barkod>0565011010524543</Barkod>
-          <StokAdedi>809</StokAdedi>
+          <StokAdedi>808</StokAdedi>
           <AlisFiyati>377,90</AlisFiyati>
           <SatisFiyati>569,90</SatisFiyati>
           <IndirimliFiyat>569,90</IndirimliFiyat>
@@ -50036,7 +50036,7 @@
           <VaryasyonID>1973</VaryasyonID>
           <StokKodu>7079.55.XL</StokKodu>
           <Barkod>9801504454505657</Barkod>
-          <StokAdedi>994</StokAdedi>
+          <StokAdedi>993</StokAdedi>
           <AlisFiyati>307,90</AlisFiyati>
           <SatisFiyati>692,90</SatisFiyati>
           <IndirimliFiyat>532,90</IndirimliFiyat>
@@ -50113,7 +50113,7 @@
           <VaryasyonID>1976</VaryasyonID>
           <StokKodu>17053.6.L</StokKodu>
           <Barkod>998019740100214</Barkod>
-          <StokAdedi>990</StokAdedi>
+          <StokAdedi>988</StokAdedi>
           <AlisFiyati>181,90</AlisFiyati>
           <SatisFiyati>319,90</SatisFiyati>
           <IndirimliFiyat>319,90</IndirimliFiyat>
@@ -50131,7 +50131,7 @@
           <VaryasyonID>1977</VaryasyonID>
           <StokKodu>17053.6.XL</StokKodu>
           <Barkod>998019740100215</Barkod>
-          <StokAdedi>982</StokAdedi>
+          <StokAdedi>981</StokAdedi>
           <AlisFiyati>181,90</AlisFiyati>
           <SatisFiyati>319,90</SatisFiyati>
           <IndirimliFiyat>319,90</IndirimliFiyat>
@@ -50970,7 +50970,7 @@
           <VaryasyonID>2017</VaryasyonID>
           <StokKodu>7085.5.XL</StokKodu>
           <Barkod>89452656450630</Barkod>
-          <StokAdedi>987</StokAdedi>
+          <StokAdedi>986</StokAdedi>
           <AlisFiyati>435,90</AlisFiyati>
           <SatisFiyati>649,90</SatisFiyati>
           <IndirimliFiyat>649,90</IndirimliFiyat>
@@ -51777,7 +51777,7 @@
           <VaryasyonID>2050</VaryasyonID>
           <StokKodu>7091.67.L</StokKodu>
           <Barkod>98989896214145022</Barkod>
-          <StokAdedi>961</StokAdedi>
+          <StokAdedi>960</StokAdedi>
           <AlisFiyati>275,90</AlisFiyati>
           <SatisFiyati>639,90</SatisFiyati>
           <IndirimliFiyat>492,90</IndirimliFiyat>
@@ -53333,7 +53333,7 @@
           <VaryasyonID>2128</VaryasyonID>
           <StokKodu>7125.5.L</StokKodu>
           <Barkod>510410501205346</Barkod>
-          <StokAdedi>948</StokAdedi>
+          <StokAdedi>946</StokAdedi>
           <AlisFiyati>329,90</AlisFiyati>
           <SatisFiyati>561,90</SatisFiyati>
           <IndirimliFiyat>561,90</IndirimliFiyat>
@@ -54001,7 +54001,7 @@
           <VaryasyonID>2157</VaryasyonID>
           <StokKodu>15925.1.XL</StokKodu>
           <Barkod>646217077624343</Barkod>
-          <StokAdedi>910</StokAdedi>
+          <StokAdedi>909</StokAdedi>
           <AlisFiyati>209,90</AlisFiyati>
           <SatisFiyati>529,90</SatisFiyati>
           <IndirimliFiyat>407,90</IndirimliFiyat>
@@ -54209,7 +54209,7 @@
           <VaryasyonID>2166</VaryasyonID>
           <StokKodu>7115.67.L</StokKodu>
           <Barkod>85403243240652</Barkod>
-          <StokAdedi>987</StokAdedi>
+          <StokAdedi>986</StokAdedi>
           <AlisFiyati>269,90</AlisFiyati>
           <SatisFiyati>484,90</SatisFiyati>
           <IndirimliFiyat>484,90</IndirimliFiyat>
@@ -54592,7 +54592,7 @@
           <VaryasyonID>2182</VaryasyonID>
           <StokKodu>7117.4.L</StokKodu>
           <Barkod>9810840517</Barkod>
-          <StokAdedi>990</StokAdedi>
+          <StokAdedi>989</StokAdedi>
           <AlisFiyati>277,90</AlisFiyati>
           <SatisFiyati>495,90</SatisFiyati>
           <IndirimliFiyat>495,90</IndirimliFiyat>
@@ -55089,7 +55089,7 @@
           <VaryasyonID>2203</VaryasyonID>
           <StokKodu>7135.63.XL</StokKodu>
           <Barkod>435453525434</Barkod>
-          <StokAdedi>975</StokAdedi>
+          <StokAdedi>973</StokAdedi>
           <AlisFiyati>372,90</AlisFiyati>
           <SatisFiyati>616,90</SatisFiyati>
           <IndirimliFiyat>616,90</IndirimliFiyat>
@@ -55263,7 +55263,7 @@
           <VaryasyonID>2210</VaryasyonID>
           <StokKodu>7143.1.L</StokKodu>
           <Barkod>53453453443</Barkod>
-          <StokAdedi>992</StokAdedi>
+          <StokAdedi>991</StokAdedi>
           <AlisFiyati>243,90</AlisFiyati>
           <SatisFiyati>451,90</SatisFiyati>
           <IndirimliFiyat>451,90</IndirimliFiyat>
@@ -55931,7 +55931,7 @@
           <VaryasyonID>2240</VaryasyonID>
           <StokKodu>15933.62.L</StokKodu>
           <Barkod>543534545</Barkod>
-          <StokAdedi>881</StokAdedi>
+          <StokAdedi>880</StokAdedi>
           <AlisFiyati>235,90</AlisFiyati>
           <SatisFiyati>440,90</SatisFiyati>
           <IndirimliFiyat>440,90</IndirimliFiyat>
@@ -55949,7 +55949,7 @@
           <VaryasyonID>2241</VaryasyonID>
           <StokKodu>15933.62.XL</StokKodu>
           <Barkod>3423424324</Barkod>
-          <StokAdedi>879</StokAdedi>
+          <StokAdedi>878</StokAdedi>
           <AlisFiyati>235,90</AlisFiyati>
           <SatisFiyati>440,90</SatisFiyati>
           <IndirimliFiyat>440,90</IndirimliFiyat>
@@ -55967,7 +55967,7 @@
           <VaryasyonID>2242</VaryasyonID>
           <StokKodu>15933.62.2XL</StokKodu>
           <Barkod>53452544355</Barkod>
-          <StokAdedi>914</StokAdedi>
+          <StokAdedi>913</StokAdedi>
           <AlisFiyati>235,90</AlisFiyati>
           <SatisFiyati>440,90</SatisFiyati>
           <IndirimliFiyat>440,90</IndirimliFiyat>
@@ -55985,7 +55985,7 @@
           <VaryasyonID>2243</VaryasyonID>
           <StokKodu>15933.62.3XL</StokKodu>
           <Barkod>5455252554</Barkod>
-          <StokAdedi>915</StokAdedi>
+          <StokAdedi>914</StokAdedi>
           <AlisFiyati>235,90</AlisFiyati>
           <SatisFiyati>440,90</SatisFiyati>
           <IndirimliFiyat>440,90</IndirimliFiyat>
@@ -56080,7 +56080,7 @@
           <VaryasyonID>2247</VaryasyonID>
           <StokKodu>15935.62.XL</StokKodu>
           <Barkod>55322525325</Barkod>
-          <StokAdedi>925</StokAdedi>
+          <StokAdedi>924</StokAdedi>
           <AlisFiyati>183,90</AlisFiyati>
           <SatisFiyati>485,90</SatisFiyati>
           <IndirimliFiyat>374,90</IndirimliFiyat>
@@ -56157,7 +56157,7 @@
           <VaryasyonID>2250</VaryasyonID>
           <StokKodu>15927.1.L</StokKodu>
           <Barkod>523555</Barkod>
-          <StokAdedi>918</StokAdedi>
+          <StokAdedi>917</StokAdedi>
           <AlisFiyati>175,90</AlisFiyati>
           <SatisFiyati>363,90</SatisFiyati>
           <IndirimliFiyat>363,90</IndirimliFiyat>
@@ -56635,7 +56635,7 @@
           <VaryasyonID>2271</VaryasyonID>
           <StokKodu>7709.34.L</StokKodu>
           <Barkod>24523525235</Barkod>
-          <StokAdedi>968</StokAdedi>
+          <StokAdedi>967</StokAdedi>
           <AlisFiyati>518,90</AlisFiyati>
           <SatisFiyati>1043,90</SatisFiyati>
           <IndirimliFiyat>803,90</IndirimliFiyat>
@@ -56712,7 +56712,7 @@
           <VaryasyonID>2274</VaryasyonID>
           <StokKodu>7599.19.M</StokKodu>
           <Barkod>5443656</Barkod>
-          <StokAdedi>947</StokAdedi>
+          <StokAdedi>946</StokAdedi>
           <AlisFiyati>329,90</AlisFiyati>
           <SatisFiyati>561,90</SatisFiyati>
           <IndirimliFiyat>561,90</IndirimliFiyat>
@@ -56748,7 +56748,7 @@
           <VaryasyonID>2276</VaryasyonID>
           <StokKodu>7599.19.XL</StokKodu>
           <Barkod>2555334</Barkod>
-          <StokAdedi>977</StokAdedi>
+          <StokAdedi>976</StokAdedi>
           <AlisFiyati>329,90</AlisFiyati>
           <SatisFiyati>561,90</SatisFiyati>
           <IndirimliFiyat>561,90</IndirimliFiyat>
@@ -57251,7 +57251,7 @@
           <VaryasyonID>2296</VaryasyonID>
           <StokKodu>7171.56.S</StokKodu>
           <Barkod>0414075752461</Barkod>
-          <StokAdedi>998</StokAdedi>
+          <StokAdedi>997</StokAdedi>
           <AlisFiyati>377,90</AlisFiyati>
           <SatisFiyati>569,90</SatisFiyati>
           <IndirimliFiyat>569,90</IndirimliFiyat>
@@ -57822,7 +57822,7 @@
           <VaryasyonID>2320</VaryasyonID>
           <StokKodu>7195.44.S</StokKodu>
           <Barkod>0254554566551122</Barkod>
-          <StokAdedi>1000</StokAdedi>
+          <StokAdedi>999</StokAdedi>
           <AlisFiyati>288,90</AlisFiyati>
           <SatisFiyati>660,90</SatisFiyati>
           <IndirimliFiyat>660,90</IndirimliFiyat>
@@ -58107,7 +58107,7 @@
           <VaryasyonID>2331</VaryasyonID>
           <StokKodu>16101.6.L/XL</StokKodu>
           <Barkod>645530122013</Barkod>
-          <StokAdedi>930</StokAdedi>
+          <StokAdedi>929</StokAdedi>
           <AlisFiyati>226,90</AlisFiyati>
           <SatisFiyati>429,90</SatisFiyati>
           <IndirimliFiyat>429,90</IndirimliFiyat>
@@ -58340,7 +58340,7 @@
           <VaryasyonID>2340</VaryasyonID>
           <StokKodu>15937.63.S/M</StokKodu>
           <Barkod>7418652335656</Barkod>
-          <StokAdedi>293</StokAdedi>
+          <StokAdedi>292</StokAdedi>
           <AlisFiyati>180,90</AlisFiyati>
           <SatisFiyati>480,90</SatisFiyati>
           <IndirimliFiyat>369,90</IndirimliFiyat>
@@ -58358,7 +58358,7 @@
           <VaryasyonID>2341</VaryasyonID>
           <StokKodu>15937.63.L/XL</StokKodu>
           <Barkod>7418652335657</Barkod>
-          <StokAdedi>327</StokAdedi>
+          <StokAdedi>326</StokAdedi>
           <AlisFiyati>180,90</AlisFiyati>
           <SatisFiyati>480,90</SatisFiyati>
           <IndirimliFiyat>369,90</IndirimliFiyat>
@@ -58376,7 +58376,7 @@
           <VaryasyonID>2342</VaryasyonID>
           <StokKodu>15937.63.BIG</StokKodu>
           <Barkod>7418652335658</Barkod>
-          <StokAdedi>332</StokAdedi>
+          <StokAdedi>330</StokAdedi>
           <AlisFiyati>180,90</AlisFiyati>
           <SatisFiyati>480,90</SatisFiyati>
           <IndirimliFiyat>369,90</IndirimliFiyat>
@@ -58659,7 +58659,7 @@
           <VaryasyonID>2353</VaryasyonID>
           <StokKodu>15953.59.XL</StokKodu>
           <Barkod>560504554223015</Barkod>
-          <StokAdedi>988</StokAdedi>
+          <StokAdedi>987</StokAdedi>
           <AlisFiyati>209,90</AlisFiyati>
           <SatisFiyati>529,90</SatisFiyati>
           <IndirimliFiyat>407,90</IndirimliFiyat>
@@ -58831,7 +58831,7 @@
           <VaryasyonID>2363</VaryasyonID>
           <StokKodu>15955.63.L</StokKodu>
           <Barkod>6579467457034269</Barkod>
-          <StokAdedi>796</StokAdedi>
+          <StokAdedi>795</StokAdedi>
           <AlisFiyati>235,90</AlisFiyati>
           <SatisFiyati>440,90</SatisFiyati>
           <IndirimliFiyat>440,90</IndirimliFiyat>
@@ -58945,7 +58945,7 @@
           <VaryasyonID>2368</VaryasyonID>
           <StokKodu>7169.56.M</StokKodu>
           <Barkod>810780102310325</Barkod>
-          <StokAdedi>935</StokAdedi>
+          <StokAdedi>933</StokAdedi>
           <AlisFiyati>217,90</AlisFiyati>
           <SatisFiyati>418,90</SatisFiyati>
           <IndirimliFiyat>418,90</IndirimliFiyat>
@@ -58981,7 +58981,7 @@
           <VaryasyonID>2370</VaryasyonID>
           <StokKodu>7169.56.XL</StokKodu>
           <Barkod>810780102310327</Barkod>
-          <StokAdedi>944</StokAdedi>
+          <StokAdedi>942</StokAdedi>
           <AlisFiyati>217,90</AlisFiyati>
           <SatisFiyati>418,90</SatisFiyati>
           <IndirimliFiyat>418,90</IndirimliFiyat>
@@ -59551,7 +59551,7 @@
           <VaryasyonID>2406</VaryasyonID>
           <StokKodu>15957.48.XL</StokKodu>
           <Barkod>75408645329</Barkod>
-          <StokAdedi>988</StokAdedi>
+          <StokAdedi>987</StokAdedi>
           <AlisFiyati>226,90</AlisFiyati>
           <SatisFiyati>557,90</SatisFiyati>
           <IndirimliFiyat>557,90</IndirimliFiyat>
@@ -59875,7 +59875,7 @@
           <VaryasyonID>2419</VaryasyonID>
           <StokKodu>7301.56.S</StokKodu>
           <Barkod>560653686572120</Barkod>
-          <StokAdedi>998</StokAdedi>
+          <StokAdedi>997</StokAdedi>
           <AlisFiyati>259,90</AlisFiyati>
           <SatisFiyati>614,90</SatisFiyati>
           <IndirimliFiyat>473,90</IndirimliFiyat>
@@ -59893,7 +59893,7 @@
           <VaryasyonID>2420</VaryasyonID>
           <StokKodu>7301.56.M</StokKodu>
           <Barkod>560653686572121</Barkod>
-          <StokAdedi>997</StokAdedi>
+          <StokAdedi>996</StokAdedi>
           <AlisFiyati>259,90</AlisFiyati>
           <SatisFiyati>614,90</SatisFiyati>
           <IndirimliFiyat>473,90</IndirimliFiyat>
@@ -59929,7 +59929,7 @@
           <VaryasyonID>2422</VaryasyonID>
           <StokKodu>7301.56.XL</StokKodu>
           <Barkod>560653686572123</Barkod>
-          <StokAdedi>995</StokAdedi>
+          <StokAdedi>993</StokAdedi>
           <AlisFiyati>259,90</AlisFiyati>
           <SatisFiyati>614,90</SatisFiyati>
           <IndirimliFiyat>473,90</IndirimliFiyat>
@@ -61009,7 +61009,7 @@
           <VaryasyonID>2465</VaryasyonID>
           <StokKodu>M-9015.34.40</StokKodu>
           <Barkod>740202115451032</Barkod>
-          <StokAdedi>998</StokAdedi>
+          <StokAdedi>997</StokAdedi>
           <AlisFiyati>432,90</AlisFiyati>
           <SatisFiyati>899,90</SatisFiyati>
           <IndirimliFiyat>693,90</IndirimliFiyat>
@@ -61500,7 +61500,7 @@
           <VaryasyonID>2486</VaryasyonID>
           <StokKodu>15967.55.XL</StokKodu>
           <Barkod>050454555045649</Barkod>
-          <StokAdedi>990</StokAdedi>
+          <StokAdedi>989</StokAdedi>
           <AlisFiyati>192,90</AlisFiyati>
           <SatisFiyati>499,90</SatisFiyati>
           <IndirimliFiyat>384,90</IndirimliFiyat>
@@ -61774,7 +61774,7 @@
           <VaryasyonID>2498</VaryasyonID>
           <StokKodu>15973.56.L</StokKodu>
           <Barkod>97878053231034</Barkod>
-          <StokAdedi>982</StokAdedi>
+          <StokAdedi>981</StokAdedi>
           <AlisFiyati>175,90</AlisFiyati>
           <SatisFiyati>363,90</SatisFiyati>
           <IndirimliFiyat>363,90</IndirimliFiyat>
@@ -61873,7 +61873,7 @@
           <VaryasyonID>2501</VaryasyonID>
           <StokKodu>15975.56.M</StokKodu>
           <Barkod>905565550663</Barkod>
-          <StokAdedi>984</StokAdedi>
+          <StokAdedi>983</StokAdedi>
           <AlisFiyati>149,90</AlisFiyati>
           <SatisFiyati>429,90</SatisFiyati>
           <IndirimliFiyat>329,90</IndirimliFiyat>
@@ -63009,7 +63009,7 @@
           <VaryasyonID>2548</VaryasyonID>
           <StokKodu>7725.5.M</StokKodu>
           <Barkod>05401450230540457</Barkod>
-          <StokAdedi>986</StokAdedi>
+          <StokAdedi>985</StokAdedi>
           <AlisFiyati>355,90</AlisFiyati>
           <SatisFiyati>772,90</SatisFiyati>
           <IndirimliFiyat>594,90</IndirimliFiyat>
@@ -63027,7 +63027,7 @@
           <VaryasyonID>2549</VaryasyonID>
           <StokKodu>7725.5.L</StokKodu>
           <Barkod>05401450230540458</Barkod>
-          <StokAdedi>996</StokAdedi>
+          <StokAdedi>994</StokAdedi>
           <AlisFiyati>355,90</AlisFiyati>
           <SatisFiyati>772,90</SatisFiyati>
           <IndirimliFiyat>594,90</IndirimliFiyat>
@@ -63045,7 +63045,7 @@
           <VaryasyonID>2550</VaryasyonID>
           <StokKodu>7725.5.XL</StokKodu>
           <Barkod>05401450230540459</Barkod>
-          <StokAdedi>989</StokAdedi>
+          <StokAdedi>987</StokAdedi>
           <AlisFiyati>355,90</AlisFiyati>
           <SatisFiyati>772,90</SatisFiyati>
           <IndirimliFiyat>594,90</IndirimliFiyat>
@@ -63104,7 +63104,7 @@
           <VaryasyonID>2552</VaryasyonID>
           <StokKodu>7727.44.M</StokKodu>
           <Barkod>356085046300303</Barkod>
-          <StokAdedi>994</StokAdedi>
+          <StokAdedi>993</StokAdedi>
           <AlisFiyati>243,90</AlisFiyati>
           <SatisFiyati>586,90</SatisFiyati>
           <IndirimliFiyat>451,90</IndirimliFiyat>
@@ -63219,7 +63219,7 @@
           <VaryasyonID>2557</VaryasyonID>
           <StokKodu>7327.53.L</StokKodu>
           <Barkod>0560454545789</Barkod>
-          <StokAdedi>988</StokAdedi>
+          <StokAdedi>987</StokAdedi>
           <AlisFiyati>410,90</AlisFiyati>
           <SatisFiyati>863,90</SatisFiyati>
           <IndirimliFiyat>664,90</IndirimliFiyat>
@@ -63616,7 +63616,7 @@
           <VaryasyonID>2576</VaryasyonID>
           <StokKodu>7317.55.XL</StokKodu>
           <Barkod>0535043204654059</Barkod>
-          <StokAdedi>989</StokAdedi>
+          <StokAdedi>988</StokAdedi>
           <AlisFiyati>372,90</AlisFiyati>
           <SatisFiyati>799,90</SatisFiyati>
           <IndirimliFiyat>616,90</IndirimliFiyat>
@@ -63887,7 +63887,7 @@
           <VaryasyonID>2587</VaryasyonID>
           <StokKodu>7323.5.L</StokKodu>
           <Barkod>6806406346405</Barkod>
-          <StokAdedi>999</StokAdedi>
+          <StokAdedi>998</StokAdedi>
           <AlisFiyati>283,90</AlisFiyati>
           <SatisFiyati>652,90</SatisFiyati>
           <IndirimliFiyat>501,90</IndirimliFiyat>
@@ -63905,7 +63905,7 @@
           <VaryasyonID>2588</VaryasyonID>
           <StokKodu>7323.5.XL</StokKodu>
           <Barkod>6806406346406</Barkod>
-          <StokAdedi>995</StokAdedi>
+          <StokAdedi>994</StokAdedi>
           <AlisFiyati>283,90</AlisFiyati>
           <SatisFiyati>652,90</SatisFiyati>
           <IndirimliFiyat>501,90</IndirimliFiyat>
@@ -64194,7 +64194,7 @@
           <VaryasyonID>2600</VaryasyonID>
           <StokKodu>7331.34.XL</StokKodu>
           <Barkod>980166543464668</Barkod>
-          <StokAdedi>1000</StokAdedi>
+          <StokAdedi>999</StokAdedi>
           <AlisFiyati>371,90</AlisFiyati>
           <SatisFiyati>799,90</SatisFiyati>
           <IndirimliFiyat>615,90</IndirimliFiyat>
@@ -64420,7 +64420,7 @@
           <VaryasyonID>2613</VaryasyonID>
           <StokKodu>7337.1.XL</StokKodu>
           <Barkod>016665635456468</Barkod>
-          <StokAdedi>995</StokAdedi>
+          <StokAdedi>994</StokAdedi>
           <AlisFiyati>217,90</AlisFiyati>
           <SatisFiyati>359,90</SatisFiyati>
           <IndirimliFiyat>359,90</IndirimliFiyat>
@@ -64763,7 +64763,7 @@
           <VaryasyonID>2629</VaryasyonID>
           <StokKodu>15997.73.M</StokKodu>
           <Barkod>56065645013126</Barkod>
-          <StokAdedi>996</StokAdedi>
+          <StokAdedi>995</StokAdedi>
           <AlisFiyati>255,90</AlisFiyati>
           <SatisFiyati>606,90</SatisFiyati>
           <IndirimliFiyat>466,90</IndirimliFiyat>
@@ -65059,7 +65059,7 @@
           <VaryasyonID>2642</VaryasyonID>
           <StokKodu>7349.6.L</StokKodu>
           <Barkod>1523202121237</Barkod>
-          <StokAdedi>996</StokAdedi>
+          <StokAdedi>995</StokAdedi>
           <AlisFiyati>202,90</AlisFiyati>
           <SatisFiyati>517,90</SatisFiyati>
           <IndirimliFiyat>398,90</IndirimliFiyat>
@@ -66965,7 +66965,7 @@
           <VaryasyonID>2722</VaryasyonID>
           <StokKodu>7359.5.XL</StokKodu>
           <Barkod>980807486659</Barkod>
-          <StokAdedi>998</StokAdedi>
+          <StokAdedi>997</StokAdedi>
           <AlisFiyati>295,90</AlisFiyati>
           <SatisFiyati>672,90</SatisFiyati>
           <IndirimliFiyat>517,90</IndirimliFiyat>

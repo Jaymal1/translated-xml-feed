@@ -5021,7 +5021,7 @@
           <VaryasyonID>193</VaryasyonID>
           <StokKodu>15029-L/XL</StokKodu>
           <Barkod>845626555625588</Barkod>
-          <StokAdedi>96</StokAdedi>
+          <StokAdedi>95</StokAdedi>
           <AlisFiyati>145,90</AlisFiyati>
           <SatisFiyati>269,90</SatisFiyati>
           <IndirimliFiyat>269,90</IndirimliFiyat>
@@ -7427,7 +7427,7 @@
           <VaryasyonID>286</VaryasyonID>
           <StokKodu>15040-L/XL</StokKodu>
           <Barkod>845626555625762</Barkod>
-          <StokAdedi>406</StokAdedi>
+          <StokAdedi>405</StokAdedi>
           <AlisFiyati>144,90</AlisFiyati>
           <SatisFiyati>269,90</SatisFiyati>
           <IndirimliFiyat>269,90</IndirimliFiyat>
@@ -18997,7 +18997,7 @@
           <VaryasyonID>734</VaryasyonID>
           <StokKodu>15075-L/XL</StokKodu>
           <Barkod>845626555626618</Barkod>
-          <StokAdedi>31</StokAdedi>
+          <StokAdedi>30</StokAdedi>
           <AlisFiyati>131,90</AlisFiyati>
           <SatisFiyati>279,90</SatisFiyati>
           <IndirimliFiyat>279,90</IndirimliFiyat>
@@ -21699,7 +21699,7 @@
           <VaryasyonID>846</VaryasyonID>
           <StokKodu>PR15535.KIRMIZI.L/XL</StokKodu>
           <Barkod>84562012222155800</Barkod>
-          <StokAdedi>364</StokAdedi>
+          <StokAdedi>363</StokAdedi>
           <AlisFiyati>175,90</AlisFiyati>
           <SatisFiyati>309,90</SatisFiyati>
           <IndirimliFiyat>309,90</IndirimliFiyat>
@@ -29437,7 +29437,7 @@
           <VaryasyonID>1161</VaryasyonID>
           <StokKodu>15099.59.XL</StokKodu>
           <Barkod>45651415266</Barkod>
-          <StokAdedi>803</StokAdedi>
+          <StokAdedi>802</StokAdedi>
           <AlisFiyati>229,90</AlisFiyati>
           <SatisFiyati>563,90</SatisFiyati>
           <IndirimliFiyat>0,00</IndirimliFiyat>
@@ -45148,7 +45148,7 @@
           <VaryasyonID>1788</VaryasyonID>
           <StokKodu>7020.5.M</StokKodu>
           <Barkod>9456245646510503</Barkod>
-          <StokAdedi>447</StokAdedi>
+          <StokAdedi>446</StokAdedi>
           <AlisFiyati>398,90</AlisFiyati>
           <SatisFiyati>599,90</SatisFiyati>
           <IndirimliFiyat>599,90</IndirimliFiyat>
@@ -51509,7 +51509,7 @@
           <VaryasyonID>2039</VaryasyonID>
           <StokKodu>7089.73.L</StokKodu>
           <Barkod>68344105220322</Barkod>
-          <StokAdedi>991</StokAdedi>
+          <StokAdedi>990</StokAdedi>
           <AlisFiyati>307,90</AlisFiyati>
           <SatisFiyati>692,90</SatisFiyati>
           <IndirimliFiyat>532,90</IndirimliFiyat>
@@ -52707,7 +52707,7 @@
           <VaryasyonID>2103</VaryasyonID>
           <StokKodu>15915.52.M</StokKodu>
           <Barkod>650012124545455</Barkod>
-          <StokAdedi>936</StokAdedi>
+          <StokAdedi>935</StokAdedi>
           <AlisFiyati>183,90</AlisFiyati>
           <SatisFiyati>485,90</SatisFiyati>
           <IndirimliFiyat>374,90</IndirimliFiyat>
@@ -55646,7 +55646,7 @@
           <VaryasyonID>2373</VaryasyonID>
           <StokKodu>7153.19.L</StokKodu>
           <Barkod>645634645</Barkod>
-          <StokAdedi>991</StokAdedi>
+          <StokAdedi>990</StokAdedi>
           <AlisFiyati>0,00</AlisFiyati>
           <SatisFiyati>462,90</SatisFiyati>
           <IndirimliFiyat>462,90</IndirimliFiyat>
@@ -56271,7 +56271,7 @@
           <VaryasyonID>2255</VaryasyonID>
           <StokKodu>7177.1.XL</StokKodu>
           <Barkod>4132421312321</Barkod>
-          <StokAdedi>986</StokAdedi>
+          <StokAdedi>985</StokAdedi>
           <AlisFiyati>269,90</AlisFiyati>
           <SatisFiyati>484,90</SatisFiyati>
           <IndirimliFiyat>484,90</IndirimliFiyat>
@@ -71131,24 +71131,6 @@
       </Resimler>
       <UrunSecenek>
         <Secenek>
-          <VaryasyonID>2898</VaryasyonID>
-          <StokKodu>19021.67.75B</StokKodu>
-          <Barkod>KHDFJKSHFGJSHFGSJHF</Barkod>
-          <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
-          <KDVDahil>true</KDVDahil>
-          <KdvOrani>10</KdvOrani>
-          <ParaBirimi>TL</ParaBirimi>
-          <ParaBirimiKodu>TRY</ParaBirimiKodu>
-          <Desi>1</Desi>
-          <EkSecenekOzellik>
-            <Ozellik Tanim="Renk" Deger="GRİ">GRİ</Ozellik>
-            <Ozellik Tanim="Beden" Deger="75">75</Ozellik>
-          </EkSecenekOzellik>
-        </Secenek>
-        <Secenek>
           <VaryasyonID>2899</VaryasyonID>
           <StokKodu>19021.67.80B</StokKodu>
           <Barkod>KHDFJKSHFGJSHFGSJHFFG</Barkod>
@@ -71349,24 +71331,6 @@
       </Resimler>
       <UrunSecenek>
         <Secenek>
-          <VaryasyonID>2908</VaryasyonID>
-          <StokKodu>19026.22.75B</StokKodu>
-          <Barkod>SJDFGHJKDFGJFGDVJ</Barkod>
-          <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
-          <KDVDahil>true</KDVDahil>
-          <KdvOrani>10</KdvOrani>
-          <ParaBirimi>TL</ParaBirimi>
-          <ParaBirimiKodu>TRY</ParaBirimiKodu>
-          <Desi>1</Desi>
-          <EkSecenekOzellik>
-            <Ozellik Tanim="Renk" Deger="SAKS">SAKS</Ozellik>
-            <Ozellik Tanim="Beden" Deger="75">75</Ozellik>
-          </EkSecenekOzellik>
-        </Secenek>
-        <Secenek>
           <VaryasyonID>2909</VaryasyonID>
           <StokKodu>19026.22.80B</StokKodu>
           <Barkod>SJDFGHJKDFGJFGDVJGSF</Barkod>
@@ -71457,24 +71421,6 @@
         <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Kirmizi-Altin-Sarisi-Gul-Det-8a18.jpg</Resim>
       </Resimler>
       <UrunSecenek>
-        <Secenek>
-          <VaryasyonID>2913</VaryasyonID>
-          <StokKodu>19027.63.75B</StokKodu>
-          <Barkod>KJDFHKLADHFSKHFS</Barkod>
-          <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
-          <KDVDahil>true</KDVDahil>
-          <KdvOrani>10</KdvOrani>
-          <ParaBirimi>TL</ParaBirimi>
-          <ParaBirimiKodu>TRY</ParaBirimiKodu>
-          <Desi>1</Desi>
-          <EkSecenekOzellik>
-            <Ozellik Tanim="Renk" Deger="KIRMIZI">KIRMIZI</Ozellik>
-            <Ozellik Tanim="Beden" Deger="75">75</Ozellik>
-          </EkSecenekOzellik>
-        </Secenek>
         <Secenek>
           <VaryasyonID>2914</VaryasyonID>
           <StokKodu>19027.63.80B</StokKodu>
@@ -71638,24 +71584,6 @@
             <Ozellik Tanim="Beden" Deger="90">90</Ozellik>
           </EkSecenekOzellik>
         </Secenek>
-        <Secenek>
-          <VaryasyonID>2922</VaryasyonID>
-          <StokKodu>19028.1.95B</StokKodu>
-          <Barkod>KJDSıueryweıuykjadsh</Barkod>
-          <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
-          <KDVDahil>true</KDVDahil>
-          <KdvOrani>10</KdvOrani>
-          <ParaBirimi>TL</ParaBirimi>
-          <ParaBirimiKodu>TRY</ParaBirimiKodu>
-          <Desi>1</Desi>
-          <EkSecenekOzellik>
-            <Ozellik Tanim="Renk" Deger="SİYAH">SİYAH</Ozellik>
-            <Ozellik Tanim="Beden" Deger="95">95</Ozellik>
-          </EkSecenekOzellik>
-        </Secenek>
       </UrunSecenek>
       <TeknikDetaylar />
     </Urun>
@@ -71750,7 +71678,7 @@
         <Secenek>
           <VaryasyonID>2927</VaryasyonID>
           <StokKodu>19029.63.95B</StokKodu>
-          <Barkod>eıroıwuokdlodsoıjfoldsjfRTRTWR</Barkod>
+          <Barkod>eıroıwuokdlodsoıjfoldssssshrfh</Barkod>
           <StokAdedi>0</StokAdedi>
           <AlisFiyati>0,00</AlisFiyati>
           <SatisFiyati>0,00</SatisFiyati>
@@ -71965,24 +71893,6 @@
             <Ozellik Tanim="Beden" Deger="90">90</Ozellik>
           </EkSecenekOzellik>
         </Secenek>
-        <Secenek>
-          <VaryasyonID>2937</VaryasyonID>
-          <StokKodu>19031.75.95B</StokKodu>
-          <Barkod>rştglkdşflkgçfgmçkmfgdERQWERWERWER</Barkod>
-          <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
-          <KDVDahil>true</KDVDahil>
-          <KdvOrani>10</KdvOrani>
-          <ParaBirimi>TL</ParaBirimi>
-          <ParaBirimiKodu>TRY</ParaBirimiKodu>
-          <Desi>1</Desi>
-          <EkSecenekOzellik>
-            <Ozellik Tanim="Renk" Deger="KIRMIZI - SİYAH">KIRMIZI - SİYAH</Ozellik>
-            <Ozellik Tanim="Beden" Deger="95">95</Ozellik>
-          </EkSecenekOzellik>
-        </Secenek>
       </UrunSecenek>
       <TeknikDetaylar />
     </Urun>
@@ -72002,24 +71912,6 @@
         <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Siyah-Kapli-Gupurlu-Sutyen-T-2d56.jpg</Resim>
       </Resimler>
       <UrunSecenek>
-        <Secenek>
-          <VaryasyonID>2938</VaryasyonID>
-          <StokKodu>19032.1.75B</StokKodu>
-          <Barkod>dsçköjaöndsönömsand</Barkod>
-          <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
-          <KDVDahil>true</KDVDahil>
-          <KdvOrani>10</KdvOrani>
-          <ParaBirimi>TL</ParaBirimi>
-          <ParaBirimiKodu>TRY</ParaBirimiKodu>
-          <Desi>1</Desi>
-          <EkSecenekOzellik>
-            <Ozellik Tanim="Renk" Deger="SİYAH">SİYAH</Ozellik>
-            <Ozellik Tanim="Beden" Deger="75">75</Ozellik>
-          </EkSecenekOzellik>
-        </Secenek>
         <Secenek>
           <VaryasyonID>2939</VaryasyonID>
           <StokKodu>19032.1.80B</StokKodu>
@@ -72183,24 +72075,6 @@
             <Ozellik Tanim="Beden" Deger="90">90</Ozellik>
           </EkSecenekOzellik>
         </Secenek>
-        <Secenek>
-          <VaryasyonID>2947</VaryasyonID>
-          <StokKodu>19033.70.95B</StokKodu>
-          <Barkod>senohanlşwkeşeklkddfafdaddadd</Barkod>
-          <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
-          <KDVDahil>true</KDVDahil>
-          <KdvOrani>10</KdvOrani>
-          <ParaBirimi>TL</ParaBirimi>
-          <ParaBirimiKodu>TRY</ParaBirimiKodu>
-          <Desi>1</Desi>
-          <EkSecenekOzellik>
-            <Ozellik Tanim="Renk" Deger="MOR">MOR</Ozellik>
-            <Ozellik Tanim="Beden" Deger="95">95</Ozellik>
-          </EkSecenekOzellik>
-        </Secenek>
       </UrunSecenek>
       <TeknikDetaylar />
     </Urun>
@@ -72290,24 +72164,6 @@
           <EkSecenekOzellik>
             <Ozellik Tanim="Renk" Deger="Lila">Lila</Ozellik>
             <Ozellik Tanim="Beden" Deger="90">90</Ozellik>
-          </EkSecenekOzellik>
-        </Secenek>
-        <Secenek>
-          <VaryasyonID>2952</VaryasyonID>
-          <StokKodu>19034.4.95B</StokKodu>
-          <Barkod>senoşosıdoıdpoıdıadoRTARETARTAT</Barkod>
-          <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
-          <KDVDahil>true</KDVDahil>
-          <KdvOrani>10</KdvOrani>
-          <ParaBirimi>TL</ParaBirimi>
-          <ParaBirimiKodu>TRY</ParaBirimiKodu>
-          <Desi>1</Desi>
-          <EkSecenekOzellik>
-            <Ozellik Tanim="Renk" Deger="Lila">Lila</Ozellik>
-            <Ozellik Tanim="Beden" Deger="95">95</Ozellik>
           </EkSecenekOzellik>
         </Secenek>
       </UrunSecenek>
@@ -72876,24 +72732,6 @@
           <EkSecenekOzellik>
             <Ozellik Tanim="Renk" Deger="SİYAH">SİYAH</Ozellik>
             <Ozellik Tanim="Beden" Deger="90">90</Ozellik>
-          </EkSecenekOzellik>
-        </Secenek>
-        <Secenek>
-          <VaryasyonID>2979</VaryasyonID>
-          <StokKodu>19022.1.95B</StokKodu>
-          <Barkod>0215456765791</Barkod>
-          <StokAdedi>0</StokAdedi>
-          <AlisFiyati>0,00</AlisFiyati>
-          <SatisFiyati>0,00</SatisFiyati>
-          <IndirimliFiyat>0,00</IndirimliFiyat>
-          <KDVDahil>true</KDVDahil>
-          <KdvOrani>10</KdvOrani>
-          <ParaBirimi>TL</ParaBirimi>
-          <ParaBirimiKodu>TRY</ParaBirimiKodu>
-          <Desi>1</Desi>
-          <EkSecenekOzellik>
-            <Ozellik Tanim="Renk" Deger="SİYAH">SİYAH</Ozellik>
-            <Ozellik Tanim="Beden" Deger="95">95</Ozellik>
           </EkSecenekOzellik>
         </Secenek>
       </UrunSecenek>

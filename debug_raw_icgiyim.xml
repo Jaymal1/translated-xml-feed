@@ -3888,7 +3888,7 @@
           <VaryasyonID>148</VaryasyonID>
           <StokKodu>15514-L/XL</StokKodu>
           <Barkod>845626555625498</Barkod>
-          <StokAdedi>144</StokAdedi>
+          <StokAdedi>143</StokAdedi>
           <AlisFiyati>149,90</AlisFiyati>
           <SatisFiyati>279,90</SatisFiyati>
           <IndirimliFiyat>279,90</IndirimliFiyat>
@@ -3963,7 +3963,7 @@
           <VaryasyonID>151</VaryasyonID>
           <StokKodu>15513-L/XL</StokKodu>
           <Barkod>845626555625504</Barkod>
-          <StokAdedi>282</StokAdedi>
+          <StokAdedi>281</StokAdedi>
           <AlisFiyati>149,90</AlisFiyati>
           <SatisFiyati>279,90</SatisFiyati>
           <IndirimliFiyat>279,90</IndirimliFiyat>
@@ -58060,65 +58060,6 @@
           <EkSecenekOzellik>
             <Ozellik Tanim="Renk" Deger="BORDO">BORDO</Ozellik>
             <Ozellik Tanim="Beden" Deger="2XL-3XL">2XL-3XL</Ozellik>
-          </EkSecenekOzellik>
-        </Secenek>
-      </UrunSecenek>
-      <TeknikDetaylar />
-    </Urun>
-    <Urun>
-      <UrunKartiID>760</UrunKartiID>
-      <UrunAdi>Bella Notte Bordo Dantelli Sexy Tasarım Bralet Takım 16101</UrunAdi>
-      <OnYazi><![CDATA[<img alt="" src="https://static.ticimax.cloud/67913//uploads/editoruploads/4-al-3-ode-2.svg" />]]></OnYazi>
-      <Aciklama><![CDATA[Bella Notte Bordo Dantelli Sexy Tasarım Bralet Takım 16101<br />Bedenler : S/M - L/XL<br />Materyal : %90 Polyester %10 Elestan <br />Not: Hijyen kuralları gereğince hijyen bandı açılmış ürünlerde iade/değişim kabul edilememektir.]]></Aciklama>
-      <Marka>BELLA NOTTE</Marka>
-      <SatisBirimi>ADET</SatisBirimi>
-      <KategoriID>7</KategoriID>
-      <Kategori>Fantezi İç Çamaşır Takım</Kategori>
-      <KategoriTree>Fantezi Giyim/Fantezi İç Çamaşır Takım</KategoriTree>
-      <UrunUrl>https://gecelikmagazasi.com/bella-notte-bordo-dantelli-sexy-tasarim-bralet-takim-16101-760</UrunUrl>
-      <OzelAlan2>16101-Serisi</OzelAlan2>
-      <Resimler>
-        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Bordo-Dantelli-Sexy-Tasarim--045a.jpg</Resim>
-        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Bordo-Dantelli-Sexy-Tasarim--9b5e.jpg</Resim>
-        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Bordo-Dantelli-Sexy-Tasarim--32eb.jpg</Resim>
-        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Bordo-Dantelli-Sexy-Tasarim--e663.jpg</Resim>
-        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Bordo-Dantelli-Sexy-Tasarim--9a62.jpg</Resim>
-      </Resimler>
-      <UrunSecenek>
-        <Secenek>
-          <VaryasyonID>2330</VaryasyonID>
-          <StokKodu>16101.6.S/M</StokKodu>
-          <Barkod>645530122012</Barkod>
-          <StokAdedi>0</StokAdedi>
-          <AlisFiyati>226,90</AlisFiyati>
-          <SatisFiyati>429,90</SatisFiyati>
-          <IndirimliFiyat>429,90</IndirimliFiyat>
-          <KDVDahil>true</KDVDahil>
-          <KdvOrani>10</KdvOrani>
-          <ParaBirimi>TL</ParaBirimi>
-          <ParaBirimiKodu>TRY</ParaBirimiKodu>
-          <Desi>1</Desi>
-          <EkSecenekOzellik>
-            <Ozellik Tanim="Renk" Deger="BORDO">BORDO</Ozellik>
-            <Ozellik Tanim="Beden" Deger="S/M">S/M</Ozellik>
-          </EkSecenekOzellik>
-        </Secenek>
-        <Secenek>
-          <VaryasyonID>2331</VaryasyonID>
-          <StokKodu>16101.6.L/XL</StokKodu>
-          <Barkod>645530122013</Barkod>
-          <StokAdedi>0</StokAdedi>
-          <AlisFiyati>226,90</AlisFiyati>
-          <SatisFiyati>429,90</SatisFiyati>
-          <IndirimliFiyat>429,90</IndirimliFiyat>
-          <KDVDahil>true</KDVDahil>
-          <KdvOrani>10</KdvOrani>
-          <ParaBirimi>TL</ParaBirimi>
-          <ParaBirimiKodu>TRY</ParaBirimiKodu>
-          <Desi>1</Desi>
-          <EkSecenekOzellik>
-            <Ozellik Tanim="Renk" Deger="BORDO">BORDO</Ozellik>
-            <Ozellik Tanim="Beden" Deger="L/XL">L/XL</Ozellik>
           </EkSecenekOzellik>
         </Secenek>
       </UrunSecenek>

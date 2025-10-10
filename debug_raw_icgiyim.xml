@@ -290,7 +290,7 @@
           <VaryasyonID>11</VaryasyonID>
           <StokKodu>15500-S/M</StokKodu>
           <Barkod>845626555625244</Barkod>
-          <StokAdedi>454</StokAdedi>
+          <StokAdedi>453</StokAdedi>
           <AlisFiyati>128,90</AlisFiyati>
           <SatisFiyati>249,90</SatisFiyati>
           <IndirimliFiyat>249,90</IndirimliFiyat>
@@ -308,7 +308,7 @@
           <VaryasyonID>12</VaryasyonID>
           <StokKodu>15500-L/XL</StokKodu>
           <Barkod>845626555625246</Barkod>
-          <StokAdedi>777</StokAdedi>
+          <StokAdedi>776</StokAdedi>
           <AlisFiyati>128,90</AlisFiyati>
           <SatisFiyati>249,90</SatisFiyati>
           <IndirimliFiyat>249,90</IndirimliFiyat>
@@ -4247,7 +4247,7 @@
           <VaryasyonID>162</VaryasyonID>
           <StokKodu>15026-S/M</StokKodu>
           <Barkod>845626555625526</Barkod>
-          <StokAdedi>31</StokAdedi>
+          <StokAdedi>30</StokAdedi>
           <AlisFiyati>163,90</AlisFiyati>
           <SatisFiyati>299,90</SatisFiyati>
           <IndirimliFiyat>299,90</IndirimliFiyat>
@@ -4323,7 +4323,7 @@
           <VaryasyonID>165</VaryasyonID>
           <StokKodu>15024-S/M</StokKodu>
           <Barkod>845626555625532</Barkod>
-          <StokAdedi>646</StokAdedi>
+          <StokAdedi>642</StokAdedi>
           <AlisFiyati>163,90</AlisFiyati>
           <SatisFiyati>299,90</SatisFiyati>
           <IndirimliFiyat>299,90</IndirimliFiyat>
@@ -4359,7 +4359,7 @@
           <VaryasyonID>167</VaryasyonID>
           <StokKodu>15024-2XL/3XL</StokKodu>
           <Barkod>845626555625536</Barkod>
-          <StokAdedi>216</StokAdedi>
+          <StokAdedi>215</StokAdedi>
           <AlisFiyati>163,90</AlisFiyati>
           <SatisFiyati>299,90</SatisFiyati>
           <IndirimliFiyat>299,90</IndirimliFiyat>
@@ -4438,7 +4438,7 @@
           <VaryasyonID>170</VaryasyonID>
           <StokKodu>15023-2XL/3XL</StokKodu>
           <Barkod>845626555625542</Barkod>
-          <StokAdedi>111</StokAdedi>
+          <StokAdedi>110</StokAdedi>
           <AlisFiyati>163,90</AlisFiyati>
           <SatisFiyati>299,90</SatisFiyati>
           <IndirimliFiyat>299,90</IndirimliFiyat>
@@ -7409,7 +7409,7 @@
           <VaryasyonID>285</VaryasyonID>
           <StokKodu>15040-S/M</StokKodu>
           <Barkod>845626555625760</Barkod>
-          <StokAdedi>861</StokAdedi>
+          <StokAdedi>860</StokAdedi>
           <AlisFiyati>144,90</AlisFiyati>
           <SatisFiyati>269,90</SatisFiyati>
           <IndirimliFiyat>269,90</IndirimliFiyat>
@@ -7427,7 +7427,7 @@
           <VaryasyonID>286</VaryasyonID>
           <StokKodu>15040-L/XL</StokKodu>
           <Barkod>845626555625762</Barkod>
-          <StokAdedi>374</StokAdedi>
+          <StokAdedi>372</StokAdedi>
           <AlisFiyati>144,90</AlisFiyati>
           <SatisFiyati>269,90</SatisFiyati>
           <IndirimliFiyat>269,90</IndirimliFiyat>
@@ -15346,7 +15346,7 @@
           <VaryasyonID>593</VaryasyonID>
           <StokKodu>BN6576-Cappicuo</StokKodu>
           <Barkod>845626555626356</Barkod>
-          <StokAdedi>25</StokAdedi>
+          <StokAdedi>24</StokAdedi>
           <AlisFiyati>124,90</AlisFiyati>
           <SatisFiyati>269,90</SatisFiyati>
           <IndirimliFiyat>269,90</IndirimliFiyat>
@@ -18117,7 +18117,7 @@
           <VaryasyonID>696</VaryasyonID>
           <StokKodu>PR15531-2XL/3XL</StokKodu>
           <Barkod>845626555626562</Barkod>
-          <StokAdedi>458</StokAdedi>
+          <StokAdedi>457</StokAdedi>
           <AlisFiyati>175,90</AlisFiyati>
           <SatisFiyati>309,90</SatisFiyati>
           <IndirimliFiyat>309,90</IndirimliFiyat>
@@ -21112,7 +21112,7 @@
           <VaryasyonID>822</VaryasyonID>
           <StokKodu>15576-M</StokKodu>
           <Barkod>8452322329874</Barkod>
-          <StokAdedi>76</StokAdedi>
+          <StokAdedi>75</StokAdedi>
           <AlisFiyati>176,90</AlisFiyati>
           <SatisFiyati>309,90</SatisFiyati>
           <IndirimliFiyat>309,90</IndirimliFiyat>
@@ -21699,7 +21699,7 @@
           <VaryasyonID>846</VaryasyonID>
           <StokKodu>PR15535.KIRMIZI.L/XL</StokKodu>
           <Barkod>84562012222155800</Barkod>
-          <StokAdedi>334</StokAdedi>
+          <StokAdedi>333</StokAdedi>
           <AlisFiyati>175,90</AlisFiyati>
           <SatisFiyati>309,90</SatisFiyati>
           <IndirimliFiyat>309,90</IndirimliFiyat>
@@ -25986,7 +25986,7 @@
           <VaryasyonID>1018</VaryasyonID>
           <StokKodu>15588.1.S/M</StokKodu>
           <Barkod>48558552130</Barkod>
-          <StokAdedi>76</StokAdedi>
+          <StokAdedi>75</StokAdedi>
           <AlisFiyati>129,90</AlisFiyati>
           <SatisFiyati>279,90</SatisFiyati>
           <IndirimliFiyat>279,90</IndirimliFiyat>
@@ -45890,7 +45890,7 @@
       <UrunKartiID>604</UrunKartiID>
       <UrunAdi>Bella Notte Bej Fitilli Yırtmaç Detaylı Uzun Pijama Takımı 7057</UrunAdi>
       <OnYazi><![CDATA[<img alt="" src="https://static.ticimax.cloud/67913//uploads/editoruploads/4-al-3-ode-2.svg" />]]></OnYazi>
-      <Aciklama><![CDATA[Bella Notte Bej Fitilli Yırtmaç Detaylı Uzun Pijama Takımı 7057<br />Bedenleri : S-M-L-XL<br />Paket İçeriği : Alt-Üst<br />Metaryel Bilgisi : %95 Pamuk - %5 Lycra<br />Yıkama Talimatı  :  Maksimum 30°C'de yıkanır]]></Aciklama>
+      <Aciklama><![CDATA[Bella Notte Bej Fitilli Yırtmaç Detaylı Uzun Pijama Takımı 7057<br />Bedenleri : S-M-L-XL<br />Paket İçeriği : Alt-Üst<br />Metaryel Bilgisi : %100 Cotton<br />Yıkama Talimatı  :  Maksimum 30°C'de yıkanır]]></Aciklama>
       <Marka>BELLA NOTTE</Marka>
       <SatisBirimi>ADET</SatisBirimi>
       <KategoriID>13</KategoriID>
@@ -58299,7 +58299,7 @@
           <VaryasyonID>2341</VaryasyonID>
           <StokKodu>15937.63.L/XL</StokKodu>
           <Barkod>7418652335657</Barkod>
-          <StokAdedi>262</StokAdedi>
+          <StokAdedi>261</StokAdedi>
           <AlisFiyati>180,90</AlisFiyati>
           <SatisFiyati>480,90</SatisFiyati>
           <IndirimliFiyat>369,90</IndirimliFiyat>

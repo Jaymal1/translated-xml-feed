@@ -51029,7 +51029,7 @@
           <VaryasyonID>2019</VaryasyonID>
           <StokKodu>7097.56.M</StokKodu>
           <Barkod>904565345355</Barkod>
-          <StokAdedi>741</StokAdedi>
+          <StokAdedi>740</StokAdedi>
           <AlisFiyati>253,90</AlisFiyati>
           <SatisFiyati>603,90</SatisFiyati>
           <IndirimliFiyat>464,90</IndirimliFiyat>
@@ -75393,9 +75393,9 @@
     </Urun>
     <Urun>
       <UrunKartiID>946</UrunKartiID>
-      <UrunAdi>Bella Notte Mavi Pamuklu Pijama Takımı 77155</UrunAdi>
+      <UrunAdi>Bella Notte Petrol Yeşili Pamuklu Pijama Takımı 77155</UrunAdi>
       <OnYazi><![CDATA[]]></OnYazi>
-      <Aciklama><![CDATA[Bella Notte Mavi Pamuklu Pijama Takımı 77155<br />Bedenler: S- M- L- XL<br />Materyal: %100 pamuktur.<br />Yıkama Talimatı: 30 Derece sıcaklıkta hassas ve tersten yıkama yapınız. Kurutma makinası önerilmez.]]></Aciklama>
+      <Aciklama><![CDATA[Bella Notte Petrol Yeşili Pamuklu Pijama Takımı 77155<br />Bedenler: S- M- L- XL<br />Materyal: %100 pamuktur.<br />Yıkama Talimatı: 30 Derece sıcaklıkta hassas ve tersten yıkama yapınız. Kurutma makinası önerilmez.]]></Aciklama>
       <Marka>BELLA NOTTE</Marka>
       <SatisBirimi>ADET</SatisBirimi>
       <KategoriID>13</KategoriID>
@@ -75412,8 +75412,8 @@
       </Resimler>
       <UrunSecenek>
         <Secenek>
-          <VaryasyonID>3095</VaryasyonID>
-          <StokKodu>77155.53.S</StokKodu>
+          <VaryasyonID>3203</VaryasyonID>
+          <StokKodu>77155.78.S</StokKodu>
           <Barkod>637565461</Barkod>
           <StokAdedi>0</StokAdedi>
           <AlisFiyati>0,00</AlisFiyati>
@@ -75425,13 +75425,13 @@
           <ParaBirimiKodu>TRY</ParaBirimiKodu>
           <Desi>1</Desi>
           <EkSecenekOzellik>
-            <Ozellik Tanim="Renk" Deger="MAVİ">MAVİ</Ozellik>
+            <Ozellik Tanim="Renk" Deger="PETROL YEŞİLİ">PETROL YEŞİLİ</Ozellik>
             <Ozellik Tanim="Beden" Deger="S">S</Ozellik>
           </EkSecenekOzellik>
         </Secenek>
         <Secenek>
-          <VaryasyonID>3096</VaryasyonID>
-          <StokKodu>77155.53.M</StokKodu>
+          <VaryasyonID>3204</VaryasyonID>
+          <StokKodu>77155.78.M</StokKodu>
           <Barkod>637565462</Barkod>
           <StokAdedi>0</StokAdedi>
           <AlisFiyati>0,00</AlisFiyati>
@@ -75443,13 +75443,13 @@
           <ParaBirimiKodu>TRY</ParaBirimiKodu>
           <Desi>1</Desi>
           <EkSecenekOzellik>
-            <Ozellik Tanim="Renk" Deger="MAVİ">MAVİ</Ozellik>
+            <Ozellik Tanim="Renk" Deger="PETROL YEŞİLİ">PETROL YEŞİLİ</Ozellik>
             <Ozellik Tanim="Beden" Deger="M">M</Ozellik>
           </EkSecenekOzellik>
         </Secenek>
         <Secenek>
-          <VaryasyonID>3097</VaryasyonID>
-          <StokKodu>77155.53.L</StokKodu>
+          <VaryasyonID>3205</VaryasyonID>
+          <StokKodu>77155.78.L</StokKodu>
           <Barkod>637565463</Barkod>
           <StokAdedi>0</StokAdedi>
           <AlisFiyati>0,00</AlisFiyati>
@@ -75461,13 +75461,13 @@
           <ParaBirimiKodu>TRY</ParaBirimiKodu>
           <Desi>1</Desi>
           <EkSecenekOzellik>
-            <Ozellik Tanim="Renk" Deger="MAVİ">MAVİ</Ozellik>
+            <Ozellik Tanim="Renk" Deger="PETROL YEŞİLİ">PETROL YEŞİLİ</Ozellik>
             <Ozellik Tanim="Beden" Deger="L">L</Ozellik>
           </EkSecenekOzellik>
         </Secenek>
         <Secenek>
-          <VaryasyonID>3098</VaryasyonID>
-          <StokKodu>77155.53.XL</StokKodu>
+          <VaryasyonID>3206</VaryasyonID>
+          <StokKodu>77155.78.XL</StokKodu>
           <Barkod>637565464</Barkod>
           <StokAdedi>0</StokAdedi>
           <AlisFiyati>0,00</AlisFiyati>
@@ -75479,7 +75479,7 @@
           <ParaBirimiKodu>TRY</ParaBirimiKodu>
           <Desi>1</Desi>
           <EkSecenekOzellik>
-            <Ozellik Tanim="Renk" Deger="MAVİ">MAVİ</Ozellik>
+            <Ozellik Tanim="Renk" Deger="PETROL YEŞİLİ">PETROL YEŞİLİ</Ozellik>
             <Ozellik Tanim="Beden" Deger="XL">XL</Ozellik>
           </EkSecenekOzellik>
         </Secenek>
@@ -77957,6 +77957,196 @@
           <Desi>1</Desi>
           <EkSecenekOzellik>
             <Ozellik Tanim="Renk" Deger="SİYAH">SİYAH</Ozellik>
+            <Ozellik Tanim="Beden" Deger="XL">XL</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+      </UrunSecenek>
+      <TeknikDetaylar />
+    </Urun>
+    <Urun>
+      <UrunKartiID>973</UrunKartiID>
+      <UrunAdi>Bella Notte Pembe Fiyonk Baskılı Pamuklu Pijama Takımı 77191</UrunAdi>
+      <OnYazi><![CDATA[]]></OnYazi>
+      <Aciklama><![CDATA[Bella Notte Pembe Fiyonk Baskılı Pamuklu Pijama Takımı 77191<br />Bedenler : S-M-L-XL<br />Materyal : %100 Cotton<br />Yıkama Talimatı : 30 derece sıcaklıkta hassas ve tersten yıkama yapınız. Kurutma  makinası önerilmez.]]></Aciklama>
+      <Marka>BELLA NOTTE</Marka>
+      <SatisBirimi>ADET</SatisBirimi>
+      <KategoriID>13</KategoriID>
+      <Kategori>Alt Üst Takım</Kategori>
+      <KategoriTree>Kadın Giyim/Alt Üst Takım</KategoriTree>
+      <UrunUrl>https://gecelikmagazasi.com/bella-notte-pembe-fiyonk-baskili-pamuklu-pijama-takimi-77191-973</UrunUrl>
+      <OzelAlan2>77191-Serisi</OzelAlan2>
+      <Resimler>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Pembe-Fiyonk-Baskili-Pamuklu-b523.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Pembe-Fiyonk-Baskili-Pamuklu-dcb1.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Pembe-Fiyonk-Baskili-Pamuklu-3a5a.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Pembe-Fiyonk-Baskili-Pamuklu-9dab.jpg</Resim>
+      </Resimler>
+      <UrunSecenek>
+        <Secenek>
+          <VaryasyonID>3207</VaryasyonID>
+          <StokKodu>77191.56.S</StokKodu>
+          <Barkod>3410334341422</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="PEMBE">PEMBE</Ozellik>
+            <Ozellik Tanim="Beden" Deger="S">S</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>3208</VaryasyonID>
+          <StokKodu>77191.56.M</StokKodu>
+          <Barkod>3410334341423</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="PEMBE">PEMBE</Ozellik>
+            <Ozellik Tanim="Beden" Deger="M">M</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>3209</VaryasyonID>
+          <StokKodu>77191.56.L</StokKodu>
+          <Barkod>3410334341424</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="PEMBE">PEMBE</Ozellik>
+            <Ozellik Tanim="Beden" Deger="L">L</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>3210</VaryasyonID>
+          <StokKodu>77191.56.XL</StokKodu>
+          <Barkod>3410334341425</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="PEMBE">PEMBE</Ozellik>
+            <Ozellik Tanim="Beden" Deger="XL">XL</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+      </UrunSecenek>
+      <TeknikDetaylar />
+    </Urun>
+    <Urun>
+      <UrunKartiID>974</UrunKartiID>
+      <UrunAdi>Bella Notte Lacivert Fiyonk Detaylı Kısa Kollu Pamuklu Şık Elbise E-5539</UrunAdi>
+      <OnYazi><![CDATA[]]></OnYazi>
+      <Aciklama><![CDATA[Bella Notte Lacivert Fiyonk Detaylı Kısa Kollu Pamuklu Şık Elbise E-5539<br />Bedenler:S-M-L-XL<br />Materyal:%100 Cotton<br />Yıkama Talimatı:30 derecede hassas ve tersten yıkama önerilir, kurutma makinesi önerilmez]]></Aciklama>
+      <Marka>BELLA NOTTE</Marka>
+      <SatisBirimi>ADET</SatisBirimi>
+      <KategoriID>36</KategoriID>
+      <Kategori>Elbise Modelleri</Kategori>
+      <KategoriTree>Kadın Giyim/Elbise Modelleri</KategoriTree>
+      <UrunUrl>https://gecelikmagazasi.com/bella-notte-lacivert-fiyonk-detayli-kisa-kollu-pamuklu-sik-elbise-e-5539-974</UrunUrl>
+      <OzelAlan2>E-5539-Serisi</OzelAlan2>
+      <Resimler>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Lacivert-Fiyonk-Detayli-Kisa-f37a.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Lacivert-Fiyonk-Detayli-Kisa-b3fb.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Lacivert-Fiyonk-Detayli-Kisa-9cf5.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Lacivert-Fiyonk-Detayli-Kisa-973e.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Lacivert-Fiyonk-Detayli-Kisa-02c7.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Lacivert-Fiyonk-Detayli-Kisa-b585.jpg</Resim>
+      </Resimler>
+      <UrunSecenek>
+        <Secenek>
+          <VaryasyonID>3211</VaryasyonID>
+          <StokKodu>E-5539.62.S</StokKodu>
+          <Barkod>5464174641</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="LACİVERT">LACİVERT</Ozellik>
+            <Ozellik Tanim="Beden" Deger="S">S</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>3212</VaryasyonID>
+          <StokKodu>E-5539.62.M</StokKodu>
+          <Barkod>5464174642</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="LACİVERT">LACİVERT</Ozellik>
+            <Ozellik Tanim="Beden" Deger="M">M</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>3213</VaryasyonID>
+          <StokKodu>E-5539.62.L</StokKodu>
+          <Barkod>5464174643</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="LACİVERT">LACİVERT</Ozellik>
+            <Ozellik Tanim="Beden" Deger="L">L</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>3214</VaryasyonID>
+          <StokKodu>E-5539.62.XL</StokKodu>
+          <Barkod>5464174645</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="LACİVERT">LACİVERT</Ozellik>
             <Ozellik Tanim="Beden" Deger="XL">XL</Ozellik>
           </EkSecenekOzellik>
         </Secenek>

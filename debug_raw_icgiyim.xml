@@ -290,7 +290,7 @@
           <VaryasyonID>11</VaryasyonID>
           <StokKodu>15500-S/M</StokKodu>
           <Barkod>845626555625244</Barkod>
-          <StokAdedi>436</StokAdedi>
+          <StokAdedi>435</StokAdedi>
           <AlisFiyati>128,90</AlisFiyati>
           <SatisFiyati>249,90</SatisFiyati>
           <IndirimliFiyat>249,90</IndirimliFiyat>
@@ -326,7 +326,7 @@
           <VaryasyonID>13</VaryasyonID>
           <StokKodu>15500-2XL/3XL</StokKodu>
           <Barkod>845626555625248</Barkod>
-          <StokAdedi>610</StokAdedi>
+          <StokAdedi>609</StokAdedi>
           <AlisFiyati>128,90</AlisFiyati>
           <SatisFiyati>249,90</SatisFiyati>
           <IndirimliFiyat>249,90</IndirimliFiyat>
@@ -4247,7 +4247,7 @@
           <VaryasyonID>162</VaryasyonID>
           <StokKodu>15026-S/M</StokKodu>
           <Barkod>845626555625526</Barkod>
-          <StokAdedi>9</StokAdedi>
+          <StokAdedi>8</StokAdedi>
           <AlisFiyati>163,90</AlisFiyati>
           <SatisFiyati>299,90</SatisFiyati>
           <IndirimliFiyat>299,90</IndirimliFiyat>
@@ -4323,7 +4323,7 @@
           <VaryasyonID>165</VaryasyonID>
           <StokKodu>15024-S/M</StokKodu>
           <Barkod>845626555625532</Barkod>
-          <StokAdedi>538</StokAdedi>
+          <StokAdedi>537</StokAdedi>
           <AlisFiyati>163,90</AlisFiyati>
           <SatisFiyati>299,90</SatisFiyati>
           <IndirimliFiyat>299,90</IndirimliFiyat>
@@ -4341,7 +4341,7 @@
           <VaryasyonID>166</VaryasyonID>
           <StokKodu>15024-L/XL</StokKodu>
           <Barkod>845626555625534</Barkod>
-          <StokAdedi>153</StokAdedi>
+          <StokAdedi>152</StokAdedi>
           <AlisFiyati>163,90</AlisFiyati>
           <SatisFiyati>299,90</SatisFiyati>
           <IndirimliFiyat>299,90</IndirimliFiyat>
@@ -5039,7 +5039,7 @@
           <VaryasyonID>194</VaryasyonID>
           <StokKodu>15029-2XL/3XL</StokKodu>
           <Barkod>845626555625590</Barkod>
-          <StokAdedi>207</StokAdedi>
+          <StokAdedi>205</StokAdedi>
           <AlisFiyati>145,90</AlisFiyati>
           <SatisFiyati>269,90</SatisFiyati>
           <IndirimliFiyat>269,90</IndirimliFiyat>
@@ -7409,7 +7409,7 @@
           <VaryasyonID>285</VaryasyonID>
           <StokKodu>15040-S/M</StokKodu>
           <Barkod>845626555625760</Barkod>
-          <StokAdedi>841</StokAdedi>
+          <StokAdedi>840</StokAdedi>
           <AlisFiyati>144,90</AlisFiyati>
           <SatisFiyati>269,90</SatisFiyati>
           <IndirimliFiyat>269,90</IndirimliFiyat>
@@ -39647,7 +39647,7 @@
           <VaryasyonID>1558</VaryasyonID>
           <StokKodu>15626.59.BIG</StokKodu>
           <Barkod>57844980324</Barkod>
-          <StokAdedi>23</StokAdedi>
+          <StokAdedi>22</StokAdedi>
           <AlisFiyati>164,90</AlisFiyati>
           <SatisFiyati>329,90</SatisFiyati>
           <IndirimliFiyat>329,90</IndirimliFiyat>
@@ -48955,7 +48955,7 @@
           <VaryasyonID>1922</VaryasyonID>
           <StokKodu>15732.1.XL</StokKodu>
           <Barkod>877880025548228</Barkod>
-          <StokAdedi>38</StokAdedi>
+          <StokAdedi>37</StokAdedi>
           <AlisFiyati>144,90</AlisFiyati>
           <SatisFiyati>269,90</SatisFiyati>
           <IndirimliFiyat>269,90</IndirimliFiyat>
@@ -58281,7 +58281,7 @@
           <VaryasyonID>2340</VaryasyonID>
           <StokKodu>15937.63.S/M</StokKodu>
           <Barkod>7418652335656</Barkod>
-          <StokAdedi>240</StokAdedi>
+          <StokAdedi>238</StokAdedi>
           <AlisFiyati>180,90</AlisFiyati>
           <SatisFiyati>480,90</SatisFiyati>
           <IndirimliFiyat>369,90</IndirimliFiyat>
@@ -72962,9 +72962,9 @@
     </Urun>
     <Urun>
       <UrunKartiID>920</UrunKartiID>
-      <UrunAdi>Bella Notte Pembe Kalp Detaylı Biyeli Pijama Takımı 77013</UrunAdi>
+      <UrunAdi>Bella Notte Bej Kalp Detaylı Biyeli Pijama Takımı 77013</UrunAdi>
       <OnYazi><![CDATA[]]></OnYazi>
-      <Aciklama><![CDATA[Bella Notte Pembe Kalp Detaylı Biyeli Pijama Takımı 77013<br />Bedenler : S-M-L-XL<br />Materyal : %100 Cotton<br />Yıkama Talimatı : 30 derece sıcaklıkta hassas ve tersten yıkama yapınız]]></Aciklama>
+      <Aciklama><![CDATA[Bella Notte Bej Kalp Detaylı Biyeli Pijama Takımı 77013<br />Bedenler : S-M-L-XL<br />Materyal : %100 Cotton<br />Yıkama Talimatı : 30 derece sıcaklıkta hassas ve tersten yıkama yapınız]]></Aciklama>
       <Marka>BELLA NOTTE</Marka>
       <SatisBirimi>ADET</SatisBirimi>
       <KategoriID>13</KategoriID>
@@ -72981,8 +72981,8 @@
       </Resimler>
       <UrunSecenek>
         <Secenek>
-          <VaryasyonID>2992</VaryasyonID>
-          <StokKodu>77013.56.S</StokKodu>
+          <VaryasyonID>3215</VaryasyonID>
+          <StokKodu>77013.55.S</StokKodu>
           <Barkod>98080769460546</Barkod>
           <StokAdedi>0</StokAdedi>
           <AlisFiyati>0,00</AlisFiyati>
@@ -72994,13 +72994,13 @@
           <ParaBirimiKodu>TRY</ParaBirimiKodu>
           <Desi>1</Desi>
           <EkSecenekOzellik>
-            <Ozellik Tanim="Renk" Deger="PEMBE">PEMBE</Ozellik>
+            <Ozellik Tanim="Renk" Deger="BEJ">BEJ</Ozellik>
             <Ozellik Tanim="Beden" Deger="S">S</Ozellik>
           </EkSecenekOzellik>
         </Secenek>
         <Secenek>
-          <VaryasyonID>2993</VaryasyonID>
-          <StokKodu>77013.56.M</StokKodu>
+          <VaryasyonID>3216</VaryasyonID>
+          <StokKodu>77013.55.M</StokKodu>
           <Barkod>98080769460547</Barkod>
           <StokAdedi>0</StokAdedi>
           <AlisFiyati>0,00</AlisFiyati>
@@ -73012,13 +73012,13 @@
           <ParaBirimiKodu>TRY</ParaBirimiKodu>
           <Desi>1</Desi>
           <EkSecenekOzellik>
-            <Ozellik Tanim="Renk" Deger="PEMBE">PEMBE</Ozellik>
+            <Ozellik Tanim="Renk" Deger="BEJ">BEJ</Ozellik>
             <Ozellik Tanim="Beden" Deger="M">M</Ozellik>
           </EkSecenekOzellik>
         </Secenek>
         <Secenek>
-          <VaryasyonID>2994</VaryasyonID>
-          <StokKodu>77013.56.L</StokKodu>
+          <VaryasyonID>3217</VaryasyonID>
+          <StokKodu>77013.55.L</StokKodu>
           <Barkod>98080769460548</Barkod>
           <StokAdedi>0</StokAdedi>
           <AlisFiyati>0,00</AlisFiyati>
@@ -73030,13 +73030,13 @@
           <ParaBirimiKodu>TRY</ParaBirimiKodu>
           <Desi>1</Desi>
           <EkSecenekOzellik>
-            <Ozellik Tanim="Renk" Deger="PEMBE">PEMBE</Ozellik>
+            <Ozellik Tanim="Renk" Deger="BEJ">BEJ</Ozellik>
             <Ozellik Tanim="Beden" Deger="L">L</Ozellik>
           </EkSecenekOzellik>
         </Secenek>
         <Secenek>
-          <VaryasyonID>2995</VaryasyonID>
-          <StokKodu>77013.56.XL</StokKodu>
+          <VaryasyonID>3218</VaryasyonID>
+          <StokKodu>77013.55.XL</StokKodu>
           <Barkod>98080769460549</Barkod>
           <StokAdedi>0</StokAdedi>
           <AlisFiyati>0,00</AlisFiyati>
@@ -73048,7 +73048,7 @@
           <ParaBirimiKodu>TRY</ParaBirimiKodu>
           <Desi>1</Desi>
           <EkSecenekOzellik>
-            <Ozellik Tanim="Renk" Deger="PEMBE">PEMBE</Ozellik>
+            <Ozellik Tanim="Renk" Deger="BEJ">BEJ</Ozellik>
             <Ozellik Tanim="Beden" Deger="XL">XL</Ozellik>
           </EkSecenekOzellik>
         </Secenek>
@@ -78147,6 +78147,103 @@
           <Desi>1</Desi>
           <EkSecenekOzellik>
             <Ozellik Tanim="Renk" Deger="LACİVERT">LACİVERT</Ozellik>
+            <Ozellik Tanim="Beden" Deger="XL">XL</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+      </UrunSecenek>
+      <TeknikDetaylar />
+    </Urun>
+    <Urun>
+      <UrunKartiID>975</UrunKartiID>
+      <UrunAdi>Bella Notte Pembe Fiyonk Baskılı Çizgili Pijama Takımı 77345</UrunAdi>
+      <OnYazi><![CDATA[]]></OnYazi>
+      <Aciklama><![CDATA[Bella Notte Pembe Fiyonk Baskılı Çizgili Pijama Takımı 77345<br />Bedenler : S-M-L-XL<br />Materyal : %100 Cotton<br />Yıkama Talimatı : 30 derece sıcaklıkta hassas ve tersten yıkama yapınız.]]></Aciklama>
+      <Marka>BELLA NOTTE</Marka>
+      <SatisBirimi>ADET</SatisBirimi>
+      <KategoriID>13</KategoriID>
+      <Kategori>Alt Üst Takım</Kategori>
+      <KategoriTree>Kadın Giyim/Alt Üst Takım</KategoriTree>
+      <UrunUrl>https://gecelikmagazasi.com/bella-notte-pembe-fiyonk-baskili-cizgili-pijama-takimi-77345-975</UrunUrl>
+      <OzelAlan2>77345-Serisi</OzelAlan2>
+      <Resimler>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Pembe-Fiyonk-Baskili-Cizgili-e6e8.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Pembe-Fiyonk-Baskili-Cizgili-4266.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Pembe-Fiyonk-Baskili-Cizgili-5521.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Pembe-Fiyonk-Baskili-Cizgili-39a5.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Pembe-Fiyonk-Baskili-Cizgili-3b18.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Pembe-Fiyonk-Baskili-Cizgili-2160.jpg</Resim>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Pembe-Fiyonk-Baskili-Cizgili-fb5f.jpg</Resim>
+      </Resimler>
+      <UrunSecenek>
+        <Secenek>
+          <VaryasyonID>3219</VaryasyonID>
+          <StokKodu>77345.56.S</StokKodu>
+          <Barkod>3065014543240</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="PEMBE">PEMBE</Ozellik>
+            <Ozellik Tanim="Beden" Deger="S">S</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>3220</VaryasyonID>
+          <StokKodu>77345.56.M</StokKodu>
+          <Barkod>3065014543241</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="PEMBE">PEMBE</Ozellik>
+            <Ozellik Tanim="Beden" Deger="M">M</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>3221</VaryasyonID>
+          <StokKodu>77345.56.L</StokKodu>
+          <Barkod>3065014543242</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="PEMBE">PEMBE</Ozellik>
+            <Ozellik Tanim="Beden" Deger="L">L</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>3222</VaryasyonID>
+          <StokKodu>77345.56.XL</StokKodu>
+          <Barkod>3065014543243</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="PEMBE">PEMBE</Ozellik>
             <Ozellik Tanim="Beden" Deger="XL">XL</Ozellik>
           </EkSecenekOzellik>
         </Secenek>

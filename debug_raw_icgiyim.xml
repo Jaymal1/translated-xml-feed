@@ -5097,7 +5097,7 @@
           <VaryasyonID>196</VaryasyonID>
           <StokKodu>15032-L/XL</StokKodu>
           <Barkod>845626555625594</Barkod>
-          <StokAdedi>628</StokAdedi>
+          <StokAdedi>627</StokAdedi>
           <AlisFiyati>145,90</AlisFiyati>
           <SatisFiyati>269,90</SatisFiyati>
           <IndirimliFiyat>269,90</IndirimliFiyat>
@@ -56748,7 +56748,7 @@
           <VaryasyonID>2276</VaryasyonID>
           <StokKodu>7599.19.XL</StokKodu>
           <Barkod>2555334</Barkod>
-          <StokAdedi>974</StokAdedi>
+          <StokAdedi>0</StokAdedi>
           <AlisFiyati>329,90</AlisFiyati>
           <SatisFiyati>561,90</SatisFiyati>
           <IndirimliFiyat>561,90</IndirimliFiyat>
@@ -57060,7 +57060,7 @@
           <VaryasyonID>2288</VaryasyonID>
           <StokKodu>7711.53.S</StokKodu>
           <Barkod>87208674054120045</Barkod>
-          <StokAdedi>977</StokAdedi>
+          <StokAdedi>100</StokAdedi>
           <AlisFiyati>226,90</AlisFiyati>
           <SatisFiyati>429,00</SatisFiyati>
           <IndirimliFiyat>0,00</IndirimliFiyat>
@@ -69509,7 +69509,7 @@
           <VaryasyonID>2830</VaryasyonID>
           <StokKodu>31505.5.S</StokKodu>
           <Barkod>454540654603</Barkod>
-          <StokAdedi>998</StokAdedi>
+          <StokAdedi>0</StokAdedi>
           <AlisFiyati>0,00</AlisFiyati>
           <SatisFiyati>543,90</SatisFiyati>
           <IndirimliFiyat>417,90</IndirimliFiyat>
@@ -69527,7 +69527,7 @@
           <VaryasyonID>2831</VaryasyonID>
           <StokKodu>31505.5.M</StokKodu>
           <Barkod>454540654604</Barkod>
-          <StokAdedi>997</StokAdedi>
+          <StokAdedi>0</StokAdedi>
           <AlisFiyati>0,00</AlisFiyati>
           <SatisFiyati>623,01</SatisFiyati>
           <IndirimliFiyat>478,69</IndirimliFiyat>
@@ -69545,7 +69545,7 @@
           <VaryasyonID>2832</VaryasyonID>
           <StokKodu>31505.5.L</StokKodu>
           <Barkod>454540654605</Barkod>
-          <StokAdedi>999</StokAdedi>
+          <StokAdedi>0</StokAdedi>
           <AlisFiyati>0,00</AlisFiyati>
           <SatisFiyati>623,01</SatisFiyati>
           <IndirimliFiyat>478,69</IndirimliFiyat>

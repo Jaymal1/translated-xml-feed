@@ -78672,6 +78672,97 @@
       </UrunSecenek>
       <TeknikDetaylar />
     </Urun>
+    <Urun>
+      <UrunKartiID>981</UrunKartiID>
+      <UrunAdi>Bella Notte Siyah Fiyonk Detaylı Önden Yırtmaçlı Şık Gecelik E-5575</UrunAdi>
+      <OnYazi><![CDATA[]]></OnYazi>
+      <Aciklama><![CDATA[Bella Notte Siyah Fiyonk Detaylı Önden Yırtmaçlı Şık Gecelik E-5575<br />Materyal:%100 pamuk<br />Bedenler:S-M-L-XL<br />Yıkama Talimatı: 30 derece sıcaklıkta hassas ve tersten yıkama yapınız. Kurutma makinası önerilmez.]]></Aciklama>
+      <Marka>BELLA NOTTE</Marka>
+      <SatisBirimi>ADET</SatisBirimi>
+      <KategoriID>18</KategoriID>
+      <Kategori>Kadın Gecelik</Kategori>
+      <KategoriTree>Kadın İç Giyim/Kadın Gecelik</KategoriTree>
+      <UrunUrl>https://gecelikmagazasi.com/bella-notte-siyah-fiyonk-detayli-onden-yirtmacli-sik-gecelik-e-5575-981</UrunUrl>
+      <OzelAlan2>E-5575 serisi</OzelAlan2>
+      <Resimler>
+        <Resim>https://static.ticimax.cloud/67913/Uploads/UrunResimleri/buyuk/Bella-Notte-Siyah-Fiyonk-Detayli-Onden-Y-292d.jpg</Resim>
+      </Resimler>
+      <UrunSecenek>
+        <Secenek>
+          <VaryasyonID>3243</VaryasyonID>
+          <StokKodu>E-5575.1.S</StokKodu>
+          <Barkod>09864527637268</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="Siyah">Siyah</Ozellik>
+            <Ozellik Tanim="Beden" Deger="S">S</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>3244</VaryasyonID>
+          <StokKodu>E-5575.1.M</StokKodu>
+          <Barkod>0986452763726823</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="Siyah">Siyah</Ozellik>
+            <Ozellik Tanim="Beden" Deger="M">M</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>3245</VaryasyonID>
+          <StokKodu>E-5575.1.L</StokKodu>
+          <Barkod>0986452763726854</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="Siyah">Siyah</Ozellik>
+            <Ozellik Tanim="Beden" Deger="L">L</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+        <Secenek>
+          <VaryasyonID>3246</VaryasyonID>
+          <StokKodu>E-5575.1.XL</StokKodu>
+          <Barkod>0986452763726876</Barkod>
+          <StokAdedi>0</StokAdedi>
+          <AlisFiyati>0,00</AlisFiyati>
+          <SatisFiyati>0,00</SatisFiyati>
+          <IndirimliFiyat>0,00</IndirimliFiyat>
+          <KDVDahil>true</KDVDahil>
+          <KdvOrani>10</KdvOrani>
+          <ParaBirimi>TL</ParaBirimi>
+          <ParaBirimiKodu>TRY</ParaBirimiKodu>
+          <Desi>1</Desi>
+          <EkSecenekOzellik>
+            <Ozellik Tanim="Renk" Deger="Siyah">Siyah</Ozellik>
+            <Ozellik Tanim="Beden" Deger="XL">XL</Ozellik>
+          </EkSecenekOzellik>
+        </Secenek>
+      </UrunSecenek>
+      <TeknikDetaylar />
+    </Urun>
   </Urunler>
   <Markalar>
     <Marka>
